@@ -7,7 +7,7 @@
     {
         "path": "0050-00878-vs-us-stocks-python.html",
         "type": "file",
-        "md5": "216708b6b3311a98e0a8b5e38fd706e2"
+        "md5": "c90366e6a71096e19417454b0a509e28"
     },
     {
         "path": "2026-stock-strategy-0050-backtest.html",
@@ -97,7 +97,7 @@
     {
         "path": "/authors/lao-bing/index.html",
         "type": "file",
-        "md5": "63935f968407b40f81792abc25b7f7e7"
+        "md5": "ae0842edddf1ec5dd19f1a8a3037dc3e"
     },
     {
         "path": "authors/lao-bing/page",
@@ -112,12 +112,12 @@
     {
         "path": "/authors/lao-bing/page/2/index.html",
         "type": "file",
-        "md5": "7ffa6714ad039db8ac40293450f33985"
+        "md5": "4d5aafffb7da262cf087086ae186a77d"
     },
     {
         "path": "buy-dip-vs-market-python-heatmap.html",
         "type": "file",
-        "md5": "ea39b3feb2e3cb30faf86ac4eb0fe5a6"
+        "md5": "e1eaba4a01e98ae073b47f12edbb6b04"
     },
     {
         "path": "dca-vs-buy-the-dip-etf-backtest.html",
@@ -127,22 +127,22 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "9c4e915d5c3cb385c245736ca8979ce4"
+        "md5": "ee1c7e271a50f13282c6ffc8c2cd9d8e"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "a33e4e991a0f5ef4e072964dede43bbc"
+        "md5": "20b9746f584d93fd4497164b2d5fdd70"
     },
     {
         "path": "high-dividend-vs-market-cap-etf.html",
         "type": "file",
-        "md5": "32d4a9b416dd36fc8afdaf1af93baa91"
+        "md5": "72718ec3e64b452f858bd9bf5051ce2a"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f292073ba651f531fa068229cd8d3e6a"
+        "md5": "a59aae96cbecaa390cdb294db6277f05"
     },
     {
         "path": "page",
@@ -157,7 +157,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "86cf89f5b8bbc34512e870bb4be2a048"
+        "md5": "b85bb8192bf1b93fa00760f7461f17d9"
     },
     {
         "path": "replace-win11-cangjie-with-rime.html",
@@ -172,7 +172,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "1898d3dc2d6c8d0c1da1002f0ec66ec9"
+        "md5": "606df7ede4f4c3ce98f096fa4f374aff"
     },
     {
         "path": "sitemap.xsl",
@@ -188,5 +188,10 @@
         "path": "/tags/index.html",
         "type": "file",
         "md5": "d1a15d233ae4f2a30a61c4f1b248307d"
+    },
+    {
+        "path": "three_investors.html",
+        "type": "file",
+        "md5": "51755023edc8897d443f230a45bddffb"
     }
 ]
