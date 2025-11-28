@@ -2,22 +2,22 @@
     {
         "path": "0050-00878-investment-guide.html",
         "type": "file",
-        "md5": "ec41f9065edaf4d4141a13424b538379"
+        "md5": "089c4c8579aa6e0b345cfe3e37ae558a"
     },
     {
         "path": "0050-00878-vs-us-stocks-python.html",
         "type": "file",
-        "md5": "43f333885727c5e99f7a7c8040634a7c"
+        "md5": "216708b6b3311a98e0a8b5e38fd706e2"
     },
     {
         "path": "2026-stock-strategy-0050-backtest.html",
         "type": "file",
-        "md5": "e9297d93c7e8da5a3d4f523716c1a900"
+        "md5": "73a1803fe95fe6dee670ae8818a25675"
     },
     {
         "path": "404.html",
         "type": "file",
-        "md5": "441036d9dc2a2870fd4a3d3483d519ea"
+        "md5": "68112f7651e7ca97de79d8547f865fc2"
     },
     {
         "path": "assets",
@@ -42,7 +42,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "592caddce1919b0ab5f114eb6017c952"
+        "md5": "da1fc31fe4a7e51ac0228eba621711af"
     },
     {
         "path": "assets/dynamic",
@@ -97,7 +97,7 @@
     {
         "path": "/authors/lao-bing/index.html",
         "type": "file",
-        "md5": "aa07f560fdb9a7d1fbf39c3ccac11acf"
+        "md5": "63935f968407b40f81792abc25b7f7e7"
     },
     {
         "path": "authors/lao-bing/page",
@@ -112,17 +112,17 @@
     {
         "path": "/authors/lao-bing/page/2/index.html",
         "type": "file",
-        "md5": "f2b02256a71d53a4bc6cdec69021c54d"
+        "md5": "7ffa6714ad039db8ac40293450f33985"
     },
     {
         "path": "buy-dip-vs-market-python-heatmap.html",
         "type": "file",
-        "md5": "37dc29989955a5ecee8d702eb06edb75"
+        "md5": "ea39b3feb2e3cb30faf86ac4eb0fe5a6"
     },
     {
         "path": "dca-vs-buy-the-dip-etf-backtest.html",
         "type": "file",
-        "md5": "787fec6133a1c49ec88a9aa420734618"
+        "md5": "92e24c29e4a0ff4e22faeb6da9e1a9b5"
     },
     {
         "path": "feed.json",
@@ -137,12 +137,12 @@
     {
         "path": "high-dividend-vs-market-cap-etf.html",
         "type": "file",
-        "md5": "c48b21f4c1268d246a6a9f09a9c68f86"
+        "md5": "32d4a9b416dd36fc8afdaf1af93baa91"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "833dbc5583ef6ee33eb9e083b8817f74"
+        "md5": "f292073ba651f531fa068229cd8d3e6a"
     },
     {
         "path": "page",
@@ -157,12 +157,12 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "2873d2512160e6b767b9869a03a62ccd"
+        "md5": "86cf89f5b8bbc34512e870bb4be2a048"
     },
     {
         "path": "replace-win11-cangjie-with-rime.html",
         "type": "file",
-        "md5": "5b3814e577f025c27a2a58f8b0f9231c"
+        "md5": "c0ac0ecfccb67996567a37d4fff260bc"
     },
     {
         "path": "robots.txt",
@@ -187,6 +187,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "5c431d56987bf2d79b654a23f318a5f9"
+        "md5": "d1a15d233ae4f2a30a61c4f1b248307d"
     }
 ]

@@ -23,14 +23,14 @@ CREDENTIALS_JSON = os.getenv("GOOGLE_CREDENTIALS")
 SHEET_NAME = "訂閱我的電子報"
 
 # --- 信件內容設定 ---
-EMAIL_SUBJECT = "【新文章通知】我的部落格更新囉！"
+EMAIL_SUBJECT = "【新文章通知】科技老兵的生活筆記更新囉！"
 # 建議使用 HTML 讓信件更專業
 EMAIL_CONTENT_HTML = """
 <html>
   <body>
     <h2>👋 哈囉！</h2>
     <p>我的部落格剛發布了一篇新文章，誠摯邀請您來閱讀。</p>
-    <p><a href="https://your-blog-url.com" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">點此閱讀文章</a></p>
+    <p><a href="https://focusonmystory.pages.dev/" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">點此閱讀文章</a></p>
     <hr>
     <p style="font-size: 12px; color: gray;">如果您不想再收到此通知，請回信告知。</p>
   </body>
