@@ -2,22 +2,22 @@
     {
         "path": "0050-00878-investment-guide.html",
         "type": "file",
-        "md5": "089c4c8579aa6e0b345cfe3e37ae558a"
+        "md5": "ead7d4b0d5714b70c4155ac679b2819f"
     },
     {
         "path": "0050-00878-vs-us-stocks-python.html",
         "type": "file",
-        "md5": "c90366e6a71096e19417454b0a509e28"
+        "md5": "7777531a729ec99e10374ac81c605892"
     },
     {
         "path": "2026-stock-strategy-0050-backtest.html",
         "type": "file",
-        "md5": "73a1803fe95fe6dee670ae8818a25675"
+        "md5": "40bf50a8d81eb1c2ca5a74cf61a2df2d"
     },
     {
         "path": "404.html",
         "type": "file",
-        "md5": "68112f7651e7ca97de79d8547f865fc2"
+        "md5": "b873eb8441ca4cb4afb04377553d263b"
     },
     {
         "path": "assets",
@@ -32,17 +32,17 @@
     {
         "path": "/assets/css/editor.css",
         "type": "file",
-        "md5": "4202808df745f2ac7ab250606fa0d272"
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
     },
     {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "56cf2129ad0bc0b59df51905ec6e2d75"
+        "md5": "4df1fb9c96a319117b28baca8ee4cefe"
     },
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "da1fc31fe4a7e51ac0228eba621711af"
+        "md5": "029eb2370a7af7ef05a767dbd4127e64"
     },
     {
         "path": "assets/dynamic",
@@ -57,22 +57,22 @@
     {
         "path": "/assets/js/scripts.js",
         "type": "file",
-        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+        "md5": "840d1d0fb7276666706cba10ebb3b40e"
     },
     {
         "path": "/assets/js/scripts.min.js",
         "type": "file",
-        "md5": "700105c316933a8202041b6415abb233"
+        "md5": "18a65c58aef57c0287e0f0609f3389a9"
     },
     {
         "path": "/assets/js/svg-fix.js",
         "type": "file",
-        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
     },
     {
         "path": "/assets/js/svg-map.js",
         "type": "file",
-        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+        "md5": "9fc67de3715469dc45c582bce11c4eba"
     },
     {
         "path": "assets/svg",
@@ -80,9 +80,14 @@
         "md5": false
     },
     {
+        "path": "/assets/svg/search.svg",
+        "type": "file",
+        "md5": "dcb9af3171e104304c8117f1c118f2e2"
+    },
+    {
         "path": "/assets/svg/svg-map.svg",
         "type": "file",
-        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+        "md5": "bb9e0f5b5c047dfe2eeea9c36390b9f0"
     },
     {
         "path": "authors",
@@ -97,72 +102,42 @@
     {
         "path": "/authors/lao-bing/index.html",
         "type": "file",
-        "md5": "ae0842edddf1ec5dd19f1a8a3037dc3e"
-    },
-    {
-        "path": "authors/lao-bing/page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "authors/lao-bing/page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/lao-bing/page/2/index.html",
-        "type": "file",
-        "md5": "4d5aafffb7da262cf087086ae186a77d"
+        "md5": "d4d359fbda5f37a7b7006c51e5b4a146"
     },
     {
         "path": "buy-dip-vs-market-python-heatmap.html",
         "type": "file",
-        "md5": "e1eaba4a01e98ae073b47f12edbb6b04"
+        "md5": "9abf39ad7f9886a7eb5f97de09cb1b33"
     },
     {
         "path": "dca-vs-buy-the-dip-etf-backtest.html",
         "type": "file",
-        "md5": "92e24c29e4a0ff4e22faeb6da9e1a9b5"
+        "md5": "da385768af43c6dbb125067b277dce70"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "ee1c7e271a50f13282c6ffc8c2cd9d8e"
+        "md5": "0718c85252f3d137db0229e3b5e915de"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "20b9746f584d93fd4497164b2d5fdd70"
+        "md5": "4ad647906b7fb82db803b5085ec7f5a8"
     },
     {
         "path": "high-dividend-vs-market-cap-etf.html",
         "type": "file",
-        "md5": "72718ec3e64b452f858bd9bf5051ce2a"
+        "md5": "8e7f36ca2fbdecec93ccc3b49520fa52"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "a59aae96cbecaa390cdb294db6277f05"
-    },
-    {
-        "path": "page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/2/index.html",
-        "type": "file",
-        "md5": "b85bb8192bf1b93fa00760f7461f17d9"
+        "md5": "3c9a446d7752f409fbfa7e78e93b1639"
     },
     {
         "path": "replace-win11-cangjie-with-rime.html",
         "type": "file",
-        "md5": "c0ac0ecfccb67996567a37d4fff260bc"
+        "md5": "31e9d6f8bc84235073bd52f681c6f3cf"
     },
     {
         "path": "robots.txt",
@@ -172,7 +147,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "606df7ede4f4c3ce98f096fa4f374aff"
+        "md5": "89568188107126fe60b7b0aea508d289"
     },
     {
         "path": "sitemap.xsl",
@@ -187,11 +162,11 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "d1a15d233ae4f2a30a61c4f1b248307d"
+        "md5": "90cf9001e42583d2b6c15acbcecd255b"
     },
     {
         "path": "three_investors.html",
         "type": "file",
-        "md5": "51755023edc8897d443f230a45bddffb"
+        "md5": "61dd50ebdc485130cf71916e6c29890e"
     }
 ]
