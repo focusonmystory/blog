@@ -2,22 +2,22 @@
     {
         "path": "0050-00878-investment-guide.html",
         "type": "file",
-        "md5": "5c0dfca3d6860231788074ae3d6705e0"
+        "md5": "14d0e2430dc7501e4986b0513b1fe44e"
     },
     {
         "path": "0050-00878-vs-us-stocks-python.html",
         "type": "file",
-        "md5": "dd9858e61508f136a8f3de1a963b802f"
+        "md5": "61ab28495a35aa390a192a8d1667b0df"
     },
     {
         "path": "2026-stock-strategy-0050-backtest.html",
         "type": "file",
-        "md5": "02003d311b8bc762fccc95eb8b0b7c37"
+        "md5": "7eed13b8a0d5462e5a5d931afa44ff7d"
     },
     {
         "path": "404.html",
         "type": "file",
-        "md5": "153682840c209815b7f70123e5e6ef03"
+        "md5": "1edc72e01b43ffef6cb9ae9cac162422"
     },
     {
         "path": "assets",
@@ -35,19 +35,14 @@
         "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
     },
     {
-        "path": "/assets/css/fontawesome-all.min.css",
-        "type": "file",
-        "md5": "85514f933f9e0b82460af63f1a403fa5"
-    },
-    {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "7abfb28a4e64cfb459274856301e8bd3"
+        "md5": "4df1fb9c96a319117b28baca8ee4cefe"
     },
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "84a5ece82b39c84c6e0da0d0e84b756b"
+        "md5": "029eb2370a7af7ef05a767dbd4127e64"
     },
     {
         "path": "assets/dynamic",
@@ -60,84 +55,39 @@
         "md5": false
     },
     {
-        "path": "/assets/js/breakpoints.min.js",
+        "path": "/assets/js/scripts.js",
         "type": "file",
-        "md5": "81a479eb099e3b187613943b085923b8"
+        "md5": "840d1d0fb7276666706cba10ebb3b40e"
     },
     {
-        "path": "/assets/js/browser.min.js",
+        "path": "/assets/js/scripts.min.js",
         "type": "file",
-        "md5": "c07298dd19048a8a69ad97e754dfe8d0"
+        "md5": "18a65c58aef57c0287e0f0609f3389a9"
     },
     {
-        "path": "/assets/js/jquery.min.js",
+        "path": "/assets/js/svg-fix.js",
         "type": "file",
-        "md5": "7c14a783dfeb3d238ccd3edd840d82ee"
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
     },
     {
-        "path": "/assets/js/main.js",
+        "path": "/assets/js/svg-map.js",
         "type": "file",
-        "md5": "1d85deb2c27be8b269021c3f4043467e"
+        "md5": "9fc67de3715469dc45c582bce11c4eba"
     },
     {
-        "path": "/assets/js/main.min.js",
-        "type": "file",
-        "md5": "08add7f6d435054ad38ec38d7cf8be40"
-    },
-    {
-        "path": "/assets/js/util.js",
-        "type": "file",
-        "md5": "fd2716a7b68ce7748c9676787b61db43"
-    },
-    {
-        "path": "/assets/js/util.min.js",
-        "type": "file",
-        "md5": "cbdaf7c20ac2883c77ae23acfbabd47e"
-    },
-    {
-        "path": "assets/webfonts",
+        "path": "assets/svg",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/assets/webfonts/fa-brands-400.ttf",
+        "path": "/assets/svg/search.svg",
         "type": "file",
-        "md5": "7d09abecdcbd61d9f7eed02ad7ed9f3e"
+        "md5": "dcb9af3171e104304c8117f1c118f2e2"
     },
     {
-        "path": "/assets/webfonts/fa-brands-400.woff2",
+        "path": "/assets/svg/svg-map.svg",
         "type": "file",
-        "md5": "12129ae64db69ed98868da86ad4542b6"
-    },
-    {
-        "path": "/assets/webfonts/fa-regular-400.ttf",
-        "type": "file",
-        "md5": "49db3589f7cc4e2c2fbd61073450b881"
-    },
-    {
-        "path": "/assets/webfonts/fa-regular-400.woff2",
-        "type": "file",
-        "md5": "1183f80a7de1312c6aaed6cb2040d26b"
-    },
-    {
-        "path": "/assets/webfonts/fa-solid-900.ttf",
-        "type": "file",
-        "md5": "f4242a99ea504fbf8ddefb40c853de4d"
-    },
-    {
-        "path": "/assets/webfonts/fa-solid-900.woff2",
-        "type": "file",
-        "md5": "de8cf878500c5ec452ae912ddb9c7aaa"
-    },
-    {
-        "path": "/assets/webfonts/fa-v4compatibility.ttf",
-        "type": "file",
-        "md5": "d38445641a866e80bccf9cb4c4a03de8"
-    },
-    {
-        "path": "/assets/webfonts/fa-v4compatibility.woff2",
-        "type": "file",
-        "md5": "5f14f683621dbaf2d3644848b74c5a7f"
+        "md5": "bb9e0f5b5c047dfe2eeea9c36390b9f0"
     },
     {
         "path": "authors",
@@ -152,77 +102,47 @@
     {
         "path": "/authors/lao-bing/index.html",
         "type": "file",
-        "md5": "847ccf3f247004a75f4c55416c66c699"
-    },
-    {
-        "path": "authors/lao-bing/page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "authors/lao-bing/page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/lao-bing/page/2/index.html",
-        "type": "file",
-        "md5": "83ccae053490f9eb98d55bce4c8aa1de"
+        "md5": "ba89a15f00c27a357b35458498125974"
     },
     {
         "path": "buy-dip-vs-market-python-heatmap.html",
         "type": "file",
-        "md5": "b6edf32905890461a2777e9cf46672d6"
+        "md5": "7bda804cf7394f0d48d0aa172c24d80f"
     },
     {
         "path": "dca-vs-buy-the-dip-etf-backtest.html",
         "type": "file",
-        "md5": "33ce18d6b6431113eef77e8137357ce5"
+        "md5": "13ab211cf3cb0ed6dc50533bd1dcffa2"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "795c6664e9403efea80d224e9b9f0b50"
+        "md5": "60f81c4e67788a6118c87f9082d79335"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "0cb46bf2dcc656ab670a49a68953f104"
+        "md5": "4366ed7c2786c5647b825f78d5cbf4e2"
     },
     {
         "path": "high-dividend-vs-market-cap-etf.html",
         "type": "file",
-        "md5": "8f2525e65cfd7a650e07e2ca7ea4fa49"
+        "md5": "3d20ae5bd5e1931e3d3829e4b51894db"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "3fb56bb4e4928084d6895c72252f4eb2"
+        "md5": "ae7c2229e4e85cffc732f10b9dfa0c21"
     },
     {
         "path": "major-shareholders-backtest-python.html",
         "type": "file",
-        "md5": "0dd43080cfcb84605a326db37fb1da60"
-    },
-    {
-        "path": "page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/2/index.html",
-        "type": "file",
-        "md5": "78adbb5267157095d05cd8b046ffccbb"
+        "md5": "e0afe456455751e08c8b024f4cb8665f"
     },
     {
         "path": "replace-win11-cangjie-with-rime.html",
         "type": "file",
-        "md5": "d509d368b0d67e80d33d06a96303f709"
+        "md5": "09636d815d603a3f9fe19db1bf1c1186"
     },
     {
         "path": "robots.txt",
@@ -232,7 +152,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "807939a15f1dffc8f7867f6c55c5fa94"
+        "md5": "d11a42652fdcbb906aafb2572e918914"
     },
     {
         "path": "sitemap.xsl",
@@ -247,11 +167,11 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "bedc60ff3f43f3250a5443c2df7fb9b9"
+        "md5": "57e9a2cf15ec430944d40e288c429d37"
     },
     {
         "path": "three_investors.html",
         "type": "file",
-        "md5": "0e76cf32283103d97462a56f621df0de"
+        "md5": "8b3bd2f3acba253941341c00a57880d0"
     }
 ]
