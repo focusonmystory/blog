@@ -2,22 +2,22 @@
     {
         "path": "0050-00878-investment-guide.html",
         "type": "file",
-        "md5": "cea7e7aaea77e152a27af3ff603445ac"
+        "md5": "10d184fa69df9ed42a8fc9db046877d1"
     },
     {
         "path": "0050-00878-vs-us-stocks-python.html",
         "type": "file",
-        "md5": "c198cda0149d90e4499fe6b50c4941a3"
+        "md5": "596888b95f56407ddd34e2f2e2341e40"
     },
     {
         "path": "2026-stock-strategy-0050-backtest.html",
         "type": "file",
-        "md5": "52343eacc6a91292d7d865dcb1f611bb"
+        "md5": "adb6f2c35e6dd1c35700b88715bb5c70"
     },
     {
         "path": "404.html",
         "type": "file",
-        "md5": "b0efe02933b5d9e7268446f276d86c54"
+        "md5": "2d8239e546d7bb882e5ebc51e484e737"
     },
     {
         "path": "assets",
@@ -102,7 +102,7 @@
     {
         "path": "/authors/lao-bing/index.html",
         "type": "file",
-        "md5": "30048d58bbe5a00292992f3a5bd8c6d6"
+        "md5": "01ac5bc7c76d02f3288647e6dd94de0b"
     },
     {
         "path": "authors/lao-bing/page",
@@ -117,42 +117,42 @@
     {
         "path": "/authors/lao-bing/page/2/index.html",
         "type": "file",
-        "md5": "29697534fcb73c3d69af8c3f42a23576"
+        "md5": "e690dacde1a52be1421d3b68d8fc243d"
     },
     {
         "path": "buy-dip-vs-market-python-heatmap.html",
         "type": "file",
-        "md5": "0ff3d5b237360052259e6d233464c2d2"
+        "md5": "ca51670475b1df36176b546f707a7f42"
     },
     {
         "path": "dca-vs-buy-the-dip-etf-backtest.html",
         "type": "file",
-        "md5": "f5fb9f090dd5192e52e8ec1f7538a02d"
+        "md5": "86740ecf0e9b752c665d93e9ef523d85"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "8d143d3d7d760d1f545c498c92fe0f56"
+        "md5": "53750fac5c6c1f00a2843aa4fdd31951"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "acb239906178e23358c68aba1f64be76"
+        "md5": "a5033e0c876a152a86e9a7e8a8339783"
     },
     {
         "path": "high-dividend-vs-market-cap-etf.html",
         "type": "file",
-        "md5": "3650ccba4a0337fb086a00d1fac55a4d"
+        "md5": "5978e89b8c8b8365cd28084840ecb83e"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "ad538fd02bfb98e02b512c928eaddf78"
+        "md5": "1bb47fd54b96605f43f0f0726758cbc2"
     },
     {
         "path": "major-shareholders-backtest-python.html",
         "type": "file",
-        "md5": "670dca53a59eca16270ef5c74d48ad0b"
+        "md5": "f62433eed4108e44320b023c1cc4f797"
     },
     {
         "path": "media",
@@ -335,6 +335,51 @@
         "md5": "e23be40054aab1c316ade3b01adc1a40"
     },
     {
+        "path": "media/posts/14",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/optimization_result.png",
+        "type": "file",
+        "md5": "21b8b3d3a63149c187559a671105caa4"
+    },
+    {
+        "path": "media/posts/14/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/responsive/optimization_result-2xl.png",
+        "type": "file",
+        "md5": "712c819e9dff0ee7cada0ee6b7568499"
+    },
+    {
+        "path": "/media/posts/14/responsive/optimization_result-lg.png",
+        "type": "file",
+        "md5": "712c819e9dff0ee7cada0ee6b7568499"
+    },
+    {
+        "path": "/media/posts/14/responsive/optimization_result-md.png",
+        "type": "file",
+        "md5": "c83f4e388e8ab485ef309b155c80dd47"
+    },
+    {
+        "path": "/media/posts/14/responsive/optimization_result-sm.png",
+        "type": "file",
+        "md5": "a4d133856caf0a02ba736b68da179466"
+    },
+    {
+        "path": "/media/posts/14/responsive/optimization_result-xl.png",
+        "type": "file",
+        "md5": "712c819e9dff0ee7cada0ee6b7568499"
+    },
+    {
+        "path": "/media/posts/14/responsive/optimization_result-xs.png",
+        "type": "file",
+        "md5": "3afb88d9d14090de2bb66b1af6962d9c"
+    },
+    {
         "path": "page",
         "type": "directory",
         "md5": false
@@ -347,17 +392,17 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "b624e6db3032d9851290eaee73802fca"
+        "md5": "09d5daa811a9e402243f07ab3eb5867f"
     },
     {
         "path": "python-stock-seasonality-backtest.html",
         "type": "file",
-        "md5": "48b5638a3b61dc30609f950bea33b9d3"
+        "md5": "6f359b59e76615de0a876123e50e269e"
     },
     {
         "path": "replace-win11-cangjie-with-rime.html",
         "type": "file",
-        "md5": "676a01a56c6676425e0faf3ece66cf59"
+        "md5": "eea31f2249d4c0f0d5b8b585e5e48e1c"
     },
     {
         "path": "robots.txt",
@@ -367,7 +412,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "b4aa3a6a5c607de7ec3622bcd37076cb"
+        "md5": "5c0cfd8411fa0766244bd833183dd8e4"
     },
     {
         "path": "sitemap.xsl",
@@ -382,26 +427,31 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "28bc7b9940d9e5466041240b6026f03f"
+        "md5": "2e18b4dbb9aec0245f1efaa2978d93ba"
     },
     {
         "path": "tai-gu-da-shu-ju-jun-xian-jiu-jie-tu-po-jiu-hui-penwo-yong-python-pao-liao-shu-qian-wan-ci-yun-suanjie-luxi-pan-qi-de-can-ku-zhen-xiang.html",
         "type": "file",
-        "md5": "ef6eb0cdf8ff3e3eb98c18f79254ff01"
+        "md5": "f88b1fc13ff5993102ccf54617856cf9"
+    },
+    {
+        "path": "the-40-drop-golden-rule-for-buying-stocks.html",
+        "type": "file",
+        "md5": "515f88c839d85d95b7af5638c8ab1bb1"
     },
     {
         "path": "three_investors.html",
         "type": "file",
-        "md5": "025411fc133d26cc86cd971aa8167334"
+        "md5": "a9473e76d48adc706fc961d6c99c2d48"
     },
     {
         "path": "trend-following-breakout-strategy-backtest.html",
         "type": "file",
-        "md5": "9b26f5c6886e2532f0b3a8c5100b3510"
+        "md5": "5c88a8bc2650718ed161b5b2abc0a103"
     },
     {
         "path": "trust-buying-backtest-strategy.html",
         "type": "file",
-        "md5": "512f810e898a7129eb6329b9d46de0fd"
+        "md5": "2e1a0003a0a0baa35e254ff51600dcc8"
     }
 ]
