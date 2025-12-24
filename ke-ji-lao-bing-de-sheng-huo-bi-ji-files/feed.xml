@@ -3,12 +3,181 @@
     <title>科技老兵的生活筆記</title>
     <link href="https://focusonmystory.pages.dev/feed.xml" rel="self" />
     <link href="https://focusonmystory.pages.dev" />
-    <updated>2025-12-16T21:37:42+08:00</updated>
+    <updated>2025-12-24T21:59:46+08:00</updated>
     <author>
         <name>老兵</name>
     </author>
     <id>https://focusonmystory.pages.dev</id>
 
+    <entry>
+        <title>【台股量化回測】營收動能策略 11年1640%報酬：2022空頭年+27%的秘密</title>
+        <author>
+            <name>老兵</name>
+        </author>
+        <link href="https://focusonmystory.pages.dev/revenue-momentum-strategy-backtest-taiwan-stock.html"/>
+        <id>https://focusonmystory.pages.dev/revenue-momentum-strategy-backtest-taiwan-stock.html</id>
+
+        <updated>2025-12-24T21:59:46+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    ⚠️ 聲明與資格揭露 非投資建議：本文僅為歷史回測研究，並非個股推薦。 風險自負：實際執行需自行承擔市場風險與交易成本。 資格聲明：作者非持照證券分析師 (CSIA)，觀點僅供學術交流。 📌 TL;DR（30秒快速版） 驚人績效：11年總報酬 1640%，年化 29.1%（vs 大盤 15%）。 抗空頭能力：2022 空頭年大盤跌 -14.8%，本策略獲利 +27.6%。 高風險：歷史最大回撤 (MDD) 達 -29.5%。 高門檻：資金門檻建議 50萬 以上、月換手率 87%。 適合對象：有紀律、能承受波動、願意每月定期調整持股的投資人。 1. 前言：量化交易者的懺悔 在上一篇文章 《為什麼營收成長策略在急跌抄底中失效？》 裡，我做了一個殘酷的實驗。當時我認為「營收創新高」是公司的護身符，試圖在股價急殺（Deep Drop）時進場抄底。 結果是慘烈的。數據狠狠打了我一巴掌：財報數據有「滯後性」(Lag Effect)。 當你看到好消息才進場接刀子，往往只會接到滿手血。 我當時的結論是：拿「月單位」的營收數據，去預測「日單位」的股價反彈，是時間維度上的錯配。但，這是否代表營收成長股在交易上毫無用處？錯了。數據沒問題，是我的用法有問題。 之前的失敗，是因為我拿「月曆」去幫「百米賽跑」計時。這次，我修正了假設：既然營收是低頻數據（一個月一次），我們就該配合低頻操作（做波段趨勢）。 我不再試圖預測「底部在哪裡」，而是等待「趨勢形成」。 為了證明這不是自我安慰，我用 Python 跑了台股過去 11 年的歷史回測。為了避免常見的回測陷阱，我加入了極其嚴苛的「現實條件」： 為了讓大家更清楚這套策略如何運作，我繪製了從「資料公告」到「進出場」的完整流程圖： 💡&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="container">
+<div class="disclaimer"><strong>⚠️ 聲明與資格揭露</strong>
+<ul style="margin: 5px 0 0 0; padding-left: 20px;">
+<li><strong>非投資建議</strong>：本文僅為歷史回測研究，並非個股推薦。</li>
+<li><strong>風險自負</strong>：實際執行需自行承擔市場風險與交易成本。</li>
+<li><strong>資格聲明</strong>：作者<span style="color: #e03e2d;"><strong>非</strong></span>持照證券分析師 (CSIA)，觀點僅供學術交流。</li>
+</ul>
+</div>
+<div class="tldr-box"><span class="tldr-title">📌 TL;DR（30秒快速版）</span>
+<ul class="check-list">
+<li><strong>驚人績效</strong>：11年總報酬 <strong>1640%</strong>，年化 <strong>29.1%</strong>（vs 大盤 15%）。</li>
+<li><strong>抗空頭能力</strong>：2022 空頭年大盤跌 -14.8%，本策略獲利 <strong>+27.6%</strong>。</li>
+</ul>
+<ul class="risk-list">
+<li><strong>高風險</strong>：歷史最大回撤 (MDD) 達 <strong>-29.5%</strong>。</li>
+<li><strong>高門檻</strong>：資金門檻建議 <strong>50萬</strong> 以上、月換手率 <strong>87%</strong>。</li>
+<li><strong>適合對象</strong>：有紀律、能承受波動、願意每月定期調整持股的投資人。</li>
+</ul>
+</div>
+<article>
+<h2>1. 前言：量化交易者的懺悔</h2>
+<p>在上一篇文章 <a href="https://focusonmystory.pages.dev/why-revenue-growth-fails-trading" target="_blank" rel="noopener">《為什麼營收成長策略在急跌抄底中失效？》</a> 裡，我做了一個殘酷的實驗。當時我認為「營收創新高」是公司的護身符，試圖在股價急殺（Deep Drop）時進場抄底。</p>
+<p>結果是慘烈的。數據狠狠打了我一巴掌：<strong>財報數據有「滯後性」(Lag Effect)。</strong> 當你看到好消息才進場接刀子，往往只會接到滿手血。</p>
+<p>我當時的結論是：拿「月單位」的營收數據，去預測「日單位」的股價反彈，是時間維度上的錯配。但，這是否代表<strong>營收成長股</strong>在交易上毫無用處？<strong>錯了。數據沒問題，是我的用法有問題。</strong></p>
+<h2>2. 觀念轉折：不要接刀，去衝浪</h2>
+<p>之前的失敗，是因為我拿「月曆」去幫「百米賽跑」計時。這次，我修正了假設：<strong>既然營收是低頻數據（一個月一次），我們就該配合低頻操作（做波段趨勢）。</strong></p>
+<p>我不再試圖預測「底部在哪裡」，而是等待「趨勢形成」。</p>
+<ul>
+<li>❌ <strong>舊邏輯（逆勢）</strong>：營收好 + 股價跌深 = 價值浮現（結果：越攤越平）</li>
+<li>✅ <strong>新邏輯（順勢）</strong>：營收好 + 股價剛突破/均線多頭 = 成長確認（結果：坐上噴射機）</li>
+</ul>
+<h2>3. 證據說話：11 年的台股回測壓力測試</h2>
+<p>為了證明這不是自我安慰，我用 Python 跑了台股過去 11 年的歷史回測。為了避免常見的回測陷阱，我加入了極其嚴苛的<strong>「現實條件」</strong>：</p>
+<blockquote><strong>【回測條件：營收動能現實版】</strong><br>
+<ul>
+<li><strong>回測期間</strong>：2014/01 ～ 2025/11（以最新完整數據為準）。</li>
+<li><strong>前視偏差檢查</strong>：營收通常於每月 10 日公布，本策略設定於 <strong>每月 15 日</strong> 進行交易，確保數據已完全公開。</li>
+<li><strong>選股池</strong>：台股全體上市櫃。</li>
+<li><strong>基本面濾網</strong>：單月營收創近 12 個月新高 且 年增率 (YoY) &gt; 20%。</li>
+<li><strong>技術面濾網</strong>：股價 &gt; 5日 &gt; 20日 &gt; 60日 &gt; 120日均線 (<strong>四海遊龍多頭排列</strong>)。</li>
+<li><strong>股性濾網</strong>：只買股價 <strong>15~100元</strong> 的股票（避開大牛股，鎖定中小型爆發股）。</li>
+<li><strong>現實設定</strong>：<strong>扣除 0.5% 交易成本</strong>，並考慮 <strong>滑價 (Slippage)</strong> 與 <strong>跳空跌停</strong> 風險。</li>
+</ul>
+</blockquote>
+<h3>3.5 策略執行流程一覽</h3>
+<p>為了讓大家更清楚這套策略如何運作，我繪製了從「資料公告」到「進出場」的完整流程圖：</p>
+<figure class="post__image"><img loading="lazy" src="https://focusonmystory.pages.dev/media/posts/17/strategy_flowchart.png" alt="" width="780" height="600" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/17/responsive/strategy_flowchart-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/17/responsive/strategy_flowchart-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/17/responsive/strategy_flowchart-md.png 768w ,https://focusonmystory.pages.dev/media/posts/17/responsive/strategy_flowchart-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/17/responsive/strategy_flowchart-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/17/responsive/strategy_flowchart-2xl.png 1600w">
+<figcaption>圖 1：營收動能策略執行流程示意圖</figcaption>
+</figure>
+<p><strong>💡 重點提醒：</strong></p>
+<ul>
+<li><strong>每月 15 號</strong>是關鍵時間點（營收已公告 5 天，資料庫已確認更新）。</li>
+<li>策略不是「買了就抱」，而是<strong>每月重新檢視</strong>。</li>
+<li>若股票不再符合條件（例如跌破均線或營收衰退），立即賣出換股。</li>
+</ul>
+<h2>4. 結果揭曉：2022空頭年的奇蹟</h2>
+<p>回測結果出來時，我看著螢幕愣住了。這套<strong>營收成長股策略</strong>在空頭年的表現令人驚艷。</p>
+<figure class="post__image"><img loading="lazy" src="https://focusonmystory.pages.dev/media/posts/17/yearly_return_evidence.png" alt="" width="1202" height="1266" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/17/responsive/yearly_return_evidence-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/17/responsive/yearly_return_evidence-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/17/responsive/yearly_return_evidence-md.png 768w ,https://focusonmystory.pages.dev/media/posts/17/responsive/yearly_return_evidence-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/17/responsive/yearly_return_evidence-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/17/responsive/yearly_return_evidence-2xl.png 1600w"><br>
+<figcaption>圖 2：策略 vs 0050 年度報酬率比較圖 (2014-2025)</figcaption>
+</figure>
+<div style="background-color: #f1f8ff; padding: 15px; border-radius: 5px; margin-bottom: 20px;"><strong>📊 終極對決數據 (2014-2025)</strong>
+<ul>
+<li><strong>0050 ETF (大盤)</strong>：總報酬 <strong>570.7%</strong> (資產翻 6.7 倍)</li>
+<li><strong>本策略 (現實版)</strong>：總報酬 <strong>1640.5%</strong> (資產翻 17.4 倍)</li>
+<li><strong>年化報酬 (CAGR)</strong>：策略 <strong>29.1%</strong> vs 大盤 15%</li>
+</ul>
+</div>
+<h3>💀 最精彩的戰役：2022 年</h3>
+<p>這張成績單最讓我震撼的不是總報酬，而是 <strong>2022 年</strong>。當年 <strong>0050 ETF</strong> 慘賠了 <strong>-14.8%</strong>，但這套策略居然能<strong>維持 +27.6% 的正報酬</strong>。</p>
+<p><strong>是運氣嗎？是靠單一檔妖股救全家嗎？</strong>我深入檢查了 2022 年的持股分佈。真正的獲利來源是<strong>「板塊自動輪動」</strong>：</p>
+<table><caption>🏆 2022 年逆勢獲利英雄榜 (Top 5)</caption>
+<thead>
+<tr>
+<th>日期</th>
+<th>代號</th>
+<th>名稱</th>
+<th>報酬率</th>
+<th>關鍵背景</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07-15</td>
+<td>2364</td>
+<td>倫飛</td>
+<td class="status-win">+96.4%</td>
+<td>軍規筆電轉機，脫鉤半導體</td>
+</tr>
+<tr>
+<td>07-15</td>
+<td>3494</td>
+<td>誠研</td>
+<td class="status-win">+56.7%</td>
+<td>疫情解封與利基型轉機</td>
+</tr>
+<tr>
+<td>05-16</td>
+<td>4116</td>
+<td>明基醫</td>
+<td class="status-win">+50.7%</td>
+<td>生技醫療，資金避風港</td>
+</tr>
+<tr>
+<td>03-15</td>
+<td>1708</td>
+<td>東鹼</td>
+<td class="status-win">+50.7%</td>
+<td>俄烏戰爭導致肥料飆漲</td>
+</tr>
+<tr>
+<td>08-15</td>
+<td>3454</td>
+<td>晶睿</td>
+<td class="status-win">+45.5%</td>
+<td>國防授權法轉單效應</td>
+</tr>
+</tbody>
+</table>
+<h2>5. 陰暗面揭露：它什麼時候會賠錢？</h2>
+<p>我必須誠實地展示這個策略的弱點。沒有策略是完美的。</p>
+<ul>
+<li><strong>❌ 極端崩盤風險 (2020/03)</strong>：策略 MDD 達 -29.5%。流動性枯竭時，實際賣出價可能遠低於預期。</li>
+<li><strong>❌ 盤整雙巴 (2018)</strong>：動能策略最怕忽漲忽跌。當股價剛突破均線買進，下個月又跌破賣出，手續費會大量侵蝕本金。</li>
+</ul>
+<h2>6. 這不就是一支個人的 ETF 嗎？</h2>
+<p>讀者可能會問：「每個月這樣買進賣出，這不就是一支 ETF 嗎？」<strong>沒錯，這正是一支由你親自操盤的「Smart Beta (策略型) ETF」。</strong></p>
+<div style="background-color: #fff3cd; padding: 15px; border-radius: 5px; border: 1px solid #ffeeba;"><strong>【策略 Fact Sheet】</strong>
+<ul>
+<li><strong>平均持股檔數</strong>：10.5 檔 (分散風險)。</li>
+<li><strong>月均換手率</strong>：<strong>87.6%</strong>。</li>
+</ul>
+</div>
+<p><strong>87.6% 的換手率</strong> 是雙面刃。它代表極度無情的汰弱留強，但也代表你需要支付高昂的交易成本。</p>
+<h2>7. 結論：數據是無辜的</h2>
+<p>這篇台股回測證明了，「基本面選股 + 技術面操作」依然是散戶最強大的武器。營收數據非常有用，但前提是：<strong>不要用來抄底，要用來順勢助攻。</strong></p>
+<p><strong>這套策略不是聖杯</strong>。如果不扣成本，它的回測報酬率高達 6000%，但現實中我們只拿到了 1640%。這中間消失的獲利提醒我們：<strong>「忽視成本的回測，毫無價值。」</strong></p>
+<hr>
+<h2>❓ 常見問題 FAQ</h2>
+<p><strong>Q1: 為什麼不公開完整 Python 程式碼？</strong><br>A: 本文重點在於驗證「營收+動能」的邏輯有效性。邏輯已完全公開，具備基礎的讀者可輕易重現。</p>
+<p><strong>Q2: 我資金只有 20 萬，可以操作嗎？</strong><br>A: <strong>不建議。</strong> 20 萬只能買 2-3 檔股票，風險過度集中。</p>
+<div style="background-color: #f8f9fa; padding: 20px; margin-top: 30px; border-radius: 8px;">
+<h3>💡 量化小辭典 (Glossary)</h3>
+<ul style="padding-left: 20px;">
+<li><strong>最大回撤 (MDD)</strong>：從歷史最高點到之後最低點的最大累積跌幅。<br><em>範例：帳戶從 100萬 漲到 150萬 (高點)，後跌到 105萬 (低點)。MDD = (105-150)/150 = -30%。</em></li>
+<li><strong>前視偏差 (Look-ahead Bias)</strong>：回測時偷用了「當時還不知道」的未來數據。</li>
+<li><strong>Smart Beta</strong>：結合「主動選股邏輯」與「被動指數化操作」的投資方式。</li>
+</ul>
+</div>
+</article>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>【打臉實驗】我用「營收濾網」想賺更多，結果少賺 40%...跌深反彈策略的殘酷真相</title>
         <author>
@@ -1818,144 +1987,6 @@
 </ol>
 </div>
 <p style="font-size: 0.8em; color: #999; margin-top: 40px; text-align: center;">⚠️ <strong>最後提醒：</strong>不要因為看到某檔股票的歷史勝率高，就無腦梭哈。市場會變，過去有效的訊號未來可能失效。分散投資 + 紀律執行，永遠比找到「完美策略」更重要。</p>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>養了多年的金雞母（高股息），該不該換成千里馬（市值型）？兩張圖帶你闖關破解迷思（完整攻略版）</title>
-        <author>
-            <name>老兵</name>
-        </author>
-        <link href="https://focusonmystory.pages.dev/high-dividend-vs-market-cap-etf.html"/>
-        <id>https://focusonmystory.pages.dev/high-dividend-vs-market-cap-etf.html</id>
-
-        <updated>2025-11-25T21:22:29+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    【Python回測】0050配00878是完美組合？數據揭露「11%黃金比例」背後的巨大陷阱 如果你也正要存股，你一定也卡在「月經題」： 「0050 好？還是 00878 香？」 「小孩才做選擇！那我 50/50 一半一半總可以吧？」 我不想用「猜」的。我花了幾週，用 Python 寫程式跑了一系列實驗，就是想找出「最佳比例」。 結果，我真的跑出了一個「11% 0050 + 89% 00878」的黃金比例。但就在我興奮的同時，我發現... 這組數字，是一個巨大的陷阱。 這篇文章，就是我從「興奮」到「冷汗直流」的全紀錄。 首先，我定義了兩種存法： 結論： 不意外，「S2 聰明存」的績效，打趴了「S1 傻傻存」。 程式跑 S2 績效超好，因為它是「上帝視角」，沒有情緒。但你想想 2022 年 10 月，股市跌到 1 萬 2，你帳戶賠了 -25%... S2 策略的成功，50% 靠策略，50% 靠你敢不敢在恐慌時「按下加碼鈕」的勇氣。 請誠實回答： 如果以上任一答案是「會」，那「S1 傻傻存」可能更適合你。 好，既然決定用「S2 聰明存」，那用在哪支 ETF&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 1.8; color: #333; font-size: 18px;">
-<h1 style="text-align: center; font-size: 1.6em; color: #2c3e50; font-weight: bold; border-bottom: 4px solid #007bff; padding-bottom: 15px; margin-bottom: 20px;">【Python回測】0050配00878是完美組合？數據揭露「11%黃金比例」背後的巨大陷阱</h1>
-<p>如果你也正要存股，你一定也卡在「月經題」：</p>
-<div style="background-color: #f5f5f5; border-left: 5px solid #666; padding: 15px; margin: 20px 0; font-style: italic; color: #555;">
-<p style="margin: 0;">「0050 好？還是 00878 香？」<br>「小孩才做選擇！那我 50/50 一半一半總可以吧？」</p>
-</div>
-<p>我不想用「猜」的。我花了幾週，用 Python 寫程式跑了一系列實驗，就是想找出「最佳比例」。</p>
-<p>結果，我真的跑出了一個「11% 0050 + 89% 00878」的黃金比例。但就在我興奮的同時，我發現... <strong style="background: linear-gradient(to top, #ffeb3b 50%, transparent 50%);">這組數字，是一個巨大的陷阱。</strong></p>
-<p>這篇文章，就是我從「興奮」到「冷汗直流」的全紀錄。</p>
-<h2 style="color: #2c3e50; border-bottom: 2px solid #007bff; padding-bottom: 10px; margin-top: 40px;">🧪 實驗 1：你還在「傻傻存」嗎？</h2>
-<p>首先，我定義了兩種存法：</p>
-<ul style="background-color: #e6f7ff; padding: 20px 20px 20px 40px; border-radius: 8px; border: 1px solid #91d5ff;">
-<li style="margin-bottom: 10px;"><strong>S1 (傻傻存)：</strong> 每月第一個交易日，固定丟 5,000 元。</li>
-<li><strong>S2 (聰明存)：</strong> 每月第一個交易日丟 5,000 元 + 當股價「跌很慘」時，我再補一槍 5,000 元。<br><span style="font-size: 0.9em; color: #666;">(P.S.「跌很慘」我是用 KD&lt;15 當訊號，KD 是一種技術指標，&lt;15 通常代表「短期跌過頭」)</span></li>
-</ul>
-<p><strong>結論：</strong> 不意外，「S2 聰明存」的績效，打趴了「S1 傻傻存」。</p>
-<div style="border: 2px solid #ffccc7; background-color: #fff1f0; padding: 20px; border-radius: 8px; margin-top: 20px;">
-<h4 style="color: #cf1322; margin-top: 0;">⚠️ 專家的第一個警告：回測是上帝，你是凡人</h4>
-<p>程式跑 S2 績效超好，因為它是「上帝視角」，沒有情緒。但你想想 2022 年 10 月，股市跌到 1 萬 2，你帳戶賠了 -25%...</p>
-<ul>
-<li><strong>程式：</strong> 「KD&lt;15！執行加碼！」</li>
-<li><strong>凡人你我：</strong> 「靠...好恐怖，先停損好了...」</li>
-</ul>
-<p style="margin-bottom: 0;">S2 策略的成功，50% 靠策略，50% 靠你敢不敢在恐慌時「按下加碼鈕」的勇氣。</p>
-</div>
-<div style="background-color: #f9f9f9; border: 1px dashed #999; padding: 15px; margin-top: 20px; border-radius: 5px;"><strong style="color: #333;">🧠 【你真的能執行 S2 嗎？自我檢測】</strong>
-<p>請誠實回答：</p>
-<ul style="list-style-type: none; padding-left: 10px;">
-<li>□ 2022 年 10 月台股跌破 1 萬 2 時，你會恐慌賣出嗎？</li>
-<li>□ 當你帳面虧損 -30% 時，你還敢「加碼」嗎？</li>
-<li>□ 看到朋友炫耀「我都買 00940 賺 50%」，你會動搖嗎？</li>
-</ul>
-<p style="font-weight: bold; color: #d32f2f; margin-bottom: 0;">如果以上任一答案是「會」，那「S1 傻傻存」可能更適合你。</p>
-</div>
-<h2 style="color: #2c3e50; border-bottom: 2px solid #007bff; padding-bottom: 10px; margin-top: 40px;">🧪 實驗 2：「高股息」大 PK，新生代 vs 老前輩</h2>
-<p>好，既然決定用「S2 聰明存」，那用在哪支 ETF 最好？我抓了 2021 年以後的數據，跑了 68 支 ETF，結果很有趣：</p>
-<div style="background-color: #fff; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; margin-bottom: 20px;">
-<div style="padding: 15px; border-bottom: 1px solid #eee;"><span style="font-size: 1.2em;">🏆 <strong>市值型 (S2)：</strong> <code style="background: #eee; padding: 2px 5px; border-radius: 3px;">0050</code></span><br><span style="color: #d32f2f; font-weight: bold; float: right;">平均年成長 10.9%</span>
-<div style="clear: both;"> </div>
-</div>
-<div style="padding: 15px; border-bottom: 1px solid #eee; background-color: #fcfcfc;"><span style="font-size: 1.2em;">🥈 <strong>新生代高股息 (S2)：</strong> <code style="background: #eee; padding: 2px 5px; border-radius: 3px;">00878</code></span><br><span style="color: #d32f2f; font-weight: bold; float: right;">平均年成長 9.8%</span>
-<div style="clear: both;"> </div>
-</div>
-<div style="padding: 15px;"><span style="font-size: 1.2em;">🥉 <strong>老前輩高股息 (S2)：</strong> <code style="background: #eee; padding: 2px 5px; border-radius: 3px;">0056</code></span><br><span style="color: #666; font-weight: bold; float: right;">平均年成長 5.7%</span>
-<div style="clear: both;"> </div>
-</div>
-</div>
-<div style="border: 2px solid #ffccc7; background-color: #fff1f0; padding: 20px; border-radius: 8px; margin-top: 20px;">
-<h4 style="color: #cf1322; margin-top: 0;">⚠️ 專家的第二個警告：別被「第一名」騙了</h4>
-<p>這數據證明「00878 完勝 0056」嗎？<br><strong>不。這叫「只看第一名，忘了它沒考過期中考」。</strong></p>
-<ul>
-<li><strong>00878 (新生代)：</strong> 2020 年才出生，它完美避開了 2008 金融海嘯、2011 歐債等最難的考試。</li>
-<li><strong>0056 (老前輩)：</strong> 可是從 2008 年一路考過來的，成績單當然比較難看。</li>
-</ul>
-<p style="margin-bottom: 0;">所以，00878 只是「這 5 年」表現比較好，不代表它「永遠」比較強。</p>
-</div>
-<h2 style="color: #2c3e50; border-bottom: 2px solid #007bff; padding-bottom: 10px; margin-top: 40px;">🧪 實驗 3：「11% / 89%」黃金比例的陷阱</h2>
-<p>OK，我們有了 S2 策略下的兩位冠軍：<code>0050</code> 和 <code>00878</code>。那 50/50 最好嗎？我讓電腦跑了 20,000 種組合，去找出「<strong>投資 CP 值</strong>」最高的比例。</p>
-<div style="text-align: center; padding: 20px; background-color: #fffbe6; border: 2px solid #ffe58f; border-radius: 8px; margin: 20px 0;">
-<h3 style="margin: 0; color: #b7950b;">🥇 電腦算出的最佳 CP 值配置</h3>
-<p style="font-size: 1.5em; font-weight: bold; color: #333; margin: 10px 0;">11.3% <span style="color: #007bff;">0050</span> + 88.7% <span style="color: #28a745;">00878</span></p>
-<p style="font-size: 0.9em; color: #666;">(統計區間：2021-2025)</p>
-</div>
-<div style="border: 2px solid #ffccc7; background-color: #fff1f0; padding: 20px; border-radius: 8px; margin-top: 20px;">
-<h4 style="color: #cf1322; margin-top: 0;">⚠️ 專家的第三個警告：這叫「考前猜題」</h4>
-<p>這 11/89 的比例，就是投資上最大的陷阱：<strong>「過度配適」(Overfitting)</strong>。</p>
-<ul>
-<li><strong>白話文：</strong> 你拿 2021-2025 年的「考卷」去回測，電腦當然能幫你算出 100 分的「答案」。</li>
-<li><strong>但 2026 年呢？</strong> 考卷一換（市場風格變了），你這組「答案」可能就 0 分了。</li>
-</ul>
-<p>電腦之所以算出 11/89，是因為它發現這 5 年 <code>00878</code> 超級穩定，而 <code>0050</code> 波動大。所以它的策略是：<strong>用 89% 的 00878 當地基，再灑 11% 的 0050 當火箭燃料</strong>。</p>
-</div>
-<h2 style="color: #2c3e50; border-bottom: 2px solid #007bff; padding-bottom: 10px; margin-top: 40px;">💡 真正的啟示：我們到底該怎麼做？</h2>
-<p>這趟實驗跑下來，我發現那個 11/89 的數字一點也不重要。真正重要的是這 4 件事：</p>
-<h3 style="color: #0056b3; margin-top: 30px;">1. 策略比標的更重要</h3>
-<p>「S2 聰明存」的策略（跌深加碼），遠比你糾結 0050 還是 00878 重要。（前提是你做得到）</p>
-<h3 style="color: #0056b3; margin-top: 30px;">2. 接受「模糊的正確」</h3>
-<p>拋棄那個 11/89 的精準數字。我們只學到一個大方向：<strong>「以穩健的高股息為主體，搭配少量的市值型來衝刺」</strong>可能是一個好主意。</p>
-<h3 style="color: #0056b3; margin-top: 30px;">3. 你必須「修剪花圃」(再平衡)</h3>
-<p>這非常、非常重要。就算你決定用 80/20 的比例，一年後 0050 大漲，比例變 70/30 怎麼辦？你必須<strong>「再平衡」</strong>：</p>
-<div style="background-color: #f0f7ff; border: 1px solid #b3d7ff; border-radius: 8px; padding: 20px; margin: 20px 0;">
-<h4 style="margin-top: 0; color: #0056b3;">🛠️ 手把手教學：再平衡怎麼做？</h4>
-<p><strong>情境：</strong> 你原本投入 10 萬元，配置是 <span style="color: #28a745;">80% 00878</span> (8萬) + <span style="color: #007bff;">20% 0050</span> (2萬)。</p>
-<hr style="border: 0; border-top: 1px dashed #99caff; margin: 15px 0;">
-<p><strong>一年後發生了什麼事？</strong></p>
-<ul>
-<li><code>00878</code> 漲到 9 萬 (+12.5%)</li>
-<li><code>0050</code> 暴漲到 3 萬 (+50%)</li>
-<li><strong>總資產變成了：12 萬</strong></li>
-</ul>
-<p><strong>問題來了：</strong><br>此時你的比例變成 <code>9萬 / 3萬</code> = <strong>75% / 25%</strong>，偏離了原本設定的 80/20。</p>
-<p><strong>你需要採取的行動 (Target: 80% of 12萬 = 9.6萬)：</strong></p>
-<ol>
-<li style="margin-bottom: 5px;">賣掉 <strong>6,000 元</strong> 的 <code>0050</code> (它漲太多了，從 3 萬變 2.4 萬)。</li>
-<li>把這 6,000 元拿去買 <code>00878</code> (從 9 萬補到 9.6 萬)。</li>
-</ol>
-<p style="background-color: #fff; padding: 10px; border-radius: 5px; text-align: center; font-weight: bold; color: #0056b3;">這就是「強迫自己賣高買低」。建議每年做 1 次。</p>
-</div>
-<h3 style="color: #0056b3; margin-top: 30px;">4. 別把雞蛋都放 00878</h3>
-<p><strong>⚠️ 00878 不是永遠的神：</strong> 回測叫我們 89% 壓 00878，但它的成分股高度集中在「金融股」與「傳產股」。如果未來 10 年金融業低迷，資產也會跟著倒楣。適度配置 0050 (半導體/電子) 才能互補。</p>
-<h2 style="color: #2c3e50; border-bottom: 2px solid #007bff; padding-bottom: 10px; margin-top: 40px;">📊 【最終章】一個更「安全」的退休計畫</h2>
-<p>最後，我們不該只用一個報酬率數字來估算退休金。我幫大家算好了三種情境：</p>
-<ul>
-<li><strong>🔥 樂觀情境 (10%)：</strong> 台股大多頭，且 S2 策略完美執行。</li>
-<li><strong>⚖️ 中性情境 (8%)：</strong> <strong>(我建議用這個)</strong> 合理預期，包含幾次熊市但長期向上。</li>
-<li><strong>🐻 保守情境 (6%)：</strong> 市場長期低迷，或你無法堅持策略。</li>
-</ul>
-<h3 style="text-align: center; background-color: #eee; padding: 10px; margin-top: 30px;">狀況 A：如果我想在 65 歲存到 2,000 萬</h3>
-<div style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEiJyDJx2o4243-YDh8Bz_q2lvYa-Nqz9cAJI1u7tmS3RI7GkE3kIo9Tg0hbgM9EteoKzsgoA0Px3bmgH7RBl86CPDIzu3tDazrAXZr0wZhgFoj4J6LBn_htLtiWb4mqSfKmCcPmHZO6xx-49Jt6BeUtV3sU7xKB-vo_ZCkXe8xfY4mCgsZyKzUBeS8Lb8Qb"> <img loading="lazy" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" src="https://blogger.googleusercontent.com/img/a/AVvXsEiJyDJx2o4243-YDh8Bz_q2lvYa-Nqz9cAJI1u7tmS3RI7GkE3kIo9Tg0hbgM9EteoKzsgoA0Px3bmgH7RBl86CPDIzu3tDazrAXZr0wZhgFoj4J6LBn_htLtiWb4mqSfKmCcPmHZO6xx-49Jt6BeUtV3sU7xKB-vo_ZCkXe8xfY4mCgsZyKzUBeS8Lb8Qb" alt="狀況A圖表" data-is-external-image="true"> </a></div>
-<h3 style="text-align: center; background-color: #eee; padding: 10px; margin-top: 30px;">狀況 B：如果我每月固定存 10,000 元</h3>
-<div style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhxrh9QYHHMXYAewX3JYJE5cuuIyoyUjO_r4s3w6q87jjR0GAJwW0Frvj4J5rGwHvb2StvqHjOKTrjcGNLBx91Rgtx9l79zEzcVzjUkCY-Y8KTBiZOPVW_HMEimvzPoIOQMeNbmLLEUv4oIxr-iP5d7xegtr3MHkQR04jhiKPHWa6Yt1R_r0g26Ty8L3k2m"> <img loading="lazy" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" src="https://blogger.googleusercontent.com/img/a/AVvXsEhxrh9QYHHMXYAewX3JYJE5cuuIyoyUjO_r4s3w6q87jjR0GAJwW0Frvj4J5rGwHvb2StvqHjOKTrjcGNLBx91Rgtx9l79zEzcVzjUkCY-Y8KTBiZOPVW_HMEimvzPoIOQMeNbmLLEUv4oIxr-iP5d7xegtr3MHkQR04jhiKPHWa6Yt1R_r0g26Ty8L3k2m" alt="狀況B圖表" data-is-external-image="true"> </a></div>
-<hr style="border: 0; border-top: 1px solid #ccc; margin: 50px 0;">
-<div style="background: linear-gradient(to right, #e0eafc, #cfdef3); padding: 30px; border-radius: 10px; text-align: center;">
-<p style="font-size: 1.2em; font-weight: bold; color: #333;">最終結論</p>
-<p>這趟實驗跑下來，我發現<strong>「你何時開始」</strong>和<strong>「你是否堅持策略 (S2 + 再平衡)」</strong>，遠比你花時間去猜「黃金比例」重要一萬倍。</p>
-<p>別再猶豫比例了，選一個你睡得著覺的組合，<strong>今天就開始</strong>。</p>
-</div>
-<p style="font-size: 0.8em; color: #999; text-align: center; margin-top: 30px;">*(免責聲明：本文內容純屬個人實驗紀錄，不是投資建議！所有回測都是「看著後照鏡開車」，不代表未來績效。投資有風險，請自己做好功課！)*</p>
 </div>
             ]]>
         </content>
