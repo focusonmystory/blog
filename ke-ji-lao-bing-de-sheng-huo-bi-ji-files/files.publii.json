@@ -2,22 +2,22 @@
     {
         "path": "0050-00878-investment-guide.html",
         "type": "file",
-        "md5": "5526b084cc0051c14013d57b72c94204"
+        "md5": "3807eb2887946442eb78a5f921939d8a"
     },
     {
         "path": "0050-00878-vs-us-stocks-python.html",
         "type": "file",
-        "md5": "1291116997ddc36ba9f011631d7c3ba2"
+        "md5": "b3254b19a3659a37b48a090012624ea5"
     },
     {
         "path": "2026-stock-strategy-0050-backtest.html",
         "type": "file",
-        "md5": "c17e788f5e35e80190dd0272e9d35bd8"
+        "md5": "9dd8ade424a598df3619fdd1a3626fe3"
     },
     {
         "path": "404.html",
         "type": "file",
-        "md5": "9891b5edbdc81f40a171c25fccda0566"
+        "md5": "098fc6a608d833c88d92332761256a43"
     },
     {
         "path": "assets",
@@ -102,7 +102,7 @@
     {
         "path": "/authors/lao-bing/index.html",
         "type": "file",
-        "md5": "c434e4b1973b940372531fda7db2ddce"
+        "md5": "2369cb43f3422743b9429036d116aea7"
     },
     {
         "path": "authors/lao-bing/page",
@@ -117,47 +117,47 @@
     {
         "path": "/authors/lao-bing/page/2/index.html",
         "type": "file",
-        "md5": "53bc669b27d2882b586bba433048c727"
+        "md5": "a7af73d362f9143cd54422abeffd7465"
     },
     {
         "path": "buy-dip-vs-market-python-heatmap.html",
         "type": "file",
-        "md5": "4c8dfd7797fe92e9562d13c7d1457986"
+        "md5": "9070b1bb05a627dc8270cd2cb470ffbe"
     },
     {
         "path": "dca-vs-buy-the-dip-etf-backtest.html",
         "type": "file",
-        "md5": "42da844a4730d6be1008a789309a062d"
+        "md5": "20a44b2541650f8b90979d8776310693"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "9074b9c12f2e1b05520da4a1636ae9e5"
+        "md5": "f8954ce1fc8c9ce8d7d428ef1122d705"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "18d8a29905edf7fed3b86138e9f9c0f0"
+        "md5": "c3fd26474538ad3fc5ee98d95d0bcb0f"
     },
     {
         "path": "high-dividend-vs-market-cap-etf.html",
         "type": "file",
-        "md5": "d76e27135f4aadf8f871a8a3baf0f0ce"
+        "md5": "864c62bbf004e83029126af23de4f9ae"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "dd09efdec59b682255fc20f5ec03dfe7"
+        "md5": "c17611792ed6f72d9915a86f59df5384"
     },
     {
         "path": "macd_strategy.html",
         "type": "file",
-        "md5": "0fda599f3eb404a6c17f1488a638754d"
+        "md5": "12f42bdd5580cb822c936e6cde159068"
     },
     {
         "path": "major-shareholders-backtest-python.html",
         "type": "file",
-        "md5": "d6cc9ab959de33c120d05e3416e84d38"
+        "md5": "58f75c8ccb89b45f59014d6ff9c09139"
     },
     {
         "path": "media",
@@ -510,6 +510,86 @@
         "md5": "5f047a835cc66498ceb540b85b123da6"
     },
     {
+        "path": "media/posts/18",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/18/image_9d0641.png",
+        "type": "file",
+        "md5": "049d4ed24ceb86ae4c22f3178703ad86"
+    },
+    {
+        "path": "/media/posts/18/image_a879f0.png",
+        "type": "file",
+        "md5": "cdbcefa13ce1eeca612a142b6d1d9b18"
+    },
+    {
+        "path": "media/posts/18/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/18/responsive/image_9d0641-2xl.png",
+        "type": "file",
+        "md5": "0fed25668750c1d664912cc722ad0b03"
+    },
+    {
+        "path": "/media/posts/18/responsive/image_9d0641-lg.png",
+        "type": "file",
+        "md5": "fed9747d4065e09b2ae2b0913a019917"
+    },
+    {
+        "path": "/media/posts/18/responsive/image_9d0641-md.png",
+        "type": "file",
+        "md5": "6c193cbbd325671df5532634d9310a8d"
+    },
+    {
+        "path": "/media/posts/18/responsive/image_9d0641-sm.png",
+        "type": "file",
+        "md5": "8472d1b51505f4078102c002a8cb7607"
+    },
+    {
+        "path": "/media/posts/18/responsive/image_9d0641-xl.png",
+        "type": "file",
+        "md5": "0fed25668750c1d664912cc722ad0b03"
+    },
+    {
+        "path": "/media/posts/18/responsive/image_9d0641-xs.png",
+        "type": "file",
+        "md5": "e4b6f7bfe138f02bf1192eba32c7939e"
+    },
+    {
+        "path": "/media/posts/18/responsive/image_a879f0-2xl.png",
+        "type": "file",
+        "md5": "d6468ee3aa0d47a064a3184a47f30911"
+    },
+    {
+        "path": "/media/posts/18/responsive/image_a879f0-lg.png",
+        "type": "file",
+        "md5": "ab48d6881d9072b0e8129feae6e039c9"
+    },
+    {
+        "path": "/media/posts/18/responsive/image_a879f0-md.png",
+        "type": "file",
+        "md5": "32e94cb37ac31554866a95e1aaa0efb6"
+    },
+    {
+        "path": "/media/posts/18/responsive/image_a879f0-sm.png",
+        "type": "file",
+        "md5": "bf962f3c5427e4b0c437b4dff81eac83"
+    },
+    {
+        "path": "/media/posts/18/responsive/image_a879f0-xl.png",
+        "type": "file",
+        "md5": "d6468ee3aa0d47a064a3184a47f30911"
+    },
+    {
+        "path": "/media/posts/18/responsive/image_a879f0-xs.png",
+        "type": "file",
+        "md5": "9081e208f9851c197e94365f29d1e1fc"
+    },
+    {
         "path": "page",
         "type": "directory",
         "md5": false
@@ -522,22 +602,27 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "d388c1fcec21e16717be0c1ad6185db0"
+        "md5": "f86ecd7d63b6e3a0fc7d7900c0e93b87"
+    },
+    {
+        "path": "python-quant-trading-momentum-strategy-vs-0050.html",
+        "type": "file",
+        "md5": "bc89f83d424fa9f742bb09f0132b9975"
     },
     {
         "path": "python-stock-seasonality-backtest.html",
         "type": "file",
-        "md5": "1153cfac9669d15f9633abe01be536bb"
+        "md5": "460040b3cb26409e19941e52ab6a0b1c"
     },
     {
         "path": "replace-win11-cangjie-with-rime.html",
         "type": "file",
-        "md5": "f644849d1c5f364e8272a21ae6c9114c"
+        "md5": "0d00245af57af8f4c83876c6894ccb64"
     },
     {
         "path": "revenue-momentum-strategy-backtest-taiwan-stock.html",
         "type": "file",
-        "md5": "445daebf777e70e6ebcae96e4544cf24"
+        "md5": "5a98ccda43660f7e2c41a47824371e4f"
     },
     {
         "path": "robots.txt",
@@ -547,7 +632,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "bac74bb9e77fd5a73eebf0b3ea934ac4"
+        "md5": "b9579dd0033706c40f15cae7e70e1bab"
     },
     {
         "path": "sitemap.xsl",
@@ -562,36 +647,36 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "c03d78006a13a460a5a61bcf8b528762"
+        "md5": "d06890401c58ad13ffb6e4e496961552"
     },
     {
         "path": "tai-gu-da-shu-ju-jun-xian-jiu-jie-tu-po-jiu-hui-penwo-yong-python-pao-liao-shu-qian-wan-ci-yun-suanjie-luxi-pan-qi-de-can-ku-zhen-xiang.html",
         "type": "file",
-        "md5": "7dae191884362a408417e241994571cd"
+        "md5": "7c5a81138635bdbabffd01c07d5a0b14"
     },
     {
         "path": "the-40-drop-golden-rule-for-buying-stocks.html",
         "type": "file",
-        "md5": "da280a008cc8ded9e8c6c28948586329"
+        "md5": "1ff5f032984caa2b6cf0599234322a13"
     },
     {
         "path": "three_investors.html",
         "type": "file",
-        "md5": "d0a5d37bb474aed7ab187edd8dd60535"
+        "md5": "eb11b76815cd31da3046c0db1c29c3b2"
     },
     {
         "path": "trend-following-breakout-strategy-backtest.html",
         "type": "file",
-        "md5": "9664789f1302a56a095e43521fd0a275"
+        "md5": "f0ddf3c0c5e2997067676f3c67f5c545"
     },
     {
         "path": "trust-buying-backtest-strategy.html",
         "type": "file",
-        "md5": "7eaded69b69cf8d08fc0271525217bf9"
+        "md5": "b7e847b37b03c8dceedf9b0890de8d06"
     },
     {
         "path": "why-revenue-growth-fails-trading.html",
         "type": "file",
-        "md5": "c8f51047d3b804551bcea6d26607dbf9"
+        "md5": "e6b875e42931a0594187026700a2faef"
     }
 ]

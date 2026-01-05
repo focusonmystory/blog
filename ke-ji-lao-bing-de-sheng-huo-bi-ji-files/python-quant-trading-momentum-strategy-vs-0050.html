@@ -1,0 +1,102 @@
+<!DOCTYPE html><html lang="zh-tw"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>[量化實戰] 我如何把一支虧損程式，改造成 10 年大賺的策略？（打破「拉回買進」的迷思） - 科技老兵的生活筆記</title><meta name="description" content="前言： 你是不是也聽過這句投資金句：「人棄我取，拉回就是買點」？ 我曾經也是這麼想的。為了實踐這個真理，我寫了一支 Python 程式專挑「便宜貨」。 結果？在台股近年的大牛市裡，它竟然績效慘輸大盤。 這篇文章記錄了我如何修正邏輯錯誤、計入真實交易成本，最終驗證出 「動能策略 (Momentum)」 才是台股獲利關鍵的完整過程。 一、 慘痛的起點：想撿便宜，卻撿到破爛 一開始，我的策略邏輯非常「散戶直覺」，我想要買在「相對低點」： 我以為我在等百貨公司週年慶打折，結果回測數據狠狠打了我的臉。 💡 為什麼會失敗？ 我看著數據才發現一個殘酷真相：真正的飆股（如台積電、緯創），在主升段時 RSI 根本不會掉到 45 以下。 我的程式一直在等「回檔」，結果只撿到了那些「真的出問題」的弱勢股。 我不甘心。我去翻了學術論文和 FinLab 的研究，發現台股有一個特性：「強者恆強」。 於是我做了一個瘋狂的決定：把邏輯 180 度反過來。 我把「拉回買」的程式碼刪掉，改成「追高買」。請看這段關鍵的 Python 修改： # ❌ 舊邏輯：想買便宜 (失敗) # cond_weak = rsi_14 &lt; 45 # 等待相對弱勢回檔 # ✅&hellip;"><meta name="generator" content="Publii Open-Source CMS for Static Site"><link rel="canonical" href="https://focusonmystory.pages.dev/python-quant-trading-momentum-strategy-vs-0050.html"><link rel="alternate" type="application/atom+xml" href="https://focusonmystory.pages.dev/feed.xml" title="科技老兵的生活筆記 - RSS"><link rel="alternate" type="application/json" href="https://focusonmystory.pages.dev/feed.json" title="科技老兵的生活筆記 - JSON"><meta property="og:title" content="[量化實戰] 我如何把一支虧損程式，改造成 10 年大賺的策略？（打破「拉回買進」的迷思）"><meta property="og:site_name" content="{title} | 科技老兵的生活筆記"><meta property="og:description" content="前言： 你是不是也聽過這句投資金句：「人棄我取，拉回就是買點」？ 我曾經也是這麼想的。為了實踐這個真理，我寫了一支 Python 程式專挑「便宜貨」。 結果？在台股近年的大牛市裡，它竟然績效慘輸大盤。 這篇文章記錄了我如何修正邏輯錯誤、計入真實交易成本，最終驗證出 「動能策略 (Momentum)」 才是台股獲利關鍵的完整過程。 一、 慘痛的起點：想撿便宜，卻撿到破爛 一開始，我的策略邏輯非常「散戶直覺」，我想要買在「相對低點」： 我以為我在等百貨公司週年慶打折，結果回測數據狠狠打了我的臉。 💡 為什麼會失敗？ 我看著數據才發現一個殘酷真相：真正的飆股（如台積電、緯創），在主升段時 RSI 根本不會掉到 45 以下。 我的程式一直在等「回檔」，結果只撿到了那些「真的出問題」的弱勢股。 我不甘心。我去翻了學術論文和 FinLab 的研究，發現台股有一個特性：「強者恆強」。 於是我做了一個瘋狂的決定：把邏輯 180 度反過來。 我把「拉回買」的程式碼刪掉，改成「追高買」。請看這段關鍵的 Python 修改： # ❌ 舊邏輯：想買便宜 (失敗) # cond_weak = rsi_14 &lt; 45 # 等待相對弱勢回檔 # ✅&hellip;"><meta property="og:url" content="https://focusonmystory.pages.dev/python-quant-trading-momentum-strategy-vs-0050.html"><meta property="og:type" content="article"><link rel="stylesheet" href="https://focusonmystory.pages.dev/assets/css/style.css?v=029eb2370a7af7ef05a767dbd4127e64"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://focusonmystory.pages.dev/python-quant-trading-momentum-strategy-vs-0050.html"},"headline":"[量化實戰] 我如何把一支虧損程式，改造成 10 年大賺的策略？（打破「拉回買進」的迷思）","datePublished":"2026-01-05T20:07+08:00","dateModified":"2026-01-05T20:12+08:00","description":"前言： 你是不是也聽過這句投資金句：「人棄我取，拉回就是買點」？ 我曾經也是這麼想的。為了實踐這個真理，我寫了一支 Python 程式專挑「便宜貨」。 結果？在台股近年的大牛市裡，它竟然績效慘輸大盤。 這篇文章記錄了我如何修正邏輯錯誤、計入真實交易成本，最終驗證出 「動能策略 (Momentum)」 才是台股獲利關鍵的完整過程。 一、 慘痛的起點：想撿便宜，卻撿到破爛 一開始，我的策略邏輯非常「散戶直覺」，我想要買在「相對低點」： 我以為我在等百貨公司週年慶打折，結果回測數據狠狠打了我的臉。 💡 為什麼會失敗？ 我看著數據才發現一個殘酷真相：真正的飆股（如台積電、緯創），在主升段時 RSI 根本不會掉到 45 以下。 我的程式一直在等「回檔」，結果只撿到了那些「真的出問題」的弱勢股。 我不甘心。我去翻了學術論文和 FinLab 的研究，發現台股有一個特性：「強者恆強」。 於是我做了一個瘋狂的決定：把邏輯 180 度反過來。 我把「拉回買」的程式碼刪掉，改成「追高買」。請看這段關鍵的 Python 修改： # ❌ 舊邏輯：想買便宜 (失敗) # cond_weak = rsi_14 &lt; 45 # 等待相對弱勢回檔 # ✅&hellip;","author":{"@type":"Person","name":"老兵","url":"https://focusonmystory.pages.dev/authors/lao-bing/"},"publisher":{"@type":"Organization","name":"老兵"}}</script><style></style><noscript><style>img[loading]{opacity:1;}</style></noscript></head><body class="post-template"><style>/* 電腦版設定 */
+@media (min-width: 1400px) { 
+  .floating-subscribe-box {
+    position: fixed;
+    /* 保持您滿意的位置 */
+    left: calc(50% + 380px); 
+    
+    /* 修改 1：位置往上移，留出空間給變長的表單 */
+    top: 100px; 
+    
+    width: 300px; 
+    background: #ffffff;
+    padding: 5px; /* 縮小留白，讓空間最大化 */
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    z-index: 900; 
+    border-radius: 8px;
+    
+    /* 確保框框本身不會出現捲軸 */
+    overflow: hidden;
+  }
+}
+
+/* 螢幕不夠寬時自動隱藏 */
+@media (max-width: 1399px) {
+  .floating-subscribe-box {
+    display: none !important;
+  }
+}</style><div class="floating-subscribe-box"><h4 style="margin-top:10px; margin-bottom:5px; text-align:center; font-size:16px; color:#333;">訂閱電子報</h4><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAmrpcU24tbFqsMhi6KUhtdBfHrZTGmxn_P7VZJGShEZfZyg/viewform?embedded=true" width="100%" height="820" frameborder="0" marginheight="0" marginwidth="0">載入中…</iframe></div><header class="topbar" id="js-header"><div class="topbar__inner"><a class="logo" href="https://focusonmystory.pages.dev/">科技老兵的生活筆記</a></div></header><div class="main-content"><div class="infobar"><div class="infobar__update">Last Updated: <time datetime="2026-01-05T20:12">一月 5, 2026</time></div></div><main class="main post"><article class="content"><header class="u-header content__header"><h1>[量化實戰] 我如何把一支虧損程式，改造成 10 年大賺的策略？（打破「拉回買進」的迷思）</h1><div class="u-header__meta u-small"><div><a href="https://focusonmystory.pages.dev/authors/lao-bing/" title="老兵">老兵</a> <time datetime="2026-01-05T20:07">一月 5, 2026</time></div></div></header><div class="content__entry u-inner"><article><blockquote><strong>前言：</strong><br>你是不是也聽過這句投資金句：「人棄我取，拉回就是買點」？<br>我曾經也是這麼想的。為了實踐這個真理，我寫了一支 Python 程式專挑「便宜貨」。<br>結果？在台股近年的大牛市裡，它竟然<strong>績效慘輸大盤</strong>。<br>這篇文章記錄了我如何修正邏輯錯誤、計入真實交易成本，最終驗證出 <strong>「動能策略 (Momentum)」</strong> 才是台股獲利關鍵的完整過程。</blockquote><h2>一、 慘痛的起點：想撿便宜，卻撿到破爛</h2><p>一開始，我的策略邏輯非常「散戶直覺」，我想要買在「相對低點」：</p><ol><li><strong>便宜才買：</strong> 等 RSI &lt; 45（相對弱勢區）才進場。</li><li><strong>安全第一：</strong> 股價跌破 <strong>20日均線（月線）</strong> 才接。</li></ol><p>我以為我在等百貨公司週年慶打折，結果回測數據狠狠打了我的臉。</p><h3>📉 失敗的績效表 (2023-2025 AI 牛市)</h3><table><thead><tr><th>策略版本</th><th>表現</th><th>評語</th></tr></thead><tbody><tr><td><strong>0050 (大盤)</strong></td><td class="success">大漲</td><td>隨便買都賺</td></tr><tr><td><strong>我的撿便宜策略</strong></td><td class="highlight">虧損 / 小賺</td><td><strong>大盤漲我不漲，大盤跌我跟著跌</strong></td></tr></tbody></table><p><strong>💡 為什麼會失敗？</strong><br>我看著數據才發現一個殘酷真相：<strong>真正的飆股（如台積電、緯創），在主升段時 RSI 根本不會掉到 45 以下。</strong><br>我的程式一直在等「回檔」，結果只撿到了那些「真的出問題」的弱勢股。</p><h2>二、 觀念翻轉：加入「瘋狗流」 (Momentum)</h2><p>我不甘心。我去翻了學術論文和 FinLab 的研究，發現台股有一個特性：<strong>「強者恆強」</strong>。<br>於是我做了一個瘋狂的決定：<strong>把邏輯 180 度反過來。</strong></p><h3>💻 關鍵程式碼修改</h3><p>我把「拉回買」的程式碼刪掉，改成「追高買」。請看這段關鍵的 Python 修改：</p><pre><code># ❌ 舊邏輯：想買便宜 (失敗)
+# cond_weak = rsi_14 &lt; 45  # 等待相對弱勢回檔
+
+# ✅ 新邏輯：瘋狗流動能 (成功)
+# 1. 營收要好 (基本面保護)
+# 修正：確保使用月資料計算 YoY，並 Lag 45天避免未來視
+rev_yoy = (monthly_revenue / monthly_revenue.shift(12)) - 1.0
+cond_fund = rev_yoy.shift(2) &gt; 0.25  # 確保數據已公告
+
+# 2. 股價要創新高 (確認趨勢)
+# 修正：不看月線，改看季線等級的創高
+cond_strong = price &gt;= price.rolling(60).max()
+
+# 3. RSI 要強勢 (確認人氣)
+cond_momentum = rsi_14 &gt; 55  # 追逐動能強勢股！
+</code></pre><p>這個改動違反了所有直覺：「這不是追高嗎？」<br>沒錯，這就叫<strong>動能交易</strong>。我把它丟進去跑了 <strong>10 年長週期回測 (2015-2025)</strong>。</p><h2>三、 真實回測：加入成本後的真相</h2><p>為了不讓自己被「快樂表」騙了，我在回測中加入了<strong>真實世界的摩擦成本</strong>。這點非常重要，因為頻繁換股會吃掉大量獲利。</p><ul><li><strong>交易成本設定：</strong> 單趟完整交易成本約 <strong>0.585%</strong>。<ul><li>買進手續費：0.1425%</li><li>賣出手續費：0.1425% + <strong>證交稅 0.3%</strong></li></ul></li><li><strong>策略換股頻率：</strong> 每月檢查一次訊號 (Strategy Rotation)。</li><li><strong>數據來源：</strong> 使用還原股價 (Adjusted Close)，包含股息再投入。</li></ul><h3>📊 10 年回測總體檢 (2015-2025)</h3><figure class="post__image"><img loading="lazy" src="https://focusonmystory.pages.dev/media/posts/18/image_9d0641.png" alt="" width="1202" height="666" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/18/responsive/image_9d0641-xs.png 300w, https://focusonmystory.pages.dev/media/posts/18/responsive/image_9d0641-sm.png 480w, https://focusonmystory.pages.dev/media/posts/18/responsive/image_9d0641-md.png 768w, https://focusonmystory.pages.dev/media/posts/18/responsive/image_9d0641-lg.png 1024w, https://focusonmystory.pages.dev/media/posts/18/responsive/image_9d0641-xl.png 1360w, https://focusonmystory.pages.dev/media/posts/18/responsive/image_9d0641-2xl.png 1600w"></figure><br><div class="img-caption">▲ 圖 1：純粹動能策略 (紅線) 與 0050 (灰線) 的 10 年績效對比。紅線在 2018 與 2024 年大幅拉開差距。</div><table><thead><tr><th>比較項目</th><th>0050 (含息總報酬)</th><th><strong>新策略 (純粹動能)</strong></th><th>結果</th></tr></thead><tbody><tr><td><strong>總報酬率</strong></td><td>約 350%~400%</td><td class="success"><strong>約 600%</strong> 🚀</td><td><strong>勝</strong></td></tr><tr><td><strong>獲利來源</strong></td><td>權值股 (台積電)</td><td><strong>中小型飆股 (國巨/緯創)</strong></td><td><strong>抓到黑天鵝</strong></td></tr></tbody></table><p>我發現，這套策略抓到了 2018 年的被動元件狂潮，和 2023 年的 AI 狂潮。它不預測高點，它只是<strong>黏著趨勢走</strong>。</p><h2>四、 光鮮亮麗背後的代價：-56% 的回撤</h2><p>但在你決定 All-in 之前，請先看這張「死亡清單」。<br>量化交易最誠實的地方，就是它會告訴你「最痛會有多痛」。</p><h3>⚠️ 歷史壓力測試 (Stress Test)</h3><table><thead><tr><th>年份</th><th>事件</th><th>0050 跌幅</th><th><strong>本策略跌幅</strong></th><th>你的帳戶 (1000萬)</th></tr></thead><tbody><tr><td>2022</td><td>美國暴力升息</td><td>-21% (加權指數)</td><td class="highlight"><strong>-40%</strong></td><td><strong>剩 600 萬</strong></td></tr><tr><td>2018Q4</td><td>貿易戰</td><td>-15%</td><td class="highlight"><strong>-35%</strong></td><td><strong>剩 650 萬</strong></td></tr><tr><td><strong>最大回撤</strong></td><td><strong>歷史極值</strong></td><td><strong>約 -30%</strong></td><td class="highlight"><strong>-56.8%</strong> 💀</td><td><strong>剩 430 萬</strong></td></tr></tbody></table><blockquote><strong>💡 補充說明：為什麼空頭跌這麼慘？</strong><br>動能策略在空頭市場的表現符合學術研究預期。根據<strong>《東吳會計學報》</strong>的研究指出：<br>「在空頭市場，不管採用何種策略投資者都會損失，動能策略的優勢在於多頭時能獲取更高獲利。」<br><br>簡單來說，這個策略的虧損是「正常特性」而非 Bug，因此我們必須搭配<strong>資產配置</strong>來降低風險。</blockquote><p><strong>問問你自己：</strong> 當你的 1000 萬變成 430 萬的時候，你還敢讓程式繼續跑嗎？<br>99% 的人會在這時候停用程式，倒在黎明前。</p><h2>五、 最終解法：核心衛星配置 (Core-Satellite)</h2><p>為了讓這套策略從「理論」變成「實戰」，我使用了法人級的<strong>「資產配置」</strong>技巧。我把資金分成兩份，並設定<strong>「季度再平衡 (Rebalance)」</strong>機制，避免過度交易。</p><ul><li><strong>70% 資金 (核心)：</strong> 買 <strong>0050</strong> (保命用，承受較低波動)。</li><li><strong>30% 資金 (衛星)：</strong> 跑這套 <strong>動能策略</strong> (衝績效用)。</li></ul><h3>🏆 季度再平衡規則</h3><p>我們不頻繁調整，而是每季（3、6、9、12月底）檢查一次：</p><ol><li><strong>觸發條件：</strong> 當實際配置偏離目標 <strong>±5%</strong> 時才調整。</li><li><strong>調整方式：</strong> 賣出超配的動能股，買入落後的 0050，強制「高割離席」。</li></ol><h3>💰 投資組合最終績效</h3><figure class="post__image"><img loading="lazy" src="https://focusonmystory.pages.dev/media/posts/18/image_a879f0.png" alt="" width="1202" height="666" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/18/responsive/image_a879f0-xs.png 300w, https://focusonmystory.pages.dev/media/posts/18/responsive/image_a879f0-sm.png 480w, https://focusonmystory.pages.dev/media/posts/18/responsive/image_a879f0-md.png 768w, https://focusonmystory.pages.dev/media/posts/18/responsive/image_a879f0-lg.png 1024w, https://focusonmystory.pages.dev/media/posts/18/responsive/image_a879f0-xl.png 1360w, https://focusonmystory.pages.dev/media/posts/18/responsive/image_a879f0-2xl.png 1600w"></figure><br><div class="img-caption">▲ 圖 2：藍線 (70/30 配置) 顯示出比紅線 (純策略) 更低的波動，但報酬率卻創下新高 (665%)。</div><table><thead><tr><th>投資方式</th><th>總報酬率</th><th>最大回撤 (風險)</th><th>性價比 (CP值)</th></tr></thead><tbody><tr><td>100% 買 0050</td><td>基準</td><td>-30%</td><td>普通</td></tr><tr><td>100% 動能策略</td><td class="success">最高</td><td class="highlight">-57% (太危險)</td><td>高風險高報酬</td></tr><tr><td><strong>70% 0050 + 30% 動能</strong></td><td class="success"><strong>優於 0050</strong> 👑</td><td><strong>-36% (可接受)</strong></td><td><strong>最高！</strong></td></tr></tbody></table><p><strong>✨ 結論：</strong> 透過配置，我們用「稍微多一點點的風險（-30% -&gt; -36%）」，換取了顯著優於大盤的超額報酬，這就是資產配置的魔法。</p><h2>六、 附錄：完整 Python 策略代碼 (選股邏輯)</h2><p>如果你也想在自己的電腦上運行這套策略，這是核心選股邏輯的程式碼片段：</p><pre><code>import pandas as pd
+import numpy as np
+
+# === 重要提醒 ===
+# 1. calculate_rsi() 函數需自行實作或使用 TA-Lib
+# 2. 月營收資料 (monthly_rev_df) 需要從 TEJ 或 FinLab 等資料庫取得
+# 3. 此處僅為選股邏輯，完整回測需包含資金管理、滑價計算等框架
+# ================
+
+def strategy_logic(price_df, monthly_rev_df):
+    """
+    price_df: 日頻率股價
+    monthly_rev_df: 月頻率營收
+    """
+    
+    # 1. 處理營收資料 (月頻率)
+    # 修正：shift(12) 針對月資料，代表與去年同期比較
+    rev_yoy = (monthly_rev_df / monthly_rev_df.shift(12)) - 1.0
+    
+    # 修正：將月資料對齊回日資料，並 Lag 45天避免未來視
+    rev_yoy_daily = rev_yoy.reindex(price_df.index, method='ffill').shift(45)
+    
+    # 2. 定義技術指標
+    # 修正：創 60 日新高 (季線等級強勢)
+    is_breakout = price_df &gt;= price_df.rolling(60).max()
+    
+    # RSI 指標 (需自定義函數)
+    rsi = calculate_rsi(price_df, 14)
+    
+    # === 選股條件 ===
+    cond_fund = rev_yoy_daily &gt; 0.25       # 基本面火藥
+    cond_strong = is_breakout              # 點火
+    cond_momentum = rsi &gt; 55               # 助燃 (強勢動能)
+    
+    buy_signal = cond_fund &amp; cond_strong &amp; cond_momentum
+    
+    # === 排名機制 ===
+    # 只買最強的 Top 5 (RSI 越高越好)
+    rank = rsi.where(buy_signal).rank(axis=1, ascending=False)
+    
+    return rank &lt;= 5
+</code></pre><div class="footer-note"><h3>⚠️ 重要風險提示 (Disclaimer)</h3><ol><li><strong>歷史不代表未來：</strong> 本策略在 2015-2025 表現優異，但不保證未來績效。</li><li><strong>空手風險：</strong> 動能策略在空頭市場（如 2022 年）可能長期選不到股票而空手，請勿驚慌。</li><li><strong>滑價風險：</strong> 本回測已扣除約 0.6% 交易成本，但<strong>未包含滑價</strong>（實際成交價可能比收盤價差 0.1%~0.3%），實戰績效可能略低。</li><li><strong>建議：</strong> 請先用小資金測試，確認自己能承受 -40% 以上的帳面虧損後，再考慮放大資金。</li></ol></div></article></div><aside class="content__aside"><div class="content__last-updated u-small">This article was updated on 一月 5, 2026</div><div class="content__share"></div></aside><footer class="content__footer"><div class="content__bio box"><div><h4 class="h6"><a href="https://focusonmystory.pages.dev/authors/lao-bing/" title="老兵">老兵</a></h4></div></div><nav class="content__nav box"><div class="content__nav__prev"><a href="https://focusonmystory.pages.dev/revenue-momentum-strategy-backtest-taiwan-stock.html" class="content__nav__link" rel="prev"><div class="u-small">Previous Post<h5>【台股量化回測】營收動能策略 11年1640%報酬：2022空頭年+27%的秘密</h5></div></a></div></nav></footer></article><div class="banner banner--after-content"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAmrpcU24tbFqsMhi6KUhtdBfHrZTGmxn_P7VZJGShEZfZyg/viewform?embedded=true" width="640" height="419" frameborder="0" marginheight="0" marginwidth="0">載入中…</iframe></div></main><div class="sidebar"></div><footer class="footer"><a class="footer__logo" href="https://focusonmystory.pages.dev/">科技老兵的生活筆記</a><nav><ul class="footer__nav"></ul></nav><div class="footer__copyright"><p>Powered by Publii</p></div></footer></div><script>window.publiiThemeMenuConfig = {    
+        mobileMenuMode: 'sidebar',
+        animationSpeed: 300,
+        submenuWidth: 'auto',
+        doubleClickTime: 500,
+        mobileMenuExpandableSubmenus: true, 
+        relatedContainerForOverlayMenuSelector: '.navbar',
+   };</script><script defer="defer" src="https://focusonmystory.pages.dev/assets/js/scripts.min.js?v=18a65c58aef57c0287e0f0609f3389a9"></script><script>var images = document.querySelectorAll('img[loading]');
+
+      for (var i = 0; i < images.length; i++) {
+         if (images[i].complete) {
+               images[i].classList.add('is-loaded');
+         } else {
+               images[i].addEventListener('load', function () {
+                  this.classList.add('is-loaded');
+               }, false);
+         }
+      }</script></body></html>
