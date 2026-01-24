@@ -3,12 +3,103 @@
     <title>科技老兵的生活筆記</title>
     <link href="https://focusonmystory.pages.dev/feed.xml" rel="self" />
     <link href="https://focusonmystory.pages.dev" />
-    <updated>2026-01-20T21:50:53+08:00</updated>
+    <updated>2026-01-24T21:59:44+08:00</updated>
     <author>
         <name>老兵</name>
     </author>
     <id>https://focusonmystory.pages.dev</id>
 
+    <entry>
+        <title>【AI 日更量化雷達 #001】RSI 100 的瘋狂：當大盤與槓桿 ETF 同時「滿分」，我選擇空手</title>
+        <author>
+            <name>老兵</name>
+        </author>
+        <link href="https://focusonmystory.pages.dev/20260123.html"/>
+        <id>https://focusonmystory.pages.dev/20260123.html</id>
+
+        <updated>2026-01-24T21:59:44+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    📌 編者按 (2026/01/23) 這是【AI 日更量化雷達】系列的第一篇文章。 本文撰寫時，台股加權指數剛創下 31,961 點歷史新高。當時的 RSI(2) 數據為 100.00，這是極為罕見的極端值。無論未來市場如何發展，這篇文章都將作為「數據見證」被保存。我們不預測市場，我們只記錄當下的數據告訴我們什麼。 🌍 1. 市場儀表板 (Market Dashboard) 在掃描個股前，程式先回傳了令人窒息的「上帝視角」數據： 收盤：31,961.51 RSI(2)：100.00 🔴 收盤：441.20 RSI(2)：100.00 🔴 💡 數據解讀： RSI(2) 達到 100 代表過去兩日市場呈現「無差別噴出」，每一筆交易都收在最高。當槓桿 ETF 指標過熱到極限 (100) 時，代表市場處於單向瘋狂狀態。這時候進場，你不是在投資，你是在跟上帝擲骰子。 圖說：今日 0050 成分股的 RSI-2 分布。所有籌碼集中在右側過熱區，左側恐慌區空無一人。 📉 圖表專業解讀： 這張熱力圖展示了台灣前 50 大權值股的資金情緒分布： 👨‍💻 R&amp;D&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+<div style="background-color: #f8f9fa; border-left: 5px solid #2c3e50; padding: 15px; margin-bottom: 25px; font-style: italic; color: #555;"><strong>📌 編者按 (2026/01/23)</strong><br>這是【AI 日更量化雷達】系列的第一篇文章。<br>本文撰寫時，台股加權指數剛創下 31,961 點歷史新高。當時的 RSI(2) 數據為 <strong style="color: #e74c3c;">100.00</strong>，這是極為罕見的極端值。無論未來市場如何發展，這篇文章都將作為「數據見證」被保存。我們不預測市場，我們只記錄當下的數據告訴我們什麼。</div>
+<hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
+<h2 style="font-size: 20px; color: #2980b9; margin-top: 30px;">🌍 1. 市場儀表板 (Market Dashboard)</h2>
+<p>在掃描個股前，程式先回傳了令人窒息的「上帝視角」數據：</p>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 20px;">
+<div style="flex: 1; min-width: 280px; background: #fff5f5; border: 1px solid #ffcccc; padding: 15px; border-radius: 8px;">
+<h3 style="margin: 0 0 10px 0; font-size: 16px; color: #c0392b;">📊 加權指數 (^TWII)</h3>
+<p style="margin: 0;">收盤：<strong>31,961.51</strong></p>
+<p style="margin: 5px 0 0 0;">RSI(2)：<span style="font-size: 20px; font-weight: bold; color: #e74c3c;">100.00 🔴</span></p>
+</div>
+<div style="flex: 1; min-width: 280px; background: #fff5f5; border: 1px solid #ffcccc; padding: 15px; border-radius: 8px;">
+<h3 style="margin: 0 0 10px 0; font-size: 16px; color: #c0392b;">🔥 貪婪溫度計 (00631L)</h3>
+<p style="margin: 0;">收盤：<strong>441.20</strong></p>
+<p style="margin: 5px 0 0 0;">RSI(2)：<span style="font-size: 20px; font-weight: bold; color: #e74c3c;">100.00 🔴</span></p>
+</div>
+</div>
+<p><strong>💡 數據解讀：</strong><br>RSI(2) 達到 100 代表過去兩日市場呈現「無差別噴出」，每一筆交易都收在最高。當槓桿 ETF 指標過熱到極限 (100) 時，代表市場處於單向瘋狂狀態。這時候進場，你不是在投資，你是在跟上帝擲骰子。</p>
+<h2 style="font-size: 20px; color: #2980b9; margin-top: 30px;">🛡️ 2. 策略審計機制</h2>
+<ul style="list-style-type: none; padding-left: 0;">
+<li style="margin-bottom: 8px;">✅ <strong>掃描範圍：</strong> 0050 最新成分股（已包含 3653 健策、3665 貿聯-KY 等 2026 新納入標的）。</li>
+<li style="margin-bottom: 8px;">✅ <strong>審計結果：</strong> 通過自動化驗證，資料源與交易所同步，無過時標的。</li>
+</ul>
+<h2 style="font-size: 20px; color: #2980b9; margin-top: 30px;">📊 3. 0050 真實掃描結果</h2>
+<div style="text-align: center; margin: 20px 0;"><figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/21/rsi2_heatmap_2026-01-23-2.png" alt="" width="3000" height="1800" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/21/responsive/rsi2_heatmap_2026-01-23-2-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/21/responsive/rsi2_heatmap_2026-01-23-2-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/21/responsive/rsi2_heatmap_2026-01-23-2-md.png 768w ,https://focusonmystory.pages.dev/media/posts/21/responsive/rsi2_heatmap_2026-01-23-2-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/21/responsive/rsi2_heatmap_2026-01-23-2-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/21/responsive/rsi2_heatmap_2026-01-23-2-2xl.png 1600w"></figure><br>
+<p style="font-size: 13px; color: #666; margin-top: 5px;">圖說：今日 0050 成分股的 RSI-2 分布。所有籌碼集中在右側過熱區，左側恐慌區空無一人。</p>
+</div>
+<p><strong>📉 圖表專業解讀：</strong><br>這張熱力圖展示了台灣前 50 大權值股的資金情緒分布：</p>
+<ul>
+<li><strong style="color: #27ae60;">左側綠色區 (BUY ZONE)：</strong>代表恐慌超跌區 (RSI &lt; 10)。如您所見，<strong>完全空白</strong>。這意味著全市場沒有任何一檔股票被錯殺。</li>
+<li><strong style="color: #c0392b;">右側紅色區 (SELL ZONE)：</strong>代表過熱貪婪區 (RSI &gt; 90)。高達 20+ 檔股票擠在這裡，甚至頂到 100 的邊界。這就是典型的「強者恆強」極致盤面。</li>
+</ul>
+<div style="background: #eee; padding: 15px; border-radius: 5px; margin-top: 15px;"><strong>🔍 掃描結論：</strong>
+<ul>
+<li>觸發買入標的 (RSI-2 &lt; 10)：<strong>0 檔</strong>。</li>
+<li>現象分析：程式掃描了全台最大的 50 家企業，<strong>沒有一家</strong>處於恐慌超跌區。沒有撿便宜的空間，只有追高的風險。</li>
+</ul>
+</div>
+<h2 style="font-size: 20px; color: #2980b9; margin-top: 30px;">📍 4. 今日觀測結論</h2>
+<div style="background-color: #fff8e1; border-left: 5px solid #ffc107; padding: 15px; margin-bottom: 20px;">
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+<li style="margin-bottom: 10px;">🔴 當前狀態：<strong>極度亢奮 (Limit Up)</strong></li>
+<li>⚪ 今日是否行動：<strong>嚴格空倉 (Cash is King)</strong></li>
+</ul>
+</div>
+<p><strong>👨‍💻 R&amp;D 筆記：</strong><br>看到 RSI 跑出 <code>100.00</code> 時，我甚至檢查了一下程式碼是否壞了。<br>但確認無誤後，結論只有一個：<strong>現在是市場情緒的極端值，量化交易者請離場觀望。</strong></p>
+<p>許多人以為量化交易是為了每天都能賺錢。錯了。量化是為了「<strong>在不該進場時，把你的手綁起來</strong>」。我們不賺這種「最後一哩路」的錢，我們留著子彈，等那個 <code>100</code> 變成 <code>10</code> 的日子。</p>
+<hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
+<div style="font-size: 14px; color: #666; background: #f4f4f4; padding: 15px; border-radius: 5px;">
+<h3 style="margin-top: 0; font-size: 16px;">🔬 5. 量化驗證室 (Verification Lab)</h3>
+<ul style="margin-bottom: 0;">
+<li><strong>執行腳本：</strong> <code>Full_Market_Scanner_v11.3</code></li>
+<li><strong>關鍵數據：</strong>
+<ul>
+<li><code>^TWII</code> RSI(2): <strong>100.00</strong></li>
+<li><code>00631L</code> RSI(2): <strong>100.00</strong></li>
+<li>Signal Count: <strong>0/50</strong></li>
+</ul>
+</li>
+</ul>
+</div>
+<div style="margin-top: 30px; padding: 20px; border: 2px dashed #3498db; border-radius: 10px; text-align: center;">
+<h3 style="color: #2980b9; margin-top: 0;">📅 下期預告</h3>
+<p><strong>週一 (1/27) 19:00</strong>，【AI 日更量化雷達 #002】將繼續掃描全市場。<br>如果台股開始震盪回檔，我們將追蹤：</p>
+<ul style="text-align: left; display: inline-block;">
+<li>哪些權值股率先進入恐慌區？</li>
+<li>RSI-2 策略在不同類股的適用性差異？</li>
+<li><strong>今日的「RSI 100」究竟是行情的頂點，還是中繼站？</strong></li>
+</ul>
+<p style="margin-bottom: 0; margin-top: 15px; font-weight: bold;">🔔 本系列將每日更新，週末彙整為週報。追蹤本系列，讓數據成為你的第二雙眼睛。</p>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>2026 台股 ETF 推薦排名 | 新手定期定額完整指南 (含0050、高股息比較)</title>
         <author>
@@ -1898,113 +1989,6 @@ def strategy_logic(price_df, monthly_rev_df):
 </ol>
 </div>
 <p style="font-size: 0.8em; color: #999; text-align: center; margin-top: 30px;">*(免責聲明：本文僅為數據研究分享，不構成任何投資建議。投資前請自行評估風險。)*</p>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>【台股大數據】均線糾結突破就會噴？我用 Python 跑了數千萬次運算，揭露「洗盤期」的殘酷真相</title>
-        <author>
-            <name>老兵</name>
-        </author>
-        <link href="https://focusonmystory.pages.dev/tai-gu-da-shu-ju-jun-xian-jiu-jie-tu-po-jiu-hui-penwo-yong-python-pao-liao-shu-qian-wan-ci-yun-suanjie-luxi-pan-qi-de-can-ku-zhen-xiang.html"/>
-        <id>https://focusonmystory.pages.dev/tai-gu-da-shu-ju-jun-xian-jiu-jie-tu-po-jiu-hui-penwo-yong-python-pao-liao-shu-qian-wan-ci-yun-suanjie-luxi-pan-qi-de-can-ku-zhen-xiang.html</id>
-
-        <updated>2025-12-01T19:28:59+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    別再相信「突破即買進」！數據告訴你：為什麼短線追高勝率不到 50%，長線卻能賺錢？ 你是不是也聽過這句話？ 「只要找到均線糾結的股票，等它一根紅 K 棒突破，買進去就會大賺！」 這句話聽起來很合理，但我相信很多人跟我一樣，實際進場後發現劇本通常是這樣的：「一買就跌，一停損就噴。」 身為一個科技業出身的工程師，我不相信感覺，我只相信數據。於是我寫了一套 Python 程式，回測了台股上市櫃所有普通股（已剔除 ETF），數據涵蓋 2010 年 1 月至 2025 年 11 月（共近 16 年完整週期）。 結果非常驚人，甚至有點殘酷。今天這篇文章，就要用數據帶你看到市場的真相。 補充：為什麼是 5%？經過測試，這是「樣本數量足夠」與「過濾雜訊」之間的最佳平衡點。 我統計了所有符合上述條件的個股事件，並觀察這些股票在突破後 60 天內的平均走勢。 藍線直接跳水至 99.3（平均虧損 -0.7%）。 原因：主力測試散戶信心，順便清洗跟風追高的短線客。 股價才勉強回到 100。 原因：經過 10 天震盪，沒耐心的人都跑光了，籌碼才開始穩定。 藍線爬升至 101.99 (+1.99%)，勝率緩步走高。 原因：真正有耐心的人，才能吃到後面的主升段。 這張圖最詭異的地方在於：Day 60 的勝率只有 45.9%（不到一半），但平均報酬卻是賺錢的（+1.99%）。這就是量化交易的核心觀念：「期望值」。 平均&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 1.8; color: #333; font-size: 18px;">
-<h3 style="text-align: center; color: #555; font-size: 1.1em; margin-bottom: 30px; font-weight: normal;">別再相信「突破即買進」！數據告訴你：為什麼短線追高勝率不到 50%，長線卻能賺錢？</h3>
-<p>你是不是也聽過這句話？</p>
-<div style="background-color: #f5f5f5; border-left: 5px solid #666; padding: 15px; margin: 20px 0; font-style: italic; color: #555;">
-<p style="margin: 0;">「只要找到均線糾結的股票，等它一根紅 K 棒突破，買進去就會大賺！」</p>
-</div>
-<p>這句話聽起來很合理，但我相信很多人跟我一樣，實際進場後發現劇本通常是這樣的：「一買就跌，一停損就噴。」</p>
-<p>身為一個科技業出身的工程師，我不相信感覺，我只相信數據。於是我寫了一套 Python 程式，回測了台股上市櫃所有普通股（已剔除 ETF），數據涵蓋 2010 年 1 月至 2025 年 11 月（共近 16 年完整週期）。</p>
-<p>結果非常驚人，甚至有點殘酷。今天這篇文章，就要用數據帶你看到市場的真相。</p>
-<h2 style="color: #2c3e50; border-bottom: 2px solid #007bff; padding-bottom: 10px; margin-top: 40px;">一、什麼是「均線糾結」？（拒絕模糊定義）</h2>
-<div style="background-color: #e6f7ff; border: 1px solid #91d5ff; border-radius: 8px; padding: 20px; margin: 20px 0;">
-<ul style="padding-left: 20px; margin-bottom: 0;">
-<li style="margin-bottom: 10px;"><strong>使用均線 (MA)：</strong> 5日線(週)、20日線(月)、60日線(季)。</li>
-<li style="margin-bottom: 10px;"><strong>糾結定義：</strong> 三條均線最大差距 <span style="color: #cf1322; font-weight: bold;">小於 5%</span>。</li>
-<li><strong>突破定義：</strong> 收盤價同時站上三條均線，且 &gt; 60日線。</li>
-</ul>
-</div>
-<p style="font-size: 0.9em; color: #666;"><em>補充：為什麼是 5%？經過測試，這是「樣本數量足夠」與「過濾雜訊」之間的最佳平衡點。</em></p>
-<h2 style="color: #2c3e50; border-bottom: 2px solid #007bff; padding-bottom: 10px; margin-top: 40px;">二、數據揭密——那條讓你虧損的「藍色曲線」</h2>
-<p>我統計了所有符合上述條件的個股事件，並觀察這些股票在突破後 60 天內的平均走勢。</p>
-<figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/10/squeeze_event_study.png" alt="" width="1000" height="800" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/10/responsive/squeeze_event_study-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/10/responsive/squeeze_event_study-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/10/responsive/squeeze_event_study-md.png 768w ,https://focusonmystory.pages.dev/media/posts/10/responsive/squeeze_event_study-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/10/responsive/squeeze_event_study-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/10/responsive/squeeze_event_study-2xl.png 1600w"></figure>
-<h3 style="color: #0050b3; margin-top: 30px;">🔍 三個關鍵時間點的真相：</h3>
-<div style="margin-bottom: 20px;">
-<h4 style="margin-bottom: 5px; color: #2c3e50;">1️⃣ Day 1 (主力洗盤)</h4>
-<p>藍線直接跳水至 99.3（平均虧損 <span style="color: green; font-weight: bold;">-0.7%</span>）。<br><span style="font-size: 0.9em; color: #666;">原因：主力測試散戶信心，順便清洗跟風追高的短線客。</span></p>
-</div>
-<div style="margin-bottom: 20px;">
-<h4 style="margin-bottom: 5px; color: #2c3e50;">2️⃣ Day 10 (損益兩平)</h4>
-<p>股價才勉強回到 100。<br><span style="font-size: 0.9em; color: #666;">原因：經過 10 天震盪，沒耐心的人都跑光了，籌碼才開始穩定。</span></p>
-</div>
-<div style="margin-bottom: 20px;">
-<h4 style="margin-bottom: 5px; color: #2c3e50;">3️⃣ Day 60 (波段獲利)</h4>
-<p>藍線爬升至 101.99 (<span style="color: #cf1322; font-weight: bold;">+1.99%</span>)，勝率緩步走高。<br><span style="font-size: 0.9em; color: #666;">原因：真正有耐心的人，才能吃到後面的主升段。</span></p>
-</div>
-<div style="background-color: #fff1f0; border-left: 4px solid #cf1322; padding: 15px; margin: 20px 0;"><strong>💡 殘酷的現實：</strong><br>若算入交易成本，Day 1~10 的虧損幅度會更深。這再次證明：短線做這個策略，期望值是負的。</div>
-<h2 style="color: #2c3e50; border-bottom: 2px solid #007bff; padding-bottom: 10px; margin-top: 40px;">三、既然勝率低，為什麼還有人靠這招賺錢？</h2>
-<p>這張圖最詭異的地方在於：Day 60 的勝率只有 <strong>45.9%</strong>（不到一半），但平均報酬卻是賺錢的（+1.99%）。這就是量化交易的核心觀念：「期望值」。</p>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
-<div style="flex: 1; min-width: 280px; background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 8px; padding: 20px; text-align: center;">
-<h4 style="color: green; margin-top: 0;">📉 虧損時 (54次)</h4>
-<p style="font-size: 1.5em; font-weight: bold; margin: 10px 0;">平均 -3.5%</p>
-<p style="font-size: 0.9em; color: #666;">累積虧損：-189%</p>
-</div>
-<div style="flex: 1; min-width: 280px; background-color: #fffbe6; border: 1px solid #ffe58f; border-radius: 8px; padding: 20px; text-align: center;">
-<h4 style="color: #cf1322; margin-top: 0;">📈 獲利時 (46次)</h4>
-<p style="font-size: 1.5em; font-weight: bold; margin: 10px 0;">平均 +8.2%</p>
-<p style="font-size: 0.9em; color: #666;">累積獲利：+377.2%</p>
-</div>
-</div>
-<div style="text-align: center; font-weight: bold; color: #0050b3; font-size: 1.2em; margin-bottom: 30px;">總淨利 = +188.2% (期望值為正)</div>
-<p>這就像釣魚：你甩竿 100 次，只有 46 次釣到魚。但那 46 條魚裡，有幾條是超級大魚。這些大魚的價值，遠超過你前面空手而歸的小成本。</p>
-<h2 style="color: #2c3e50; border-bottom: 2px solid #007bff; padding-bottom: 10px; margin-top: 40px;">四、給新手的 3 個實戰建議 (SOP)</h2>
-<div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; border: 1px solid #ddd;">
-<ol style="margin-bottom: 0;">
-<li style="margin-bottom: 15px;"><strong>戒掉「短線發財夢」：</strong><br>前 10 天是震盪期，勝率極低。如果沒有持有 30~60 天的規劃，這個策略不適合你。</li>
-<li style="margin-bottom: 15px;"><strong>停損要「因時制宜」：</strong><br>保守型設 -5% 停損；積極型用跌破 20MA 作防線。進場前先算好「這筆最多賠多少」。</li>
-<li><strong>資金不要重壓一檔：</strong><br>勝率不到 5 成，不能把雞蛋放同一個籃子。建議分散 5~10 檔。</li>
-</ol>
-</div>
-<h2 style="color: #2c3e50; border-bottom: 2px solid #007bff; padding-bottom: 10px; margin-top: 40px;">❓ 常見問題 Q&amp;A</h2>
-<div style="margin-bottom: 20px;">
-<p style="font-weight: bold; color: #0050b3; margin-bottom: 5px;">Q1：為什麼不能設定 -3% 停損？</p>
-<p style="margin-left: 20px; border-left: 2px solid #ccc; padding-left: 10px;"><strong>A：</strong> 數據顯示 Day 1 平均跌 -0.7%，前 10 天震盪。設 -3% 很容易在洗盤期就被掃出場，吃不到主升段。</p>
-</div>
-<div style="margin-bottom: 20px;">
-<p style="font-weight: bold; color: #0050b3; margin-bottom: 5px;">Q2：我資金只有 10 萬，可以操作嗎？</p>
-<p style="margin-left: 20px; border-left: 2px solid #ccc; padding-left: 10px;"><strong>A：</strong> 可以，但建議分散 5 檔（每檔 2 萬）。若單檔金額太小 (&lt; 1萬)，手續費會吃掉太多獲利。</p>
-</div>
-<div style="margin-bottom: 20px;">
-<p style="font-weight: bold; color: #0050b3; margin-bottom: 5px;">Q3：這套策略適合當沖或隔日沖嗎？</p>
-<p style="margin-left: 20px; border-left: 2px solid #ccc; padding-left: 10px;"><strong>A：</strong> 完全不適合。Day 1-5 平均報酬是負的。這是一個波段策略。</p>
-</div>
-<hr style="border: 0; border-top: 1px dashed #ccc; margin: 40px 0;">
-<h2 style="color: #2c3e50; margin-top: 0;">結語：相信數據，而不是相信直覺</h2>
-<p>透過這次 Python 大數據的回測，我們看清了「均線糾結」的真面目：它不是提款機，而是一張<strong>「耐心考卷」</strong>。</p>
-<p>它會先用 10 天的洗盤來考驗你的人性，只有通過考驗的人，才能領到後面的波段大獎。</p>
-<div style="background-color: #e6f7ff; padding: 20px; border-radius: 8px; border-left: 5px solid #007bff; margin: 30px 0;">
-<h4 style="margin-top: 0; color: #0050b3;">🎯 立刻可以做的 3 件事：</h4>
-<ol style="margin-bottom: 0;">
-<li>打開看盤軟體，設定「5MA、20MA、60MA」。</li>
-<li>篩選出「三條線差距 &lt; 5%」的股票。</li>
-<li>等待「收盤站上三條線」時，小資金試單。</li>
-</ol>
-</div>
-<div style="font-size: 0.8em; color: #999; margin-top: 40px; border-top: 1px solid #eee; padding-top: 10px;">
-<p><strong>⚠️ 研究限制與聲明：</strong><br>回測標的已剔除 ETF。圖表數據未扣除交易成本。所有突破策略在「牛市」表現都會優於「熊市」。本文僅為大數據研究分享，不構成任何投資建議。投資前請自行評估風險。</p>
-</div>
 </div>
             ]]>
         </content>
