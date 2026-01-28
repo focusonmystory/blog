@@ -3,12 +3,90 @@
     <title>科技老兵的生活筆記</title>
     <link href="https://focusonmystory.pages.dev/feed.xml" rel="self" />
     <link href="https://focusonmystory.pages.dev" />
-    <updated>2026-01-27T21:03:55+08:00</updated>
+    <updated>2026-01-28T20:38:46+08:00</updated>
     <author>
         <name>老兵</name>
     </author>
     <id>https://focusonmystory.pages.dev</id>
 
+    <entry>
+        <title>【AI 日更量化雷達 #004】衝破 30.9% 歷史乖離邊界：權王進入情緒真空，大立光 3% 反彈驗證「黃金坑」邏輯</title>
+        <author>
+            <name>老兵</name>
+        </author>
+        <link href="https://focusonmystory.pages.dev/2026-01-28.html"/>
+        <id>https://focusonmystory.pages.dev/2026-01-28.html</id>
+
+        <updated>2026-01-28T20:38:27+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    數據監測日：2026-01-28 | 指標核心：均值回歸與動量極限 量化交易的重點不在於看漲跌，而在於觀察「極端值」如何被修正。 💎 成功的轉身：大立光 (3008.TW) 昨日大立光處於 RSI=0 的極端超跌，今日股價強勢上漲 3.08% 脫離榜單。這證明了我們的雙重濾網（🟢趨勢多頭 + 極低 RSI）在找尋「被誤殺的優質股」上極具價值。反彈已經啟動，不再是觀察點。 ⚠️ 危險的滯留：研華 (2395.TW) 研華今日續漲 2.75%，但 RSI(2) 依然鎖死在 100 滿分。這種「滯留」並非好事，它代表市場情緒進入了真空軋空狀態。在量化回測中，這類股票一旦反轉，往往伴隨著連續的瀑布式下跌。我們維持「觀察跌勢」的標註，嚴禁追高。 🆕 新進場的機會：緯創 (3231.TW) 隨著大立光反彈，今日 緯創 (3231) 接棒進入 RSI=0 超跌區。其年線乖離率 6.53% 且趨勢為 🟢 多頭。它完美複製了昨日大立光的「黃金坑」特徵，是明日最重要的觀察標的。 觀察重點：深紅區（過熱）正從傳產擴散至科技權值股（台積電）；亮綠區（超跌）出現輪動。目前市場無中性區，正式進入「對決期」。 AI 鋼鐵產線 v19.1 | 數據驅動．紀律獲利 「在群眾瘋狂時，量化模型是唯一的清醒劑。」
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div style="font-family: 'PingFang TC', 'Microsoft JhengHei', sans-serif; line-height: 1.8; color: #333; max-width: 900px; margin: 0 auto; padding: 40px; border: 1px solid #eef2f6; border-radius: 24px; background-color: #ffffff; box-shadow: 0 20px 50px rgba(0,0,0,0.12);"><header style="text-align: center; margin-bottom: 45px;">
+<div style="height: 5px; width: 100px; background: linear-gradient(90deg, #ea4335, #1a73e8); margin: 25px auto;"> </div>
+<p style="color: #5f6368; font-size: 16px;">數據監測日：2026-01-28 | 指標核心：均值回歸與動量極限</p>
+</header>
+<section style="background-color: #f8f9fa; padding: 30px; border-radius: 18px; margin-bottom: 40px; border: 1px solid #e8f0fe;">
+<h3 style="color: #1a73e8; margin-top: 0; font-size: 22px; display: flex; align-items: center;"><span style="margin-right: 10px;">📊</span> 跨日數據演進：看不見的「獲利」與「壓力」</h3>
+<p style="font-size: 16px; color: #3c4043;">量化交易的重點不在於看漲跌，而在於觀察「極端值」如何被修正。</p>
+<table style="width: 100%; margin-top: 20px; border-collapse: collapse; background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+<tbody>
+<tr style="background: #1a73e8; color: white; text-align: left;">
+<th style="padding: 15px;">監測標的</th>
+<th style="padding: 15px;">1/27 狀態</th>
+<th style="padding: 15px;">1/28 表現</th>
+<th style="padding: 15px;">量化解讀 (策略意義)</th>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 15px; font-weight: bold;">大立光 (3008)</td>
+<td style="padding: 15px;">RSI=0 / $2435</td>
+<td style="padding: 15px; color: #1e7e34; font-weight: bold;">$2510 (+3.08%)</td>
+<td style="padding: 15px; font-size: 13px;"><strong>[脫離榜單]</strong> 驗證多頭急跌後的「黃金坑」反彈力道。</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 15px; font-weight: bold;">研華 (2395)</td>
+<td style="padding: 15px;">RSI=100 / $290.5</td>
+<td style="padding: 15px; color: #d93025; font-weight: bold;">$298.5 (+2.75%)</td>
+<td style="padding: 15px; font-size: 13px;"><strong>[滯留榜單]</strong> 情緒鎖死導致軋空。雖然續漲，但偏離年線風險已累積至臨界點。</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 15px; font-weight: bold;">台積電 (2330)</td>
+<td style="padding: 15px;">RSI=62.5</td>
+<td style="padding: 15px; color: #d93025; font-weight: bold;">RSI=100 (新進榜)</td>
+<td style="padding: 15px; font-size: 13px;"><strong>[末端噴發]</strong> 權王接棒最後一棒，乖離率 45.4% 進入歷史無人區。</td>
+</tr>
+<tr>
+<td style="padding: 15px; font-weight: bold;">加權指數 (^TWII)</td>
+<td style="padding: 15px;">Bias: 29.32%</td>
+<td style="padding: 15px; color: #d93025; font-weight: bold;">Bias: 30.92%</td>
+<td style="padding: 15px; font-size: 13px;"><strong>[重力臨界]</strong> 正式跨越 30% 大關，均值回歸的「引力」正幾何倍增。</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section style="margin-bottom: 45px;">
+<h3 style="color: #1a73e8; border-bottom: 2px solid #f1f3f4; padding-bottom: 15px; font-size: 22px;">🔍 深度分析：均值回歸的兩種樣貌</h3>
+<div style="margin-top: 25px;">
+<p style="font-size: 17px; font-weight: bold; color: #1e7e34;">💎 成功的轉身：大立光 (3008.TW)</p>
+<p style="color: #555;">昨日大立光處於 RSI=0 的極端超跌，今日股價強勢上漲 <strong>3.08%</strong> 脫離榜單。這證明了我們的雙重濾網（🟢趨勢多頭 + 極低 RSI）在找尋「被誤殺的優質股」上極具價值。反彈已經啟動，不再是觀察點。</p>
+<p style="font-size: 17px; font-weight: bold; color: #d93025; margin-top: 25px;">⚠️ 危險的滯留：研華 (2395.TW)</p>
+<p style="color: #555;">研華今日續漲 2.75%，但 RSI(2) 依然鎖死在 100 滿分。這種「滯留」並非好事，它代表市場情緒進入了真空軋空狀態。在量化回測中，這類股票一旦反轉，往往伴隨著連續的瀑布式下跌。我們維持「觀察跌勢」的標註，嚴禁追高。</p>
+<p style="font-size: 17px; font-weight: bold; color: #1a73e8; margin-top: 25px;">🆕 新進場的機會：緯創 (3231.TW)</p>
+<p style="color: #555;">隨著大立光反彈，今日 <strong>緯創 (3231)</strong> 接棒進入 RSI=0 超跌區。其年線乖離率 6.53% 且趨勢為 🟢 多頭。它完美複製了昨日大立光的「黃金坑」特徵，是明日最重要的觀察標的。</p>
+</div>
+</section>
+<section style="text-align: center; margin-bottom: 40px;">
+<h3 style="color: #1a73e8; border-bottom: 2px solid #f1f3f4; padding-bottom: 15px; text-align: left; font-size: 22px;">🎨 0050 情緒熱力網格 (2026-01-28)</h3>
+<figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/24/rsi2_heatmap_2026-01-28.png" alt="" width="1400" height="800" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/24/responsive/rsi2_heatmap_2026-01-28-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/24/responsive/rsi2_heatmap_2026-01-28-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/24/responsive/rsi2_heatmap_2026-01-28-md.png 768w ,https://focusonmystory.pages.dev/media/posts/24/responsive/rsi2_heatmap_2026-01-28-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/24/responsive/rsi2_heatmap_2026-01-28-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/24/responsive/rsi2_heatmap_2026-01-28-2xl.png 1600w"></figure>
+<p><span style="color: #888888; font-size: 14px; background-color: #fafafa;">觀察重點：深紅區（過熱）正從傳產擴散至科技權值股（台積電）；亮綠區（超跌）出現輪動。目前市場無中性區，正式進入「對決期」。</span></p>
+</section>
+<footer style="text-align: center; color: #9aa0a6; font-size: 14px; border-top: 1px solid #f1f3f4; padding-top: 30px;">AI 鋼鐵產線 v19.1 | 數據驅動．紀律獲利<br><span style="font-style: italic;">「在群眾瘋狂時，量化模型是唯一的清醒劑。」</span></footer></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>【AI 日更量化雷達 #003】聯電 17.59% 獲利結案：在 32,317 點的高空尋找出口</title>
         <author>
@@ -198,8 +276,8 @@
         <author>
             <name>老兵</name>
         </author>
-        <link href="https://focusonmystory.pages.dev/20260123.html"/>
-        <id>https://focusonmystory.pages.dev/20260123.html</id>
+        <link href="https://focusonmystory.pages.dev/2026-01-23.html"/>
+        <id>https://focusonmystory.pages.dev/2026-01-23.html</id>
 
         <updated>2026-01-24T21:59:44+08:00</updated>
             <summary type="html">
@@ -1554,240 +1632,6 @@ def strategy_logic(price_df, monthly_rev_df):
 <p>如果你想學習更多 <strong>Python 量化交易技巧</strong>，可以追蹤我的專欄。</p>
 <div> </div>
 <div class="tags"><strong>關鍵字標籤：</strong> #股票抄底 #均線糾結 #Python回測 #台股策略 #量化交易 #跌深反彈 #技術分析 #2025飆股 #停損停利</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>【Python量化實測】勝率僅31%卻能年賺8.9%？</title>
-        <author>
-            <name>老兵</name>
-        </author>
-        <link href="https://focusonmystory.pages.dev/trend-following-breakout-strategy-backtest.html"/>
-        <id>https://focusonmystory.pages.dev/trend-following-breakout-strategy-backtest.html</id>
-
-        <updated>2025-12-07T17:34:14+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    （閱讀時間：約 8 分鐘｜難度：⭐⭐⭐｜附 2018-2025 完整回測數據） ⚠️ 重要聲明 本文內容僅為個人量化研究心得分享，非證券投資顧問建議，亦不構成任何買賣推薦。實際交易可能面臨滑價、流動性不足、交易成本增加等回測無法完全模擬之風險。過去績效不代表未來獲利保證，投資人應獨立思考並自行承擔風險。 前幾天我在 YouTube 上滑到廖崧沂（Liao Songyi）老師的影片，他提到一句讓我印象深刻的話： 這句話聽起來很吸引人，畢竟誰不想大賺小賠？但身為一個習慣用數據說話的工程師，我心中其實充滿問號： 與其憑感覺猜測，我決定直接動手！我用 Python (vectorbt) 寫了一套回測系統，把台股過去 8 年 (2018/01 - 2025/12)、超過 2,000 檔 股票的歷史數據全部丟進去跑一遍。 結果讓我重新認識「獲利」這件事... 要把影片中的概念變成程式碼，不能用模糊的「型態漂亮」，必須轉化為精確的數學邏輯。 (💡 研究心得：這套檢查表可以幫助投資人過濾掉 80% 的無效交易。) 為什麼是 6%？ 台股一根長黑 K 平均跌幅約 5-7%。設定 6% 能在「慘劇發生前」逃生。太緊 (3%) 容易被洗，太鬆 (10%) 傷太重。 回測跑完後，我們得到了 1,036&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div style="background-color: #ffffff !important; color: #333333 !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; line-height: 1.8; padding: 20px; border-radius: 10px;">
-<div style="text-align: center; color: #888; font-size: 0.9em; margin-bottom: 30px;">（閱讀時間：約 8 分鐘｜難度：⭐⭐⭐｜附 2018-2025 完整回測數據）</div>
-<div style="background-color: #fff1f0 !important; border: 1px solid #ffa39e; padding: 15px; font-size: 0.9em; color: #cf1322 !important; border-radius: 5px; margin-bottom: 30px;"><strong>⚠️ 重要聲明</strong>
-<p style="margin: 5px 0 0 0;">本文內容僅為個人量化研究心得分享，非證券投資顧問建議，亦不構成任何買賣推薦。實際交易可能面臨滑價、流動性不足、交易成本增加等回測無法完全模擬之風險。過去績效不代表未來獲利保證，投資人應獨立思考並自行承擔風險。</p>
-</div>
-<div style="background-color: #fffbe6 !important; border: 2px solid #ffe58f; border-radius: 10px; padding: 20px; margin-bottom: 30px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); color: #333 !important;">
-<h3 class="align-left" style="margin-top: 0; color: #d48806 !important; text-align: center;">💡 三秒看懂重點</h3>
-<ul style="padding-left: 20px;">
-<li style="margin-bottom: 8px;"><strong>打破高勝率迷思：</strong> 實測台股 8 年數據（含 2025 模擬測試），勝率僅 31.7%，但長期獲利穩定。</li>
-<li style="margin-bottom: 8px;"><strong>盈虧比是靈魂：</strong> 輸一次平均賠 -5%，但贏一次平均賺 +13% (盈虧比 2.78)。</li>
-<li style="margin-bottom: 8px;"><strong>地獄考驗：</strong> 回測期間曾出現 連續 24 次停損，最大回撤達 -43%。這不是無風險套利，而是考驗人性的逆勢操作。</li>
-<li style="margin-bottom: 8px;"><strong>實戰成果：</strong> 策略成功捕獲 緯創 (+133%)、廣達 (+106%) 等波段大魚。</li>
-<li><strong>特別觀察：</strong> 2025 年模擬數據表現異常優異，驗證了策略在趨勢盤的爆發力。</li>
-</ul>
-</div>
-<h2 style="color: #2c3e50 !important; border-bottom: 2px solid #0050b3; padding-bottom: 10px; margin-top: 40px;">一、前言：某天我在 YouTube 上看到...</h2>
-<p>前幾天我在 YouTube 上滑到廖崧沂（Liao Songyi）老師的影片，他提到一句讓我印象深刻的話：</p>
-<div style="background-color: #f9f9f9 !important; border-left: 5px solid #555; padding: 15px; margin: 20px 0; font-style: italic; font-size: 1.1em; color: #0050b3 !important;">「輸就只輸一根 K 線，贏要贏一個波段。」</div>
-<p>這句話聽起來很吸引人，畢竟誰不想大賺小賠？但身為一個習慣用數據說話的工程師，我心中其實充滿問號：</p>
-<ul style="list-style-type: none; padding-left: 0;">
-<li>🤔 一根 K 線就停損？ 這樣會不會一直被洗出場？</li>
-<li>🤔 連虧 20 次本金不會賠光？</li>
-<li>🤔 長期真的能打敗大盤嗎？</li>
-</ul>
-<p>與其憑感覺猜測，我決定直接動手！我用 Python (vectorbt) 寫了一套回測系統，把台股過去 8 年 (2018/01 - 2025/12)、超過 2,000 檔 股票的歷史數據全部丟進去跑一遍。</p>
-<p>結果讓我重新認識「獲利」這件事...</p>
-<h2 style="color: #2c3e50 !important; border-bottom: 2px solid #0050b3; padding-bottom: 10px; margin-top: 40px;">二、策略核心：狙擊手模式 (不開槍則已，一開槍必中)</h2>
-<p>要把影片中的概念變成程式碼，不能用模糊的「型態漂亮」，必須轉化為精確的數學邏輯。</p>
-<h3 style="color: #0050b3 !important;">📋 進場 6 大檢查點 (缺一不可)</h3>
-<div style="overflow-x: auto; margin-bottom: 20px;">
-<table style="width: 100%; border-collapse: collapse; min-width: 600px; background-color: #ffffff !important;">
-<thead style="background-color: #0050b3 !important; color: #ffffff !important;">
-<tr>
-<th style="padding: 10px; border: 1px solid #ddd;">檢查項目</th>
-<th style="padding: 10px; border: 1px solid #ddd;">量化條件</th>
-<th style="padding: 10px; border: 1px solid #ddd;">白話文解釋</th>
-</tr>
-</thead>
-<tbody style="color: #333 !important;">
-<tr>
-<td style="padding: 10px; border: 1px solid #ddd; font-weight: bold;">1️⃣ 趨勢確認</td>
-<td style="padding: 10px; border: 1px solid #ddd;">MA8 &gt; MA21 &gt; MA55</td>
-<td style="padding: 10px; border: 1px solid #ddd;">均線呈現多頭排列，確保大方向向上。</td>
-</tr>
-<tr style="background-color: #f9f9f9 !important;">
-<td style="padding: 10px; border: 1px solid #ddd; font-weight: bold;">2️⃣ 動能檢查</td>
-<td style="padding: 10px; border: 1px solid #ddd;">均線發散度 &gt; 2%</td>
-<td style="padding: 10px; border: 1px solid #ddd;">短期均線比長期均線高出 2% 以上，代表趨勢加速中，非盤整。</td>
-</tr>
-<tr>
-<td style="padding: 10px; border: 1px solid #ddd; font-weight: bold;">3️⃣ 強度過濾</td>
-<td style="padding: 10px; border: 1px solid #ddd;">ADX &gt; 20</td>
-<td style="padding: 10px; border: 1px solid #ddd;">ADX 是趨勢強度指標，大於 20 代表趨勢明確，避開死魚盤。</td>
-</tr>
-<tr style="background-color: #f9f9f9 !important;">
-<td style="padding: 10px; border: 1px solid #ddd; font-weight: bold;">4️⃣ 突破訊號</td>
-<td style="padding: 10px; border: 1px solid #ddd;">收盤創 20 日新高</td>
-<td style="padding: 10px; border: 1px solid #ddd;">不猜底，等股價真正突破盤整區間才進場。</td>
-</tr>
-<tr>
-<td style="padding: 10px; border: 1px solid #ddd; font-weight: bold;">5️⃣ 籌碼同步</td>
-<td style="padding: 10px; border: 1px solid #ddd;">投信連買 ≥ 2 天</td>
-<td style="padding: 10px; border: 1px solid #ddd;">跟著「大人」（法人）走，確保後續有買盤支撐。</td>
-</tr>
-<tr style="background-color: #f9f9f9 !important;">
-<td style="padding: 10px; border: 1px solid #ddd; font-weight: bold;">6️⃣ 量能爆發</td>
-<td style="padding: 10px; border: 1px solid #ddd;">當日量 &gt; 5MA &gt; 20MA</td>
-<td style="padding: 10px; border: 1px solid #ddd;">有量才有價，確認攻擊訊號真實性。</td>
-</tr>
-</tbody>
-</table>
-</div>
-<p style="font-size: 0.9em; color: #666; margin-top: 10px;">(💡 研究心得：這套檢查表可以幫助投資人過濾掉 80% 的無效交易。)</p>
-<h3 style="color: #0050b3 !important;">🛡️ 防守鐵律</h3>
-<ul style="background-color: #e6f7ff !important; padding: 20px 20px 20px 40px; border-radius: 8px; border-left: 5px solid #0050b3; color: #333 !important;">
-<li style="margin-bottom: 10px;"><strong>硬停損：</strong> 進場後虧損達 <strong>6%</strong> 立刻出場。</li>
-<li><strong>移動停利：</strong> 收盤跌破 21日均線 (月線) 出場。</li>
-</ul>
-<p>為什麼是 6%？ 台股一根長黑 K 平均跌幅約 5-7%。設定 6% 能在「慘劇發生前」逃生。太緊 (3%) 容易被洗，太鬆 (10%) 傷太重。</p>
-<h2 style="color: #2c3e50 !important; border-bottom: 2px solid #0050b3; padding-bottom: 10px; margin-top: 40px;">三、殘酷數據：1,036 筆交易的真實成績單</h2>
-<p>回測跑完後，我們得到了 1,036 筆 交易紀錄。這不是少數幸運兒的結果，而是大數法則的展現。</p>
-<h3 style="color: #0050b3 !important;">📊 8 年回測績效總表</h3>
-<div style="overflow-x: auto; margin-top: 20px;">
-<table style="width: 100%; border-collapse: collapse; min-width: 500px; text-align: center; background-color: #ffffff !important;">
-<thead style="background-color: #333333 !important; color: #ffffff !important;">
-<tr>
-<th style="padding: 10px;">項目</th>
-<th style="padding: 10px;">數值</th>
-<th style="padding: 10px;">備註</th>
-</tr>
-</thead>
-<tbody style="color: #333 !important;">
-<tr>
-<td style="padding: 10px; border: 1px solid #ddd;">回測期間</td>
-<td style="padding: 10px; border: 1px solid #ddd;">2018/01 - 2025/12</td>
-<td style="padding: 10px; border: 1px solid #ddd;">測試年份</td>
-</tr>
-<tr style="background-color: #f9f9f9 !important;">
-<td style="padding: 10px; border: 1px solid #ddd;">起始資金</td>
-<td style="padding: 10px; border: 1px solid #ddd;">100 萬</td>
-<td style="padding: 10px; border: 1px solid #ddd;">假設</td>
-</tr>
-<tr>
-<td style="padding: 10px; border: 1px solid #ddd;">最終資金</td>
-<td style="padding: 10px; border: 1px solid #ddd;">196 萬</td>
-<td style="padding: 10px; border: 1px solid #ddd;">(回測計算值)</td>
-</tr>
-<tr style="background-color: #f9f9f9 !important;">
-<td style="padding: 10px; border: 1px solid #ddd;">總報酬率</td>
-<td style="padding: 10px; border: 1px solid #ddd; font-weight: bold; color: #cf1322 !important;">+96%</td>
-<td style="padding: 10px; border: 1px solid #ddd;">年化 8.9% (採 10% 資金保守策略)</td>
-</tr>
-<tr>
-<td style="padding: 10px; border: 1px solid #ddd;">總交易次數</td>
-<td style="padding: 10px; border: 1px solid #ddd;">1,036 次</td>
-<td style="padding: 10px; border: 1px solid #ddd;">平均每週 2-3 次出手</td>
-</tr>
-<tr style="background-color: #f9f9f9 !important;">
-<td style="padding: 10px; border: 1px solid #ddd;">勝率</td>
-<td style="padding: 10px; border: 1px solid #ddd; font-weight: bold;">31.76%</td>
-<td style="padding: 10px; border: 1px solid #ddd;">每 10 次約 7 次賠錢</td>
-</tr>
-<tr>
-<td style="padding: 10px; border: 1px solid #ddd;">盈虧比 (P/L)</td>
-<td style="padding: 10px; border: 1px solid #ddd; font-weight: bold; color: #0050b3 !important;">2.78</td>
-<td style="padding: 10px; border: 1px solid #ddd;">贏一次賺的錢，抵過 2.78 次虧損</td>
-</tr>
-<tr style="background-color: #f9f9f9 !important;">
-<td style="padding: 10px; border: 1px solid #ddd;">期望值</td>
-<td style="padding: 10px; border: 1px solid #ddd;">+1.0%</td>
-<td style="padding: 10px; border: 1px solid #ddd;">每筆交易平均預期獲利</td>
-</tr>
-<tr style="background-color: #ffe6e6 !important;">
-<td style="padding: 10px; border: 1px solid #ddd;">最大回撤</td>
-<td style="padding: 10px; border: 1px solid #ddd; font-weight: bold; color: #006400 !important;">-43.98%</td>
-<td style="padding: 10px; border: 1px solid #ddd;">發生於 2022 年股災</td>
-</tr>
-</tbody>
-</table>
-</div>
-<h3 style="color: #0050b3 !important; margin-top: 30px;">🔍 特別觀察：2025 年的異常現象</h3>
-<p>我在回測數據中包含了一段 「2025 年模擬壓力測試」。結果顯示，策略在 2025 年的表現異常優異：</p>
-<ul>
-<li><strong>勝率：</strong> 32.97% (與歷史相當)</li>
-<li><strong>盈虧比：</strong> 飆升至 4.45 (歷史平均僅 2.61)</li>
-<li><strong>捕獲個股：</strong> 南亞科 (+163%)、台達電 (+156%)</li>
-</ul>
-<p><strong>💡 我的看法：</strong><br>這並不是因為 2025 年特別好賺，而是證明了這套策略具有 「凸性 (Convexity)」。在平淡年份可能小賠，但在趨勢明顯的年份（如 2025 或 2023），獲利會呈指數級爆發。</p>
-<h2 style="color: #2c3e50 !important; border-bottom: 2px solid #0050b3; padding-bottom: 10px; margin-top: 40px;">四、與 0050 比較：誰比較強？</h2>
-<p>為了客觀評估策略表現，我們將 8 年回測結果與同期 0050 進行比較：</p>
-<div style="overflow-x: auto; margin-top: 20px;">
-<table style="width: 100%; border-collapse: collapse; min-width: 500px; text-align: center; background-color: #ffffff !important;">
-<thead style="background-color: #0050b3 !important; color: #ffffff !important;">
-<tr>
-<th style="padding: 10px; border: 1px solid #ddd;">項目</th>
-<th style="padding: 10px; border: 1px solid #ddd;">本策略</th>
-<th style="padding: 10px; border: 1px solid #ddd;">0050 (估算)</th>
-</tr>
-</thead>
-<tbody style="color: #333 !important;">
-<tr>
-<td style="padding: 10px; border: 1px solid #ddd;">年化報酬率</td>
-<td style="padding: 10px; border: 1px solid #ddd;">8.9%</td>
-<td style="padding: 10px; border: 1px solid #ddd;">約 10-11%</td>
-</tr>
-<tr style="background-color: #f9f9f9 !important;">
-<td style="padding: 10px; border: 1px solid #ddd;">最大回撤</td>
-<td style="padding: 10px; border: 1px solid #ddd; color: #006400 !important;">-43.98%</td>
-<td style="padding: 10px; border: 1px solid #ddd; color: #006400 !important;">約 -35%</td>
-</tr>
-<tr>
-<td style="padding: 10px; border: 1px solid #ddd;">勝率</td>
-<td style="padding: 10px; border: 1px solid #ddd;">31.76%</td>
-<td style="padding: 10px; border: 1px solid #ddd;">約 70%+ (持有即勝)</td>
-</tr>
-<tr style="background-color: #f9f9f9 !important;">
-<td style="padding: 10px; border: 1px solid #ddd;">操作難度</td>
-<td style="padding: 10px; border: 1px solid #ddd;">需紀律停損</td>
-<td style="padding: 10px; border: 1px solid #ddd;">買入持有即可</td>
-</tr>
-</tbody>
-</table>
-</div>
-<p><strong>結論：</strong> 單純以報酬率來看，長期持有 0050 的績效略優於本策略。但本策略的價值在於：</p>
-<ul>
-<li><strong>爆發力：</strong> 在趨勢明確年份（如 2023、2025）表現優於大盤。</li>
-<li><strong>學習價值：</strong> 透過量化回測，理解「大賺小賠」的邏輯。</li>
-</ul>
-<h2 style="color: #2c3e50 !important; border-bottom: 2px solid #0050b3; padding-bottom: 10px; margin-top: 40px;">五、風險揭露：你能忍受「連續 24 次停損」嗎？</h2>
-<p>做量化交易不能只看賺錢，要看最慘的時候會怎樣。數據顯示，回測期間曾出現 <strong>連續 24 次停損</strong> 的極端情況。這主要發生在 2022 年的大空頭市場。</p>
-<div style="background-color: #333333 !important; color: #ffffff !important; padding: 20px; border-radius: 8px;">
-<h4 style="margin-top: 0; color: #ffec3d !important;">📉 壓力測試：連虧 24 次會破產嗎？</h4>
-<p>假設我們採用 固定比例資金管理，每次投入帳戶總資金的 10%，且每次都觸發 6% 停損（實際損失本金的 0.6%）：</p>
-<p><strong>計算公式：</strong></p>
-<div style="text-align: center; font-size: 1.2em; margin: 15px 0;">(1 - 0.6%)^24 ≈ 0.865</div>
-<p><strong>結論：</strong> 雖然連續被打臉 24 次很痛，但你的本金只會減損約 <strong>13.5%</strong>，並不會破產。只要接下來抓到一隻像 緯創 (+133%) 這樣的股票，不僅虧損全補回來，資產還會創新高。</p>
-</div>
-<h2 style="color: #2c3e50 !important; border-bottom: 2px solid #0050b3; padding-bottom: 10px; margin-top: 40px;">六、實戰 MVP：以「緯創」為例</h2>
-<p>這套策略最經典的戰役，就是在 2023 年 5 月 抓到了 AI 伺服器龍頭 緯創 (3231)。</p>
-<ul>
-<li><strong>進場點 (2023-05-19)：</strong> 股價突破盤整創 20 日高，投信連續買超，ADX 轉強。</li>
-<li><strong>出場點 (2023-08-02)：</strong> 股價跌破 21MA (月線)，獲利了結。</li>
-<li><strong>戰果：</strong> <span style="color: #cf1322 !important; font-weight: bold;">+133.51%</span></li>
-</ul>
-<p>如果你是憑感覺做股票，很可能在賺 20% 的時候就跑了，根本吃不到後面這段最肥的魚身。量化交易沒有感情，它只遵守紀律，抱到趨勢結束為止。</p>
-<h2 style="color: #2c3e50 !important; border-bottom: 2px solid #0050b3; padding-bottom: 10px; margin-top: 40px;">七、研究總結：給投資人的 3 個思考</h2>
-<p>看完了 8 年的數據回測，我整理出三個核心體悟供大家參考：</p>
-<ol>
-<li><strong>放棄預測，專注確認：</strong> 不要去猜底部在哪，耐心等待「均線發散 + 投信連買」的訊號出現。</li>
-<li><strong>嚴格執行停損：</strong> 回測顯示，-6% 是一個有效的保命線。不要因為不想賠錢而凹單，那會讓你錯失下次進場的機會。</li>
-<li><strong>資金分散是關鍵：</strong> 既然勝率只有 30%，單筆投入建議不超過總資金的 10%，這是度過連敗期的救生圈。</li>
-</ol>
-<p style="font-weight: bold; text-align: center; margin-top: 30px;">「散戶最大的優勢，不是比勝率，而是比紀律能不能活得久。」</p>
-<p style="text-align: center;">(喜歡這篇文章嗎？歡迎分享給需要在股市中找方向的朋友！)</p>
-</div>
             ]]>
         </content>
     </entry>
