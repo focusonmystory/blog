@@ -3,12 +3,89 @@
     <title>科技老兵的生活筆記</title>
     <link href="https://focusonmystory.pages.dev/feed.xml" rel="self" />
     <link href="https://focusonmystory.pages.dev" />
-    <updated>2026-01-29T20:52:04+08:00</updated>
+    <updated>2026-01-30T18:59:46+08:00</updated>
     <author>
         <name>老兵</name>
     </author>
     <id>https://focusonmystory.pages.dev</id>
 
+    <entry>
+        <title>【AI 日更量化雷達 #006】權王 RSI 觸地！0050 爆發「集體超跌」：均值回歸引力下的黃金坑位階</title>
+        <author>
+            <name>老兵</name>
+        </author>
+        <link href="https://focusonmystory.pages.dev/2026-01-30.html"/>
+        <id>https://focusonmystory.pages.dev/2026-01-30.html</id>
+
+        <updated>2026-01-30T18:59:46+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    數據監測日：2026-01-30 | 策略核心：極端均值回歸 (v28.0) 正如昨日預警，大盤在年線乖離率破 30% 後感受到了強大的物理引力。今日 0050 成分股出現了極其罕見的現象：權值股集體轉向極度超跌。 ● 為什麼台積電 (2330) 出現 RSI=0？ 這就是極端均值回歸的力量。在 Bias 高達 40% 的情況下，任何風吹草動都會觸發多殺多。目前的 RSI=0 並非趨勢反轉，而是乖離過大後的「物理性修正」。 ● 緯創 (3231) 與聯電 (2303) 的機會？ 兩者皆處於 RSI=0 且維持 🟢多頭趨勢。當大盤權值股開始止跌時，這類「先行修正」的標的通常會是反彈的第一波領頭羊。 由 AI 鋼鐵監控產線 v28.0 自動生成 「量化核心：理解情緒的擺盪，在重力回歸中找尋被錯殺的價值。」
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div style="font-family: 'PingFang TC', 'Microsoft JhengHei', sans-serif; line-height: 1.8; color: #333; max-width: 900px; margin: 0 auto; padding: 45px; border: 1px solid #eef2f6; border-radius: 28px; background-color: #ffffff; box-shadow: 0 20px 60px rgba(0,0,0,0.08);"><header style="text-align: center; margin-bottom: 45px;">
+<div style="height: 5px; width: 100px; background: linear-gradient(90deg, #ea4335, #1a73e8); margin: 25px auto;"> </div>
+<p style="color: #5f6368; font-size: 16px;">數據監測日：2026-01-30 | 策略核心：極端均值回歸 (v28.0)</p>
+</header>
+<section style="background-color: #fff8f8; padding: 30px; border-radius: 20px; margin-bottom: 40px; border: 1px solid #fde2e2;">
+<h3 style="color: #d93025; margin-top: 0; font-size: 22px; display: flex; align-items: center;"><span style="margin-right: 12px;">🌍</span> 大盤森林解讀：31% 乖離後的「重力崩落」</h3>
+<p style="font-size: 16px; color: #3c4043; margin-bottom: 20px;">正如昨日預警，大盤在年線乖離率破 30% 後感受到了強大的物理引力。今日 0050 成分股出現了極其罕見的現象：<strong>權值股集體轉向極度超跌。</strong></p>
+<ul style="font-size: 15px; color: #555; padding-left: 20px;">
+<li style="margin-bottom: 10px;"><strong>權王觸地：</strong> 台積電 (2330) 僅用兩天就從 RSI=100 殺到 <strong>RSI=0</strong>，價格修正至 1775。</li>
+<li style="margin-bottom: 10px;"><strong>結構性回測：</strong> 鴻海、聯發科、聯電同步觸發 RSI=0。這不是單一公司的問題，而是市場整體的「縮量修正」。</li>
+<li style="margin-bottom: 10px;"><strong>引力評價：[🟢 均值回歸機會區]</strong>。雖然 Bias 仍高，但情緒面已跌至地板，短期反彈期望值上升。</li>
+</ul>
+</section>
+<section style="margin-bottom: 45px;">
+<h3 style="color: #1a73e8; border-bottom: 2px solid #f1f3f4; padding-bottom: 15px; font-size: 22px;">📊 跨日演進：從「瘋狂」到「洗盤」</h3>
+<table style="width: 100%; border-collapse: collapse; margin-top: 20px; font-size: 15px;">
+<thead>
+<tr style="background-color: #f8f9fa; border-bottom: 2px solid #eee;">
+<th style="padding: 15px; text-align: left;">演進狀態</th>
+<th style="padding: 15px; text-align: left;">標的名稱</th>
+<th style="padding: 15px; text-align: center;">1/29 數據</th>
+<th style="padding: 15px; text-align: center; color: #1a73e8;">1/30 表現</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 15px;"><span style="color: #d93025; font-weight: bold;">⚠️ 重力釋放</span></td>
+<td style="padding: 15px;">台積電 (2330)</td>
+<td style="padding: 15px; text-align: center;">RSI = 72.7</td>
+<td style="padding: 15px; text-align: center; font-weight: bold; color: #d93025;">RSI = 0 (-2.47%)</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 15px;"><span style="color: #1a73e8; font-weight: bold;">💎 接棒黃金坑</span></td>
+<td style="padding: 15px;">緯創 (3231)</td>
+<td style="padding: 15px; text-align: center;">RSI = 0</td>
+<td style="padding: 15px; text-align: center;">RSI = 0 (持續探底)</td>
+</tr>
+<tr>
+<td style="padding: 15px;"><span style="color: #1e7e34; font-weight: bold;">✅ 強韌守穩</span></td>
+<td style="padding: 15px;">研華 (2395)</td>
+<td style="padding: 15px; text-align: center;">RSI = 100</td>
+<td style="padding: 15px; text-align: center;">+0.34% (緩步降溫)</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section style="text-align: center; margin-bottom: 45px;">
+<h3 style="color: #1a73e8; border-bottom: 2px solid #f1f3f4; padding-bottom: 15px; text-align: left; font-size: 22px;">🎨 今日市場情緒熱力圖 (v28.0 修復版)</h3>
+<figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/27/rsi2_heatmap_2026-01-30.png" alt="" width="4800" height="3000" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/27/responsive/rsi2_heatmap_2026-01-30-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/27/responsive/rsi2_heatmap_2026-01-30-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/27/responsive/rsi2_heatmap_2026-01-30-md.png 768w ,https://focusonmystory.pages.dev/media/posts/27/responsive/rsi2_heatmap_2026-01-30-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/27/responsive/rsi2_heatmap_2026-01-30-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/27/responsive/rsi2_heatmap_2026-01-30-2xl.png 1600w"></figure><span style="color: #888888; font-size: 14px; background-color: #fafafa;">🔍 </span><strong style="font-size: 14px; background-color: #fafafa;">視覺說明：</strong><span style="color: #888888; font-size: 14px; background-color: #fafafa;"> 畫面呈現大規模亮綠色，代表 0050 指數正經歷系統性超跌。此時「縮量」將是反彈的最後確認訊號。</span></p>
+</section>
+<section style="margin-bottom: 40px;">
+<h3 style="color: #1a73e8; border-bottom: 2px solid #f1f3f4; padding-bottom: 15px; font-size: 22px;">🔍 專業決策筆記</h3>
+<div style="line-height: 2;">
+<p style="font-size: 16px; margin-bottom: 15px;"><strong>● 為什麼台積電 (2330) 出現 RSI=0？</strong><br>這就是極端均值回歸的力量。在 Bias 高達 40% 的情況下，任何風吹草動都會觸發多殺多。目前的 RSI=0 並非趨勢反轉，而是乖離過大後的「物理性修正」。</p>
+<p style="font-size: 16px; margin-bottom: 15px;"><strong>● 緯創 (3231) 與聯電 (2303) 的機會？</strong><br>兩者皆處於 RSI=0 且維持 🟢多頭趨勢。當大盤權值股開始止跌時，這類「先行修正」的標的通常會是反彈的第一波領頭羊。</p>
+</div>
+</section>
+<footer style="text-align: center; color: #9aa0a6; font-size: 14px; border-top: 1px solid #f1f3f4; padding-top: 35px;">由 AI 鋼鐵監控產線 v28.0 自動生成<br><span style="font-style: italic;">「量化核心：理解情緒的擺盪，在重力回歸中找尋被錯殺的價值。」</span></footer></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>【AI 日更量化雷達 #005】大盤 30% 乖離引力試探：大立光反彈驗證，資金轉場「緯創」黃金坑</title>
         <author>
@@ -1160,156 +1237,6 @@ def strategy_logic(price_df, monthly_rev_df):
 <li><strong>建議：</strong> 請先用小資金測試，確認自己能承受 -40% 以上的帳面虧損後，再考慮放大資金。</li>
 </ol>
 </div>
-</article>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>【打臉實驗】我用「營收濾網」想賺更多，結果少賺 40%...跌深反彈策略的殘酷真相</title>
-        <author>
-            <name>老兵</name>
-        </author>
-        <link href="https://focusonmystory.pages.dev/why-revenue-growth-fails-trading.html"/>
-        <id>https://focusonmystory.pages.dev/why-revenue-growth-fails-trading.html</id>
-
-        <updated>2025-12-16T21:37:42+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    發布日期：2025-12-16 | 分類：策略研究 在上一篇文章中，我開發了一個針對「跌深反彈」的技術面策略（均線糾結 +跌深 + MACD）。 但身為一個追求完美的開發者，我總想著：「如果我能把那些爛公司過濾掉，只買有基本面支撐的股票，績效一定會更好吧？」 於是我設計了這次的實驗，試圖加入兩道基本面濾網： 我滿心期待地按下回測按鈕，結果跑出來的數據，卻給了我一記當頭棒喝。 為了確保實驗嚴謹，我設定了以下條件： 結果如下： 註：原始策略在 7 年內共觸發 796 筆交易，平均每年約 110 次，即每 3 天就有一次機會。 發現了什麼？ 這個結果雖然違反直覺，但仔細分析後，卻非常符合股市的運作邏輯。以下是四個專業級的洞察： 這是我學到最重要的一課。MoM 在這裡失效，不是因為基本面不重要，而是因為「進場延遲」。 在量化交易中，加越多條件不代表越好。想像你在挑選約會對象： 技術面策略也是如此。當「均線糾結 + MACD金叉」已經是一個完整的訊號時，再疊加基本面濾網，反而會把最好的機會過濾掉。 👉 記住：價格本身就是最即時的資訊總和。 這是一個殘酷的事實：基本面較弱、籌碼結構較凌亂的個股，在情緒修復階段，反彈幅度往往比績優股更劇烈。 ✅ 適合： ❌ 不適合： 這次的失敗實驗，其實比成功更有價值。它教會了我兩件事： (本文數據基於 2018-2025 歷史回測研究，過去績效不代表未來獲利) Q1: 那基本面是不是沒用？ A: 不是！基本面在「長線投資」很重要，但在「跌深反彈」這種短線策略就變累贅。關鍵是「時間尺度要匹配」。 Q2:&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <header>
-<p class="meta">發布日期：2025-12-16 | 分類：策略研究</p>
-</header>
-<article>
-<blockquote><strong>📝 關鍵重點 (3分鐘速讀版)</strong>
-<ul style="margin-top: 10px;">
-<li><strong>實驗目的</strong>：試圖為「跌深反彈策略」加入基本面濾網（YoY 與 MoM），希望能避雷並提高獲利。</li>
-<li><strong>意外結果</strong>：加入濾網後，績效不增反減。<strong>原始的純技術面策略 (3.62%) 表現最好</strong>。</li>
-<li><strong>深度啟示</strong>：問題不在基本面無效，而在於<strong>「時間尺度錯配」</strong>。拿「月」單位的營收去抓「日」單位的反彈，就像<strong>用月曆去約今天下午的電影</strong>，註定會錯過開場。</li>
-</ul>
-</blockquote>
-<hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
-<p>在<a href="https://focusonmystory.pages.dev/macd_strategy">上一篇文章</a>中，我開發了一個針對「跌深反彈」的技術面策略（均線糾結 +跌深 + MACD）。</p>
-<p>但身為一個追求完美的開發者，我總想著：「如果我能把那些爛公司過濾掉，只買有基本面支撐的股票，績效一定會更好吧？」</p>
-<p>於是我設計了這次的實驗，試圖加入兩道基本面濾網：</p>
-<ol>
-<li><strong>績優思維 (YoY &gt; 0)</strong>：只買營收年增的股票。</li>
-<li><strong>轉機思維 (MoM &gt; 0)</strong>：只買營收月增（止血）的股票。</li>
-</ol>
-<p>我滿心期待地按下回測按鈕，結果跑出來的數據，卻給了我一記當頭棒喝。</p>
-<h2>💥 數據揭密：越複雜，賺越少？</h2>
-<p>為了確保實驗嚴謹，我設定了以下條件：</p>
-<ul>
-<li><strong>選股時間</strong>：每月 15 號（確保上月營收已公布）。</li>
-<li><strong>持有時間</strong>：<strong>60 天</strong>（測試能否將短線策略轉化為中線波段）。</li>
-<li><strong>交易成本</strong>：扣除手續費與交易稅。</li>
-</ul>
-<p>結果如下：</p>
-<figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/16/experiment_4_comparison.png" alt="" width="1000" height="600" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/16/responsive/experiment_4_comparison-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/16/responsive/experiment_4_comparison-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/16/responsive/experiment_4_comparison-md.png 768w ,https://focusonmystory.pages.dev/media/posts/16/responsive/experiment_4_comparison-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/16/responsive/experiment_4_comparison-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/16/responsive/experiment_4_comparison-2xl.png 1600w"></figure>
-<table>
-<thead>
-<tr>
-<th>策略版本</th>
-<th>核心邏輯</th>
-<th>平均報酬 (每筆)</th>
-<th>交易機會</th>
-<th>回測期間</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>1. 原始策略</strong></td>
-<td><strong>純技術面 (跌深+MACD)</strong></td>
-<td><strong>3.62%</strong> 👑</td>
-<td>796 筆</td>
-<td>2018-2025 (7年)</td>
-</tr>
-<tr>
-<td><strong>2. 績優思維</strong></td>
-<td>加上營收年增 (YoY &gt; 0)</td>
-<td><strong>3.12%</strong></td>
-<td>137 筆</td>
-<td>同上</td>
-</tr>
-<tr>
-<td><strong>3. 轉機思維</strong></td>
-<td>加上營收月增 (MoM &gt; 0)</td>
-<td><strong>1.99%</strong></td>
-<td>370 筆</td>
-<td>同上</td>
-</tr>
-</tbody>
-</table>
-<p><em>註：原始策略在 7 年內共觸發 796 筆交易，平均每年約 110 次，<strong>即每 3 天就有一次機會</strong>。</em></p>
-<p><strong>發現了什麼？</strong></p>
-<ol>
-<li><strong>原始策略大獲全勝</strong>：什麼濾網都不加，單純看技術面訊號，平均報酬 <strong>3.62%</strong> 最高。</li>
-<li><strong>MoM 濾網反而拖累</strong>：我原本寄予厚望的「轉機濾網 (MoM)」，竟然讓績效掉到 <strong>1.99%</strong>。</li>
-<li><strong>交易機會腰斬</strong>：加入濾網後，交易次數大幅減少，這代表我們錯過了太多「醜小鴨變天鵝」的機會。</li>
-</ol>
-<hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
-<h2>🕵️‍♂️ 深度檢討：為什麼基本面失效了？</h2>
-<p>這個結果雖然違反直覺，但仔細分析後，卻非常符合股市的運作邏輯。以下是四個專業級的洞察：</p>
-<h3>1. 核心原因：時間尺度的錯配 (Time Scale Mismatch)</h3>
-<p>這是我學到最重要的一課。<strong>MoM 在這裡失效，不是因為基本面不重要，而是因為「進場延遲」。</strong></p>
-<div style="background-color: #fdf2f2; padding: 15px; border-left: 4px solid #e74c3c; margin: 15px 0;"><strong>真實案例模擬：某光學股的反彈時序</strong><br>假設一檔股票在 1 月初因產業利空重挫：
-<ul>
-<li><strong>1/5</strong>：股價腰斬，技術面出現超賣。</li>
-<li><strong>1/8</strong>：MACD 金叉，<strong>原始策略進場 @50元</strong> ✅（買在低點）。</li>
-<li><strong>1/10</strong>：公布 12 月營收（YoY -15%, MoM -5%），MoM 策略觀望 ❌。</li>
-<li><strong>1/15~1/30</strong>：股價反彈至 65元 (+30%)，主升段結束。</li>
-<li><strong>2/10</strong>：公布 1 月營收（首次月增 MoM +8%），MoM 策略終於進場 @62元。</li>
-<li><strong>2/11~</strong>：利多出盡，股價開始整理甚至回檔...</li>
-</ul>
-<strong>👉 一句話總結</strong>：原始策略賺了 30%，MoM 策略只賺 5% 甚至可能套牢。這就是「拿月資料抓日行情」的代價。</div>
-<h3>2. 過度濾網的陷阱 (Overfitting)</h3>
-<p>在量化交易中，加越多條件不代表越好。<strong>想像你在挑選約會對象</strong>：</p>
-<ul>
-<li><strong>要求</strong>：身高180、年收百萬、有車有房、還要孝順父母...</li>
-<li><strong>結果</strong>：條件越多，能約到的人越少，最後可能一個都遇不到。</li>
-</ul>
-<p>技術面策略也是如此。當「均線糾結 + MACD金叉」已經是一個完整的訊號時，再疊加基本面濾網，反而會把最好的機會過濾掉。<br><strong>👉 記住：價格本身就是最即時的資訊總和。</strong></p>
-<h3>3. 反彈力道的差異：爛學生的進步獎</h3>
-<p>這是一個殘酷的事實：<strong>基本面較弱、籌碼結構較凌亂的個股，在情緒修復階段，反彈幅度往往比績優股更劇烈。</strong></p>
-<ul>
-<li><strong>績優股 (YoY &gt; 0)</strong>：體質好，本來就跌得少，所以反彈空間也有限。</li>
-<li><strong>爛公司 (原始策略)</strong>：因為市場預期極低，一旦氣氛轉好，容易出現「軋空」或「報復性上漲」。原始策略因為「不挑食」，反而吃到了這些<strong>爛學生拿進步獎</strong>的紅利。</li>
-</ul>
-<hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
-<h2>🎯 這個策略適合誰？</h2>
-<p><strong>✅ 適合：</strong></p>
-<ul>
-<li>追求<strong>「高頻交易 × 賺賠比優勢」</strong>的量化玩家。</li>
-<li>能接受「勝率不到 50%」但懂得用資金控管賺錢的交易者。</li>
-<li>有時間盯盤，能嚴格執行停損的專職投資人。</li>
-</ul>
-<p><strong>❌ 不適合：</strong></p>
-<ul>
-<li>上班族（無法即時反應）。</li>
-<li>追求穩定現金流的存股族。</li>
-<li>看到帳面虧損會睡不著的保守型投資人。</li>
-</ul>
-<h2>總結：簡單，就是力量</h2>
-<p>這次的失敗實驗，其實比成功更有價值。它教會了我兩件事：</p>
-<ol>
-<li><strong>策略要對應時間尺度</strong>：短線策略看技術面（反應快），長線策略看基本面（反應慢）。混在一起用，只會互相打架。</li>
-<li><strong>尊重數據</strong>：直覺覺得「加基本面比較安全」，但數據說「不，這樣會少賺」。在市場面前，我們必須謙卑地相信數據。</li>
-</ol>
-<p><em>(本文數據基於 2018-2025 歷史回測研究，過去績效不代表未來獲利)</em></p>
-<hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
-<h2>🙋 常見問題 Q&amp;A</h2>
-<p><strong>Q1: 那基本面是不是沒用？</strong><br>A: 不是！基本面在「長線投資」很重要，但在「跌深反彈」這種短線策略就變累贅。關鍵是「時間尺度要匹配」。</p>
-<p><strong>Q2: 我可以把 60 天改成 12 天嗎？</strong><br>A: 可以！本文特意測試 60 天，是為了證明「拉長無益」。實際執行建議 <strong>12-20 天</strong>，才能吃到最肥的魚頭。</p>
-<p><strong>Q3: 這個策略現在還有效嗎？</strong><br>A: 回測到 2025 年，但市場會進化。建議每季檢討績效，如果連續虧損超過 20 筆就停用。</p>
-<p><strong>Q4: 這個策略需要哪些工具？</strong><br>A: 最低需求只有三樣：</p>
-<ol>
-<li>能顯示 MACD 指標的看盤軟體。</li>
-<li>能查詢營收公告的資料源（如公開資訊觀測站）。</li>
-<li><strong>紀律執行停損停利的意志力 ← 這個最重要！</strong></li>
-</ol>
 </article>
             ]]>
         </content>
