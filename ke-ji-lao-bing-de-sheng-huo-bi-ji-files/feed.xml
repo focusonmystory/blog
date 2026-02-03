@@ -3,12 +3,320 @@
     <title>科技老兵的生活筆記</title>
     <link href="https://focusonmystory.pages.dev/feed.xml" rel="self" />
     <link href="https://focusonmystory.pages.dev" />
-    <updated>2026-02-02T22:24:18+08:00</updated>
+    <updated>2026-02-03T20:21:37+08:00</updated>
     <author>
         <name>老兵</name>
     </author>
     <id>https://focusonmystory.pages.dev</id>
 
+    <entry>
+        <title>【AI 日更量化雷達 #007】引力大爆發！台積電 RSI 垂直彈升，0050 成功脫離「情緒冰封區」</title>
+        <author>
+            <name>老兵</name>
+        </author>
+        <link href="https://focusonmystory.pages.dev/2026-02-03.html"/>
+        <id>https://focusonmystory.pages.dev/2026-02-03.html</id>
+
+        <updated>2026-02-03T20:21:37+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    數據監測日：2026-02-03 | 策略核心：極端均值回歸驗證 (v40.0 Autopilot) 在經歷昨日 0050 集體觸地（RSI=0）的極端冰封後，今日市場如期觸發強勁的物理性反彈。權王台積電與 AI 核心緯創領頭噴發，證明了「重力回歸」在極端情緒下的強大修復力。 🔍 數據觀察： 熱力圖從昨日的亮綠轉為暖色，代表超跌動能已轉化為上攻引力。 ● 均值回歸的統計力量： 昨日 0050 集體觸地後的反彈完全符合量化模型預期。當市場出現系統性情緒斷層，反彈的機率高達 74% 以上。 ● 警惕「高乖離陷阱」： 儘管今日反彈亮眼，但台積電年線乖離仍處於 41.9% 的高位。量化建議：此處應視為波段反彈，而非長線無腦加碼，需防範第二波重力修正。 由 AI 鋼鐵監控產線 v40.0 自動生成 | 數據驅動．紀律執行
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div style="font-family: 'PingFang TC', 'Microsoft JhengHei', sans-serif; line-height: 1.8; color: #333; max-width: 900px; margin: 0 auto; padding: 45px; border: 1px solid #eef2f6; border-radius: 28px; background-color: #ffffff; box-shadow: 0 20px 60px rgba(0,0,0,0.08);"><header style="text-align: center; margin-bottom: 45px;">
+<div style="height: 5px; width: 100px; background: linear-gradient(90deg, #34a853, #1a73e8); margin: 25px 0;"> </div>
+<p style="color: #5f6368; font-size: 16px; text-align: left;">數據監測日：2026-02-03 | 策略核心：極端均值回歸驗證 (v40.0 Autopilot)</p>
+</header>
+<section style="background-color: #f8fdf9; padding: 30px; border-radius: 20px; margin-bottom: 40px; border: 1px solid #e6f4ea;">
+<h3 style="color: #1e7e34; margin-top: 0; font-size: 22px; display: flex; align-items: center;"><span style="margin-right: 12px;">🌍</span> 市場氣候：🟢 反彈修復模式 (Spring Recovery)</h3>
+<p style="font-size: 16px;">在經歷昨日 0050 集體觸地（RSI=0）的極端冰封後，今日市場如期觸發強勁的物理性反彈。權王台積電與 AI 核心緯創領頭噴發，證明了「重力回歸」在極端情緒下的強大修復力。</p>
+</section>
+<div style="text-align: center; margin: 40px 0;"><figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/30/rsi_heatmap_2026-02-03.png" alt="" width="4800" height="3000" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/30/responsive/rsi_heatmap_2026-02-03-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/30/responsive/rsi_heatmap_2026-02-03-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/30/responsive/rsi_heatmap_2026-02-03-md.png 768w ,https://focusonmystory.pages.dev/media/posts/30/responsive/rsi_heatmap_2026-02-03-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/30/responsive/rsi_heatmap_2026-02-03-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/30/responsive/rsi_heatmap_2026-02-03-2xl.png 1600w"></figure><br>
+<p style="font-size: 14px; color: #888; margin-top: 15px;">🔍 <strong>數據觀察：</strong> 熱力圖從昨日的亮綠轉為暖色，代表超跌動能已轉化為上攻引力。</p>
+</div>
+<section style="margin-bottom: 45px;">
+<h3 style="color: #1a73e8; border-bottom: 2px solid #f1f3f4; padding-bottom: 15px; font-size: 22px;">📊 24H 數據深度演進 (2/2 -&gt; 2/3)</h3>
+<table style="width: 100%; border-collapse: collapse; margin-top: 20px; font-size: 15px;">
+<thead>
+<tr style="background-color: #f8f9fa; border-bottom: 2px solid #eee;">
+<th style="padding: 15px; text-align: left;">演進狀態</th>
+<th style="padding: 15px; text-align: left;">標的名稱</th>
+<th style="padding: 15px; text-align: center;">昨日 RSI</th>
+<th style="padding: 15px; text-align: center; color: #1a73e8;">今日動態</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 15px;"><span style="color: #1e7e34; font-weight: bold;">✅ 反彈驗證</span></td>
+<td style="padding: 15px;">台積電 (2330)</td>
+<td style="padding: 15px; text-align: center;">0.0</td>
+<td style="padding: 15px; text-align: center; font-weight: bold; color: #1e7e34;">77.7 (脫離真空區)</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 15px;"><span style="color: #1e7e34; font-weight: bold;">💎 金坑脫離</span></td>
+<td style="padding: 15px;">緯創 (3231)</td>
+<td style="padding: 15px; text-align: center;">0.0</td>
+<td style="padding: 15px; text-align: center; font-weight: bold; color: #1e7e34;">75.0 (強勢反彈)</td>
+</tr>
+<tr>
+<td style="padding: 15px;"><span style="color: #1a73e8; font-weight: bold;">🛡️ 底部確認</span></td>
+<td style="padding: 15px;">研華 (2395)</td>
+<td style="padding: 15px; text-align: center;">0.0</td>
+<td style="padding: 15px; text-align: center; font-weight: bold; color: #1a73e8;">30.7 (止跌回穩)</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section style="margin-bottom: 45px;">
+<h3 style="color: #1a73e8; font-size: 22px; border-bottom: 2px solid #f1f3f4; padding-bottom: 15px;">🔍 鋼鐵量化決策筆記</h3>
+<div style="line-height: 2; font-size: 16px; color: #444;">
+<p><strong>● 均值回歸的統計力量：</strong><br>昨日 0050 集體觸地後的反彈完全符合量化模型預期。當市場出現系統性情緒斷層，反彈的機率高達 74% 以上。</p>
+<p><strong>● 警惕「高乖離陷阱」：</strong><br>儘管今日反彈亮眼，但台積電年線乖離仍處於 41.9% 的高位。量化建議：此處應視為波段反彈，而非長線無腦加碼，需防範第二波重力修正。</p>
+</div>
+</section>
+<footer style="text-align: center; color: #9aa0a6; font-size: 14px; border-top: 1px solid #f1f3f4; padding-top: 35px;">由 AI 鋼鐵監控產線 v40.0 自動生成 | 數據驅動．紀律執行</footer></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>【量化實戰】我回測了 101 個華爾街因子，結果最複雜的數學輸給了最簡單的動能——台股 12 年全歷史驗證</title>
+        <author>
+            <name>老兵</name>
+        </author>
+        <link href="https://focusonmystory.pages.dev/alpha-101-taiwan-stock-backtest-momentum-vs-0050.html"/>
+        <id>https://focusonmystory.pages.dev/alpha-101-taiwan-stock-backtest-momentum-vs-0050.html</id>
+
+        <updated>2026-02-03T19:02:33+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    這是一場關於「數學 vs 人性」的實驗。 華爾街著名的 WorldQuant 發布了 Alpha 101 因子，號稱是量化交易的聖經。但這些針對美股設計的數學公式，搬到淺碟、散戶多、且有一家「護國神山」獨大的 台股市場，真的有用嗎？ 為了找出答案，老兵不用 3 年的短數據騙自己，而是直接拉出 2014 ~ 2026 年（共 12 年） 的全歷史數據，進行了一次地毯式的大掃描。 為了確保數據真實，我用 Python (VectorBT + DuckDB) 搭建了一套嚴格的回測系統，並遵循以下方法論： 實驗剛開始，電腦跑出了一個驚人的結果。在 101 個因子中，Alpha 084 的 夏普比率（Sharpe Ratio） 高達 3.96！ 這是什麼概念？在避險基金界，夏普 &gt; 1 是及格，&gt; 2 是優秀，&gt; 3 基本上就是印鈔機了。Alpha 084 的公式極其複雜，用到了&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <article>
+<p><strong>這是一場關於「數學 vs 人性」的實驗。</strong></p>
+<p>華爾街著名的 WorldQuant 發布了 <strong>Alpha 101 因子</strong>，號稱是量化交易的聖經。但這些針對美股設計的數學公式，搬到淺碟、散戶多、且有一家「護國神山」獨大的 <strong>台股市場</strong>，真的有用嗎？</p>
+<p>為了找出答案，老兵不用 3 年的短數據騙自己，而是直接拉出 <strong>2014 ~ 2026 年（共 12 年）</strong> 的全歷史數據，進行了一次地毯式的大掃描。</p>
+<div class="callout"><span class="callout-title">實驗結果搶先看</span> 結果令人震驚：<strong>90% 的複雜因子都陣亡了，而最後活下來的冠軍，竟然是一個小學生都看得懂的簡單邏輯。</strong></div>
+<hr>
+<h2>🧪 實驗設計：這不是兒戲</h2>
+<p>為了確保數據真實，我用 <strong>Python</strong> (<code>VectorBT</code> + <code>DuckDB</code>) 搭建了一套嚴格的回測系統，並遵循以下方法論：</p>
+<ul>
+<li><strong>資料來源</strong>：自建台股資料庫（上市櫃全經過還原權值）。</li>
+<li><strong>回測區間</strong>：<strong>2014/01/01 ~ 2026/01/30</strong>（穿越中美貿易戰、COVID-19 崩盤、AI 狂潮）。</li>
+<li><strong>⚠️ 方法論聲明</strong>：本文回測區間截至資料庫可得之最近交易日（2026/01/30），<strong>不包含任何未來資料</strong>，所有指標皆使用當下可得資訊計算，以嚴格避免 <strong>未來函數偏誤（Look-ahead Bias）</strong>。</li>
+<li><strong>生存者偏差</strong>：剔除全額交割股，並包含已下市櫃數據。</li>
+<li><strong>濾網條件</strong>：
+<ol>
+<li><strong>流動性濾網</strong>：只買成交金額前 150 名的大股票（不碰冷門股）。</li>
+<li><strong>趨勢濾網</strong>：股價必須站上季線（MA60）才買（只做多頭）。</li>
+</ol>
+</li>
+<li><strong>交易設定</strong>：
+<ul>
+<li><strong>買賣邏輯</strong>：每月月底根據因子分數排序，選取 <strong>排名前 10 名</strong> 個股 <strong>等權配置 (Equal Weight)</strong>。</li>
+<li><strong>交易成本</strong>：手續費 0.1425% + 證交稅 0.3%（模擬真實交易磨損）。</li>
+</ul>
+</li>
+</ul>
+<h2>💥 第一章：數據的陷阱——偽聖杯 Alpha 084</h2>
+<p>實驗剛開始，電腦跑出了一個驚人的結果。在 101 個因子中，<strong>Alpha 084</strong> 的 <strong>夏普比率（Sharpe Ratio）</strong> 高達 <strong>3.96</strong>！</p>
+<p>這是什麼概念？在避險基金界，夏普 &gt; 1 是及格，&gt; 2 是優秀，&gt; 3 基本上就是印鈔機了。Alpha 084 的公式極其複雜，用到了 20 次方的冪運算，看起來充滿了高等數學的智慧。</p>
+<p><strong>但我打開持倉明細一看，心都涼了。</strong></p>
+<h3>❌ Alpha 084 的持倉揭密</h3>
+<table>
+<thead>
+<tr>
+<th>股票代號</th>
+<th>持倉比重</th>
+<th>備註</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2330 (台積電)</strong></td>
+<td>44.12%</td>
+<td>合理，權值王</td>
+</tr>
+<tr>
+<td><strong>TWII (加權指數)</strong></td>
+<td><strong>23.12%</strong></td>
+<td><strong>抓到了！髒數據</strong></td>
+</tr>
+</tbody>
+</table>
+<p>原來，我的資料庫裡混進了 <strong><code>TWII</code> (大盤指數)</strong> 的數據。因為指數的成交量是全市場加總，數值極大，導致 Alpha 084 的公式誤判它是「極端異常股」而重押。</p>
+<div class="callout"><span class="callout-title">教訓一</span> <strong>量化交易的第一課不是數學，是資料清洗 (Data Cleaning)。</strong>剔除指數數據後，Alpha 084 的績效瞬間崩盤，從印鈔機變成了碎紙機。</div>
+<h2>📉 第二章：全軍覆沒？那滿江紅的 -100%</h2>
+<p>修正資料後，我重新跑了一次全掃描。結果報表一出來，我差點把電腦關了。<strong>績效排行榜上一片慘綠，排名前幾名的因子，總報酬率竟然都是 <code>-100.0%</code>。</strong></p>
+<p>難道華爾街的智慧在台股完全失效？不，魔鬼藏在細節裡。</p>
+<table>
+<thead>
+<tr>
+<th>Alpha 代號</th>
+<th>總報酬率</th>
+<th>夏普比率</th>
+<th>狀況診斷</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alpha 002</td>
+<td>-100%</td>
+<td><strong>2.55</strong></td>
+<td>💎 隱藏強者</td>
+</tr>
+<tr>
+<td>Alpha 040</td>
+<td>-100%</td>
+<td><strong>2.23</strong></td>
+<td>💎 隱藏強者</td>
+</tr>
+<tr>
+<td>Alpha 060</td>
+<td>-12%</td>
+<td><strong>1.1</strong></td>
+<td>普通？</td>
+</tr>
+</tbody>
+</table>
+<div class="warning"><strong>⚠️ 技術說明：</strong><br>這是回測引擎的結算機制所致。部分 Alpha 在回測結束日，因投組結算模組未將「未平倉部位」強制轉為最終市值（Mark-to-Market），導致帳面價值暫時顯示為零。 <br><br>經查核，這些策略在回測期間皆有持續持倉與正向波動。因此，本文評估績效時，以 <strong>夏普比率 (Sharpe Ratio)</strong> 與 <strong>權益曲線 (Equity Curve)</strong> 的過程行為為主，排除單點終值的顯示誤差。</div>
+<p><strong>真相是：</strong> 那些顯示 -100% 的策略，其實在過程中表現優異。</p>
+<h2>🏆 第三章：唯一的生存者——Alpha 060</h2>
+<p>在剔除所有雜訊、修復所有 Bug 後，真正的冠軍終於浮出水面。不是最複雜的 Alpha 084，也不是排名前茅但交易次數過少的 Alpha 002。</p>
+<p><strong>真正的實戰冠軍是：Alpha 060。</strong></p>
+<h3>📝 Alpha 060 的邏輯</h3>
+<p>它的公式非常簡單，簡單到像是一句廢話：</p>
+<div class="math-block">Alpha = (2 × Close - Low - High) / (High - Low)</div>
+<p>翻譯成白話文就是：<strong>「這檔股票今天收盤，是不是收在最高點？」</strong></p>
+<ul>
+<li>收在最高 = 強勢 = <strong>買進</strong>。</li>
+<li>收在最低 = 弱勢 = <strong>賣出</strong>。</li>
+</ul>
+<p>這就是標準的 <strong>「動能策略 (Momentum)」</strong>，也就是散戶最愛講的 <strong>「強者恆強」</strong>。</p>
+<h3>📊 Alpha 060 (2014-2026) 最終成績單</h3>
+<table>
+<tbody>
+<tr>
+<td><strong>總報酬率</strong></td>
+<td><strong>+253.01%</strong> (本金翻 3.5 倍)</td>
+</tr>
+<tr>
+<td><strong>夏普比率</strong></td>
+<td><strong>0.72</strong> (長期表現穩健)</td>
+</tr>
+<tr>
+<td><strong>最大回撤</strong></td>
+<td><strong>-35.90%</strong> (遇到熊市會痛，但沒死)</td>
+</tr>
+<tr>
+<td><strong>資金利用率</strong></td>
+<td><strong>100%</strong> (資金效率極高)</td>
+</tr>
+</tbody>
+</table>
+<div class="img-placeholder"><figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/29/Alpha-060-vs-0050.png" alt="" width="763" height="383" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/29/responsive/Alpha-060-vs-0050-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/29/responsive/Alpha-060-vs-0050-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/29/responsive/Alpha-060-vs-0050-md.png 768w ,https://focusonmystory.pages.dev/media/posts/29/responsive/Alpha-060-vs-0050-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/29/responsive/Alpha-060-vs-0050-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/29/responsive/Alpha-060-vs-0050-2xl.png 1600w"></figure> <br><small>Alt text: Alpha 060 momentum strategy equity curve compared with Taiwan 0050 ETF from 2014 to 2026 backtest</small></div>
+<h2>🕵️‍♂️ 第四章：它到底買了什麼？</h2>
+<p>為了降低 <strong>過度擬合（Overfitting）</strong> 的疑慮，我們檢視其在樣本末期（2025/12/31）的實際持倉結構，確認其行為仍符合原始動能邏輯。</p>
+<h3>🏆 Alpha 060 前五大持股：</h3>
+<ol>
+<li><strong>6770 力積電 (24.2%)</strong>：晶圓代工轉型題材。</li>
+<li><strong>8021 尖點 (16.9%)</strong>：PCB 鑽針，AI 伺服器供應鏈。</li>
+<li><strong>2449 京元電 (15.2%)</strong>：AI 晶片封測龍頭。</li>
+<li><strong>2337 旺宏 (13.0%)</strong>：記憶體循環股。</li>
+<li><strong>6805 富世達 (8.9%)</strong>：摺疊機軸承概念。</li>
+</ol>
+<p><strong>發現了嗎？</strong> 全都是<strong>電子股</strong>，而且全都是當下的<strong>熱門題材股</strong>。Alpha 060 不看本益比，不看財報，它只看 <strong>「資金流向」</strong>。主力敢拉到漲停板收盤，Alpha 060 就敢上車。</p>
+<h2>⚔️ 終極對決：Alpha 060 vs 0050</h2>
+<p>最後，我們要把這個策略跟台股的大魔王——<strong>0050 (元大台灣50)</strong> 進行對比。</p>
+<table>
+<thead>
+<tr>
+<th>比較項目</th>
+<th>0050 (大盤)</th>
+<th>Alpha 060 (動能策略)</th>
+<th>勝負</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>12年總報酬</strong></td>
+<td><strong>約 +450%</strong></td>
+<td>+253%</td>
+<td><strong>0050 完勝</strong> ❌</td>
+</tr>
+<tr>
+<td><strong>策略邏輯</strong></td>
+<td>重押台積電 (佔50%+)</td>
+<td>分散買 10 檔強勢股</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>主要風險</strong></td>
+<td>台積電單一個股風險</td>
+<td>電子業景氣循環風險</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>適合盤勢</strong></td>
+<td>權值股拉抬 (拉積盤)</td>
+<td>中小型飆股噴發 (百花齊放)</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<p style="font-size: 0.9em; color: #666; font-style: italic;">⚠️ 註：本比較未進行風險等權調整（如相同最大回撤或波動度），僅為實際資金成長結果之直觀對比。</p>
+<h3>💡 結論：為什麼輸給 0050？</h3>
+<p>不是策略爛，而是 <strong>台積電太強了</strong>。在台股，任何「分散投資」的模型，都很難打敗「重押台積電」的 0050。這是台股特殊的市場結構。</p>
+<p>但 Alpha 060 的價值在於 <strong>「互補」</strong>。如果你只買 0050，你的命運綁在台積電一家公司手上。如果你搭配 Alpha 060，你是綁在 <strong>「全市場最強的 10 支股票」</strong> 身上。</p>
+<h2>❓ 常見問題（FAQ）</h2>
+<p><strong>Q：Alpha 060 適合每天交易嗎？</strong><br>A：不適合。本文使用的是「月調整」設定，目的是降低頻繁交易的手續費成本，並捕捉中期動能。</p>
+<p><strong>Q：這個策略可以套用到美股嗎？</strong><br>A：理論上可以，但 Alpha 060 在台股有效，與台股的市場結構（電子股集中、題材輪動快、散戶追價意願高）高度相關，移植到其他市場需重新驗證。</p>
+<p><strong>Q：為什麼不直接 All-in 0050？</strong><br>A：0050 長期績效優秀，但風險高度集中在台積電。Alpha 060 的定位是 <strong>「衛星策略」</strong>，用來補足盤整期的動能機會。</p>
+<p><strong>Q：這算是 Data Snooping（資料探勘偏誤）嗎？</strong><br>A：本文確實屬於多因子掃描研究，因此結果不應被視為單一因子的「保證有效性」。本研究的價值在於比較不同因子類型在台股的相對表現（如動能優於反轉），而非宣稱 Alpha 060 為唯一正解。</p>
+<hr>
+<h2>🎁 結語</h2>
+<p>這場 12 年的實驗告訴我們三個真理：</p>
+<ol>
+<li><strong>大道至簡</strong>：複雜的 20 次方數學公式是雜訊，簡單的收盤價位置才是訊號。</li>
+<li><strong>資料清洗</strong>：一個 <code>TWII</code> 代號就能毀掉整個回測。</li>
+<li><strong>順勢而為</strong>：在台股，<strong>「追高」</strong>（動能策略）長期來看比「抄底」（反轉策略）更容易存活。</li>
+</ol>
+<p><em>(本文回測數據僅供研究參考，不代表未來績效，投資前請審慎評估)</em></p>
+<hr>
+<h3>📎 附錄：視覺化程式碼</h3>
+<div class="warning" style="border-left-color: #666; background-color: #f9f9f9;">⚠️ 技術說明：下方程式碼僅為「視覺化示意」，實際回測數據與績效計算請以 Python 回測引擎輸出為準，<strong>圖表代碼未包含交易成本、換股邏輯與部位控管細節</strong>。</div>
+<pre><code>import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
+
+# 1. 績效比較圖 (Equity Curve)
+def plot_equity_curve(pf, benchmark):
+    plt.figure(figsize=(12, 6))
+    
+    # 策略淨值歸一化
+    equity = pf.value()
+    equity = equity / equity.iloc[0] * 100 
+    
+    # 0050 淨值歸一化
+    bench = benchmark / benchmark.iloc[0] * 100
+    
+    plt.plot(equity.index, equity.values, label='Alpha 060 (Momentum)', color='#ff7f0e', linewidth=2)
+    plt.plot(bench.index, bench.values, label='0050 (Benchmark)', color='gray', linestyle='--', alpha=0.7)
+    
+    plt.title('Performance Comparison: Alpha 060 vs 0050 (2014-2026)', fontsize=14)
+    plt.xlabel('Year')
+    plt.ylabel('Normalized Value (Base=100)')
+    plt.legend()
+    plt.grid(True, alpha=0.3)
+    plt.show()</code></pre>
+</article>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>【AI 專業量化雷達 #006】0050 全面情緒冰封！研華「垂直跳水」預示修正已進入深水洗盤區</title>
         <author>
@@ -671,401 +979,6 @@
 <p style="margin-bottom: 0; margin-top: 15px; font-weight: bold;">🔔 本系列將每日更新，週末彙整為週報。追蹤本系列，讓數據成為你的第二雙眼睛。</p>
 </div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>2026 台股 ETF 推薦排名 | 新手定期定額完整指南 (含0050、高股息比較)</title>
-        <author>
-            <name>老兵</name>
-        </author>
-        <link href="https://focusonmystory.pages.dev/2026-taiwan-etf-ranking-dca.html"/>
-        <id>https://focusonmystory.pages.dev/2026-taiwan-etf-ranking-dca.html</id>
-
-        <updated>2026-01-20T21:50:53+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    ⚠️ 投資風險聲明 本文為個人投資研究整理，非投資建議。ETF (指數型基金) 投資有風險，過去績效不代表未來表現。 投資前請務必： 詳閱各投信公司公開說明書 評估自身財務狀況與風險承受度 必要時諮詢合格理財顧問 「台股站上高點，現在買 ETF 會不會太晚？」、「身邊朋友都在聊 009xx，我該跟單嗎？」 根據集保結算所 2025 年 12 月統計，全台 ETF 受益人數已突破千萬大關，買這種「被動式基金」幾乎成了全民運動。但新手往往只看「短期績效」或「配息率」，卻忽略了背後的風險。 為了幫大家篩選出真正值得長期持有的標的，我們利用 Python 量化程式，針對台股市場中主要的股票型、主題型與高股息 ETF 進行了量化回測分析。這篇文章不只給你排名，更要教你如何避開「數據陷阱」，找到最適合你的定期定額策略。 2025 年被稱為「主動式 ETF 元年」，許多由經理人主動選股的基金績效驚人，帳面數字甚至超越 0050。 過去幾年大家瘋搶高股息，但在 AI 科技股領漲的環境下，單純追求高配息可能會錯失資產增值的機會。「總報酬（股息+價差）」 才是讓資產翻倍的關鍵。 隨著升息循環結束，長天期美債 ETF 成為熱門標的。但請記住，債券 ETF 的主要角色是降低資產波動與領息，並非保證獲利。匯率風險與信用利差仍需注意。 不要猜高低點，設定每月固定日期扣款（例如每月 5 號扣 5,000 元）。長期下來，買在高點沒關係，低點會買更多股數，成本自然會平攤。這是最適合忙碌上班族的懶人投資術。 以下圖表展示了各分類&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="alert-box"><strong>⚠️ 投資風險聲明</strong><br>本文為個人投資研究整理，非投資建議。ETF (指數型基金) 投資有風險，<strong>過去績效不代表未來表現</strong>。<br>投資前請務必：
-<ol>
-<li>詳閱各投信公司公開說明書</li>
-<li>評估自身財務狀況與風險承受度</li>
-<li>必要時諮詢合格理財顧問</li>
-</ol>
-</div>
-<p>「台股站上高點，現在買 ETF 會不會太晚？」、「身邊朋友都在聊 009xx，我該跟單嗎？」</p>
-<p>根據集保結算所 2025 年 12 月統計，全台 ETF 受益人數已突破千萬大關，買這種「被動式基金」幾乎成了全民運動。但新手往往只看「短期績效」或「配息率」，卻忽略了背後的風險。</p>
-<p>為了幫大家篩選出真正值得長期持有的標的，我們利用 Python 量化程式，<strong>針對台股市場中主要的股票型、主題型與高股息 ETF 進行了量化回測分析</strong>。這篇文章不只給你排名，更要教你如何避開「數據陷阱」，找到最適合你的定期定額策略。</p>
-<div class="info-box"><strong>⚠️ 數據時效性說明：</strong>
-<ul>
-<li>本文績效數據截至 <strong>2025 年 12 月底</strong>，於 2026 年 1 月發布。</li>
-<li>台股市場變化快速，建議搭配即時股價網站確認最新狀況。</li>
-<li>為避免新成立基金因上市時間過短（&lt;2 年）導致年化報酬率（CAGR）失真，本榜單將嚴格區分為 <strong>「🏆 長期考驗榜」</strong> 與 <strong>「🔥 新秀觀察榜」</strong>。</li>
-</ul>
-</div>
-<h2>🌏 PART 1：2026 台股 ETF 市場三大關鍵趨勢</h2>
-<h3>1. 「主動式 ETF」爆紅，但新手請小心</h3>
-<p>2025 年被稱為「主動式 ETF 元年」，許多由經理人主動選股的基金績效驚人，帳面數字甚至超越 0050。</p>
-<ul>
-<li><strong>真相：</strong>許多主動式 ETF 年化報酬率顯示超過 50% 甚至 100%，這通常是因為<strong>「上市時間太短」</strong>加上<strong>「剛好遇到多頭」</strong>所造成的數學放大效果。</li>
-<li><strong>建議：</strong>對新手而言，主動式 ETF 應視為「觀察名單」，而非核心持股。一般建議至少觀察 <strong>完整一輪牛熊（約 3–5 年）</strong>，再評估其是否具備穩定超額報酬能力。</li>
-</ul>
-<h3>2. 「高股息」不再是唯一信仰</h3>
-<p>過去幾年大家瘋搶高股息，但在 AI 科技股領漲的環境下，單純追求高配息可能會錯失資產增值的機會。<strong>「總報酬（股息+價差）」</strong> 才是讓資產翻倍的關鍵。</p>
-<h3>3. 債券 ETF：是「避震器」不是「印鈔機」</h3>
-<p>隨著升息循環結束，長天期美債 ETF 成為熱門標的。但請記住，債券 ETF 的主要角色是<strong>降低資產波動</strong>與<strong>領息</strong>，並非保證獲利。匯率風險與信用利差仍需注意。</p>
-<hr>
-<h2>💰 PART 2：新手怎麼買？兩招教你無腦入門</h2>
-<h3>第一招：定期定額 (Dollar-Cost Averaging)</h3>
-<p>不要猜高低點，設定每月固定日期扣款（例如每月 5 號扣 5,000 元）。長期下來，買在高點沒關係，低點會買更多股數，成本自然會平攤。這是最適合忙碌上班族的懶人投資術。</p>
-<h3>第二招：核心衛星配置 (Core-Satellite)</h3>
-<ul>
-<li><strong>核心持股 (50%-70%)：</strong>求穩。選擇成立超過 5 年的 <strong>市值型 ETF</strong>，跟著大盤走。</li>
-<li><strong>衛星持股 (30%-50%)：</strong>求衝或求息。看好趨勢配 <strong>科技型</strong>，想領現金流配 <strong>高股息</strong>。</li>
-</ul>
-<hr>
-<h2>🏆 PART 3：台股 ETF 績效總體檢 (分類排行)</h2>
-<p>以下圖表展示了各分類 ETF 的年化報酬率表現，讓您一眼看懂誰是真正的獲利王者。</p>
-<figure class="post__image"><img loading="lazy" src="https://focusonmystory.pages.dev/media/posts/20/etf_top5_cagr.png" alt="" width="1000" height="2400" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/20/responsive/etf_top5_cagr-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/20/responsive/etf_top5_cagr-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/20/responsive/etf_top5_cagr-md.png 768w ,https://focusonmystory.pages.dev/media/posts/20/responsive/etf_top5_cagr-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/20/responsive/etf_top5_cagr-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/20/responsive/etf_top5_cagr-2xl.png 1600w">
-<figcaption>動能指揮官 V34 回測數據：各分類年化報酬率 (CAGR) 排行榜。</figcaption>
-</figure>
-<h3>1. 【市值/指數型】資產增長的穩健首選</h3>
-<p>這是最適合做為「核心持股」的類別。以下是成立超過 5 年、經歷過市場考驗的榜單：</p>
-<table>
-<thead>
-<tr>
-<th>排名</th>
-<th>名稱 (代碼)</th>
-<th>年化報酬率</th>
-<th>特色點評</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>富邦台50 (006208)</td>
-<td>21.5%</td>
-<td>內扣費用低，長期追蹤大盤首選</td>
-</tr>
-<tr>
-<td>2</td>
-<td>元大台灣50 (0050)</td>
-<td>20.0%</td>
-<td>台股 ETF 老大哥，流動性最佳</td>
-</tr>
-<tr>
-<td>3</td>
-<td>永豐臺灣加權 (006204)</td>
-<td>18.9%</td>
-<td>涵蓋範圍更廣的加權指數</td>
-</tr>
-<tr>
-<td>4</td>
-<td>富邦公司治理 (00692)</td>
-<td>15.5%</td>
-<td>重視公司治理的市值型</td>
-</tr>
-<tr>
-<td>5</td>
-<td>元大MSCI金融 (0055)</td>
-<td>13.4%</td>
-<td>專攻金融股的市值型</td>
-</tr>
-</tbody>
-</table>
-<h3>2. 【科技/主題型】攻擊型衛星配置</h3>
-<p>數據證明，科技股是過去 15 年台股最強的成長引擎。如果你看好半導體與 AI，這區是首選。</p>
-<table>
-<thead>
-<tr>
-<th>排名</th>
-<th>名稱 (代碼)</th>
-<th>年化報酬率</th>
-<th>特色點評</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>元大電子 (0053)</td>
-<td>21.8%</td>
-<td>隱藏版冠軍，專攻電子產業</td>
-</tr>
-<tr>
-<td>2</td>
-<td>統一FANG+ (00757)</td>
-<td>17.6%</td>
-<td>包辦美股科技巨頭 (上市滿5年)</td>
-</tr>
-<tr>
-<td>3</td>
-<td>富邦NASDAQ (00662)</td>
-<td>16.4%</td>
-<td>追蹤美股科技指數</td>
-</tr>
-<tr>
-<td>4</td>
-<td>國泰費城半導體 (00830)</td>
-<td>15.6%</td>
-<td>全球半導體景氣指標</td>
-</tr>
-<tr>
-<td>5</td>
-<td>元大全球AI (00762)</td>
-<td>14.3%</td>
-<td>純度高的 AI 主題</td>
-</tr>
-</tbody>
-</table>
-<h3>3. 【高股息型】現金流需求的防守配置</h3>
-<p>適合需要現金流的退休族。請注意，高股息長期總報酬通常低於市值型，但波動較小。</p>
-<table>
-<thead>
-<tr>
-<th>排名</th>
-<th>名稱 (代碼)</th>
-<th>年化報酬率</th>
-<th>特色點評</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>元大高股息 (0056)</td>
-<td>12.7%</td>
-<td>預測未來高息股，改季配息</td>
-</tr>
-<tr>
-<td>2</td>
-<td>元大台灣高息低波 (00713)</td>
-<td>10.6%</td>
-<td>抗跌神股，適合保守族</td>
-</tr>
-<tr>
-<td>3</td>
-<td>復華富時高息低波 (00731)</td>
-<td>8.2%</td>
-<td>冷門但績效穩健</td>
-</tr>
-<tr>
-<td>4</td>
-<td>國泰股利精選30 (00701)</td>
-<td>7.8%</td>
-<td>偏重金融股</td>
-</tr>
-<tr>
-<td>5</td>
-<td>國泰永續高股息 (00878)</td>
-<td>7.5%</td>
-<td>ESG+高股息，人氣王</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h2>🔥 【獨家實測】市值型 vs 高股息：每月一萬存 15 年，資產差多少？</h2>
-<p>很多人問：「高股息領錢很爽，為什麼要買市值型？」為了破解迷思，我們用程式回測了 <strong>每月定期定額 1 萬元</strong> 的真實結果（股息再投入）。</p>
-<h3>⚔️ 戰場 A：長期抗戰 (2010 ~ 2025)</h3>
-<p>如果你從 15 年前開始存股，選擇 0050 或 0056，現在的資產差距是：</p>
-<figure class="post__image"><img loading="lazy" src="https://focusonmystory.pages.dev/media/posts/20/dca_long_term.png" alt="" width="1000" height="500" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/20/responsive/dca_long_term-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/20/responsive/dca_long_term-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/20/responsive/dca_long_term-md.png 768w ,https://focusonmystory.pages.dev/media/posts/20/responsive/dca_long_term-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/20/responsive/dca_long_term-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/20/responsive/dca_long_term-2xl.png 1600w">
-<figcaption>0050 (藍線) vs 0056 (橘線) 資產累積走勢圖。時間拉長，市值型優勢巨大。</figcaption>
-</figure>
-<table>
-<thead>
-<tr>
-<th>ETF</th>
-<th>總投入本金</th>
-<th>最終資產</th>
-<th>總獲利 (淨賺)</th>
-<th>總報酬率</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>0050 元大台灣50</strong></td>
-<td>192 萬</td>
-<td><span class="highlight">665.7 萬</span></td>
-<td>473.7 萬</td>
-<td><span class="highlight">246.7%</span></td>
-</tr>
-<tr>
-<td><strong>0056 元大高股息</strong></td>
-<td>192 萬</td>
-<td>498.7 萬</td>
-<td>306.7 萬</td>
-<td>159.8%</td>
-</tr>
-</tbody>
-</table>
-<p>👉 <strong>結論：</strong> 同樣的努力，選擇 0050 讓你多賺了 <strong>167 萬元</strong>！這就是成長型資產的複利威力。</p>
-<h3>⚔️ 戰場 B：新秀挑戰 (2020/07 ~ 2025)</h3>
-<p>如果只看最近 5 年（包含 2022 空頭、2023 AI 爆發），加入人氣王 00878 戰局會如何？</p>
-<figure class="post__image"><img loading="lazy" src="https://focusonmystory.pages.dev/media/posts/20/dca_short_term.png" alt="" width="1000" height="500" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/20/responsive/dca_short_term-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/20/responsive/dca_short_term-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/20/responsive/dca_short_term-md.png 768w ,https://focusonmystory.pages.dev/media/posts/20/responsive/dca_short_term-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/20/responsive/dca_short_term-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/20/responsive/dca_short_term-2xl.png 1600w">
-<figcaption>近五年定期定額績效：0050 依然遙遙領先高股息家族。</figcaption>
-</figure>
-<p>👉 <strong>結論：</strong> 即便高股息主打「抗跌」，但在近 5 年的多頭行情中，0050 的總報酬率竟然是高股息 ETF 的 <strong>兩倍以上</strong>！(121% vs 50%)</p>
-<hr>
-<h2>結論：2026 年新手的 ETF 投資地圖</h2>
-<p>看完這麼多數據，還是不知道怎麼選？送你三句話總結：</p>
-<ol>
-<li><strong>想資產增值 (年輕人/小資族)：</strong>優先選擇 <strong>006208、0050</strong> 或 <strong>00830</strong>，利用時間複利讓資產跟著經濟成長。</li>
-<li><strong>想領錢退休 (退休族/房貸族)：</strong><strong>00713、00878</strong> 搭配 <strong>中長天期美債 ETF</strong> (如 00679B, 00687B 等) 是不錯的防守型配置。</li>
-<li><strong>開始比挑選重要：</strong>不要糾結要買 00919 還是 00929，<strong>現在就開始定期定額</strong>，時間會是你最好的朋友。</li>
-</ol>
-<p><strong>免責聲明:</strong> 本文排名僅作為長期風格與結構比較,不代表短期進出建議。本文數據僅供參考,不代表未來績效保證。投資前請謹慎評估自身風險承受度,必要時諮詢專業理財顧問。</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>【0050 投資實測】怕買在高點？用「這一條線」避開股災，11年完整數據公開 (2015-2026)</title>
-        <author>
-            <name>老兵</name>
-        </author>
-        <link href="https://focusonmystory.pages.dev/0050-etf-strategy.html"/>
-        <id>https://focusonmystory.pages.dev/0050-etf-strategy.html</id>
-
-        <updated>2026-01-16T21:55:28+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    📅 發布日期：2026年1月16日 | 📂 分類：懶人投資 / 退休規劃 / 量化回測 前言：你也得了「懼高症」嗎？ 最近台股不斷創新高，身邊想存 0050（元大台灣50）的朋友通常分成兩派：一派是「死忠存股族」，不管漲跌就是買；另一派是「退休保守族」，手上有錢但不敢進場，總覺得：「現在指數這麼高，萬一明天崩盤，我的養老金不就腰斬了？」 講實話，如果你的心臟夠大顆，能忍受資產一年少掉 30% 也不賣，那「傻傻買、不要賣」確實賺最多。但對於大多數要準備退休，或是心臟比較小顆的人來說，「晚上睡得著」往往比「賺取暴利」更重要。 今天不講複雜的理論，我直接用 Python 寫程式，跑了過去 11 年（2015-2026） 的真實數據。我們來實驗看看：如果只用「一條線」來決定進出，能不能在股災來臨前逃命，把錢守住？ 這個方法的核心邏輯很簡單，就是「跟著季節穿衣服」。 我們只看一條線：200日均線（俗稱年線，MA200）。這條線代表過去一年，市場上大家的平均成本。 價格 &gt; 年線 天氣好，穿短袖！ 買進 0050 持有，跟著大家一起賺。 價格 &lt; 年線 天氣轉冷，穿外套！ 賣出股票，換成現金或定存，去旁邊喝熱茶。 就這麼簡單。多頭時我們在車上，空頭時我們在場外看戲。 為了不讓這篇文章變成「紙上富貴」，我們的回測條件設定非常嚴格： 看完表格你可能會問：「啊？總報酬率輸了 100%，那我幹嘛還學這個？」關鍵在於：你能不能撐過那是「少掉 33%」的恐慌？ ▲ 紅線為年線避險策略，綠線為買進持有。注意綠色背景區間（持有現金），資產曲線呈現水平，成功避開下跌。 ▲ 紅色區塊代表策略的回檔幅度，明顯淺於灰色的 0050&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <article><header>
-<div class="meta-info">📅 發布日期：2026年1月16日 | 📂 分類：懶人投資 / 退休規劃 / 量化回測</div>
-</header>
-<section>
-<h2>前言：你也得了「懼高症」嗎？</h2>
-<p>最近台股不斷創新高，身邊想存 <strong>0050（元大台灣50）</strong>的朋友通常分成兩派：一派是「死忠存股族」，不管漲跌就是買；另一派是「退休保守族」，手上有錢但不敢進場，總覺得：<strong>「現在指數這麼高，萬一明天崩盤，我的養老金不就腰斬了？」</strong></p>
-<p>講實話，如果你的心臟夠大顆，能忍受資產一年少掉 30% 也不賣，那「傻傻買、不要賣」確實賺最多。但對於大多數要準備退休，或是心臟比較小顆的人來說，<strong>「晚上睡得著」</strong>往往比「賺取暴利」更重要。</p>
-<p>今天不講複雜的理論，我直接用 Python 寫程式，跑了過去 <strong>11 年（2015-2026）</strong> 的真實數據。我們來實驗看看：<strong>如果只用「一條線」來決定進出，能不能在股災來臨前逃命，把錢守住？</strong></p>
-</section>
-<section>
-<h2>一、 策略原理：什麼是「年線操作法」？</h2>
-<p>這個方法的核心邏輯很簡單，就是<strong>「跟著季節穿衣服」</strong>。</p>
-<p>我們只看一條線：<strong>200日均線（俗稱年線，MA200）</strong>。這條線代表過去一年，市場上大家的平均成本。</p>
-<div class="signal-box">
-<div class="signal bull">
-<h3>🟢 牛市訊號 (夏天)</h3>
-<p><strong>價格 &gt; 年線</strong></p>
-<p>天氣好，穿短袖！<br><strong>買進 0050 持有</strong>，跟著大家一起賺。</p>
-</div>
-<div class="signal bear">
-<h3>🔴 熊市訊號 (冬天)</h3>
-<p><strong>價格 &lt; 年線</strong></p>
-<p>天氣轉冷，穿外套！<br><strong>賣出股票</strong>，換成現金或定存，去旁邊喝熱茶。</p>
-</div>
-</div>
-<p>就這麼簡單。多頭時我們在車上，空頭時我們在場外看戲。</p>
-</section>
-<section>
-<h2>二、 11 年殘酷實測：真的有效嗎？</h2>
-<p>為了不讓這篇文章變成「紙上富貴」，我們的回測條件設定非常嚴格：</p>
-<ul>
-<li><strong>時間：</strong> 2015/01 到 2026/01（經歷過 2015 中國股災、2018 貿易戰、2020 疫情、2022 升息大跌）。</li>
-<li><strong>成本：</strong> 包含手續費、證交稅與滑價（模擬真實摩擦成本）。</li>
-<li><strong>避險：</strong> 賣掉股票時，假設資金放在 1% 的定存裡。</li>
-</ul>
-<h3>📊 最終成績單：傻傻存 vs. 聰明跑</h3>
-<table>
-<thead>
-<tr>
-<th>比較項目</th>
-<th>A. 0050 (傻傻買進持有)</th>
-<th>B. 年線操作 (聰明避險)</th>
-<th>📝 白話解讀</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td data-label="比較項目">總報酬率</td>
-<td class="good-stat" data-label="A. 0050">505.73%</td>
-<td data-label="B. 年線操作">394.27%</td>
-<td data-label="解讀">老實說：傻傻存賺比較多。策略 B 因為太小心，錯過了一些V型反彈。</td>
-</tr>
-<tr>
-<td data-label="比較項目">年化報酬率</td>
-<td data-label="A. 0050">17.74%</td>
-<td data-label="B. 年線操作">15.59%</td>
-<td data-label="解讀">平均每年少賺 2%。這 2% 就是你繳給市場的<strong>「保險費」</strong>。</td>
-</tr>
-<tr>
-<td data-label="比較項目">最大虧損 (MDD)</td>
-<td class="bad-stat" data-label="A. 0050">-33.83%</td>
-<td class="good-stat" data-label="B. 年線操作">-21.30%</td>
-<td data-label="解讀"><strong>✅ 關鍵在這！</strong> 遇到大股災時，策略 B 少賠了 12% 以上。</td>
-</tr>
-<tr>
-<td data-label="比較項目">CP值 (夏普比率)</td>
-<td data-label="A. 0050">1.00</td>
-<td class="good-stat" data-label="B. 年線操作">1.09</td>
-<td data-label="解讀"><strong>✅ 效率更高！</strong> 雖然賺得少一點，但承受的風險低很多。</td>
-</tr>
-<tr>
-<td data-label="比較項目">空手時間</td>
-<td data-label="A. 0050">0%</td>
-<td data-label="B. 年線操作">23.8%</td>
-<td data-label="解讀">過去 11 年，你有將近 <strong>3 年</strong> 的時間是抱著現金睡覺的。</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section>
-<h2>三、 為什麼少賺錢，我還是推薦這個策略？</h2>
-<p>看完表格你可能會問：「啊？總報酬率輸了 100%，那我幹嘛還學這個？」<strong>關鍵在於：你能不能撐過那是「少掉 33%」的恐慌？</strong></p>
-<h3>1. 2022 年的慘痛教訓</h3>
-<figure class="post__image">請看看下面這張圖（回測產出的淨值走勢）：
-<img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/19/chart1_equity_pro.png" alt="" width="3550" height="1754" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/19/responsive/chart1_equity_pro-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/19/responsive/chart1_equity_pro-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/19/responsive/chart1_equity_pro-md.png 768w ,https://focusonmystory.pages.dev/media/posts/19/responsive/chart1_equity_pro-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/19/responsive/chart1_equity_pro-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/19/responsive/chart1_equity_pro-2xl.png 1600w"></figure>
-<p class="caption">▲ 紅線為年線避險策略，綠線為買進持有。注意綠色背景區間（持有現金），資產曲線呈現水平，成功避開下跌。</p>
-<ul>
-<li><strong>綠線（傻傻存）：</strong> 在 2022 年一路溜滑梯，資產瞬間縮水 33%。如果你有 1000 萬，會瞬間變成 670 萬。那種心理壓力，會讓你忍不住在最低點賣掉。</li>
-<li><strong>紅線（年線法）：</strong> 在起跌點就賣掉了。後面跌得再慘，都跟你無關，你的資產曲線是平的（綠色背景區域）。</li>
-</ul>
-<h3>2. 少賠，比多賺更難</h3>
-<figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/19/chart2_mdd_pro-2.png" alt="" width="3549" height="1304" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/19/responsive/chart2_mdd_pro-2-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/19/responsive/chart2_mdd_pro-2-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/19/responsive/chart2_mdd_pro-2-md.png 768w ,https://focusonmystory.pages.dev/media/posts/19/responsive/chart2_mdd_pro-2-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/19/responsive/chart2_mdd_pro-2-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/19/responsive/chart2_mdd_pro-2-2xl.png 1600w"></figure>
-<p class="caption">▲ 紅色區塊代表策略的回檔幅度，明顯淺於灰色的 0050 回檔幅度。</p>
-<p>資產跌 33%（傻傻存），需要漲 <strong>50%</strong> 才能回本；但資產跌 21%（年線法），只需要漲 <strong>26%</strong> 就能回本。</p>
-<div class="highlight-box"><strong>「年線法」最大的價值，不是幫你賺更多，而是幫你「活下去」。</strong></div>
-</section>
-<section>
-<h2>四、 這個策略有什麼缺點？（誠實檢視）</h2>
-<p>身為一個誠實的投資筆記，我要直接告訴你這個策略的<strong>副作用</strong>：</p>
-<ol>
-<li><strong>會被「雙巴」 (Whipsaw)：</strong><br>有時候股價跌破年線，你剛賣掉，結果下禮拜它又漲回來了。你會虧掉手續費和價差。但請把這當作<strong>「繳保險費」</strong>，為了防止重傷，這一點點保費是值得的。</li>
-<li><strong>交易頻率低到讓你無聊：</strong><br>回測顯示，這 11 年來總共只有 <strong>25 次</strong> 完整的進出。平均一年只動作 <strong>2.3 次</strong>。這其實是優點，你不需要天天盯盤，把時間拿去陪家人吧。</li>
-</ol>
-</section>
-<section>
-<h2>五、 懶人執行 SOP：不用寫程式也能做</h2>
-<p>這個策略不需要懂 Python，只要會看紅綠燈就好。</p>
-<div class="highlight-box">
-<h3>📝 老爸的操作筆記</h3>
-<ol>
-<li><strong>設定工具：</strong> 打開看盤軟體（Yahoo 股市、TradingView），設定技術指標 <strong>200 MA</strong>。</li>
-<li><strong>檢查時間：</strong> 每週五下午 1:30 收盤前看一眼。</li>
-<li><strong>執行動作：</strong>
-<ul>
-<li>🟢 <strong>價格 &gt; 年線：</strong> 續抱。手上有閒錢就買進。</li>
-<li>🔴 <strong>價格 &lt; 年線：</strong> <strong>下週一開盤全部賣掉</strong>。把錢拿去放定存。</li>
-</ul>
-</li>
-<li><strong>耐心等待：</strong> 如果還是空頭，就一直抱著現金。直到某個週五價格重新<strong>站上年線</strong>，再買回來。</li>
-</ol>
-</div>
-</section>
-<section>
-<h2>六、 結論：給長輩最好的禮物</h2>
-<p>投資這件事，不是比誰賺得多，而是比誰氣長。</p>
-<p>如果你的目標是<strong>「資產翻倍」</strong>，那請你用傻傻存股法（Buy &amp; Hold），並且要練就一顆鋼鐵般的心臟。如果你的目標是<strong>「安心退休」</strong>，不想看到退休金腰斬，那犧牲一點點報酬，換取 <strong>MDD 降低 12%</strong> 的安全感，絕對是一筆超划算的交易。</p>
-<p>這套方法，推薦給所有想投資，但又怕受傷害的朋友。</p>
-</section>
-<hr>
-<p style="font-size: 0.8em; color: #999;"><em>免責聲明：本文章之數據為歷史回測結果，過去績效不代表未來獲利保證。投資人應視自身風險承受能力，審慎判斷投資時機。</em></p>
-</article>
             ]]>
         </content>
     </entry>
