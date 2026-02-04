@@ -3,12 +3,93 @@
     <title>科技老兵的生活筆記</title>
     <link href="https://focusonmystory.pages.dev/feed.xml" rel="self" />
     <link href="https://focusonmystory.pages.dev" />
-    <updated>2026-02-03T20:21:37+08:00</updated>
+    <updated>2026-02-04T20:09:10+08:00</updated>
     <author>
         <name>老兵</name>
     </author>
     <id>https://focusonmystory.pages.dev</id>
 
+    <entry>
+        <title>【AI 日更量化雷達 #008】從冰封到沸騰：0050 爆發集體 RSI&#x3D;100，48小時報復性反彈已達物理上限？</title>
+        <author>
+            <name>老兵</name>
+        </author>
+        <link href="https://focusonmystory.pages.dev/2026-02-04.html"/>
+        <id>https://focusonmystory.pages.dev/2026-02-04.html</id>
+
+        <updated>2026-02-04T18:34:53+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    數據監測日：2026-02-04 | 策略核心：情緒極值演進 (v42.0 Autopilot) 量化數據顯示，台股在短短 48 小時內經歷了極其震撼的情緒 V 轉。從 2 月 2 日的 92% 標的觸地（RSI=0），到今日 2 月 4 日高達 85% 的標的封頂（RSI=100）。這種情緒噴發的速度遠超歷史平均值，代表短線買盤已極度過度擁擠。 當全市場情緒指標同步達到滿分時，物理上的「均值回歸」拉引力將取代反彈動能。根據 v42.0 策略回測，此時應由積極進攻轉向「防守性停利」。 ● 為什麼我們在 RSI=100 時保持警覺？ 當 RSI(2) -&gt; 100 時，代表短線所有潛在買盤都已湧入市場。在物理引力模型中，當彈簧被過度拉伸後，必然會向 RSI=50 的中軌進行均值回歸。歷史統計顯示，此時追高勝率不到 30%。 ● 資金分化的真相： 雖然 0050 集體噴發，但台積電的 RSI 卻出現「負背離」率先下滑。這通常預示著權值股即將進入「橫盤震盪」，資金可能轉向小型股或進行回撤測試。 ●&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div style="font-family: 'PingFang TC', 'Microsoft JhengHei', sans-serif; line-height: 1.8; color: #333; max-width: 900px; margin: 0 auto; padding: 45px; border: 1px solid #eef2f6; border-radius: 28px; background-color: #ffffff; box-shadow: 0 20px 60px rgba(0,0,0,0.08);"><header style="text-align: center; margin-bottom: 45px;">
+<div style="height: 5px; width: 100px; background: linear-gradient(90deg, #ea4335, #1a73e8); margin: 25px 0;"> </div>
+<p style="color: #5f6368; font-size: 16px; text-align: left;">數據監測日：2026-02-04 | 策略核心：情緒極值演進 (v42.0 Autopilot)</p>
+</header>
+<section style="background-color: #fff8f8; padding: 35px; border-radius: 24px; margin-bottom: 45px; border: 1px solid #fde2e2;">
+<h3 style="color: #d93025; margin-top: 0; font-size: 24px; display: flex; align-items: center;"><span style="margin-right: 12px;">🌍</span> 市場氣候：🔴 短線極度過熱模式 (Boiling Point)</h3>
+<p style="font-size: 17px; margin-top: 20px;">量化數據顯示，台股在短短 48 小時內經歷了極其震撼的情緒 V 轉。從 2 月 2 日的 92% 標的觸地（RSI=0），到今日 2 月 4 日高達 85% 的標的封頂（RSI=100）。這種情緒噴發的速度遠超歷史平均值，代表短線買盤已極度過度擁擠。</p>
+<p style="font-size: 17px; color: #555;">當全市場情緒指標同步達到滿分時，物理上的「均值回歸」拉引力將取代反彈動能。根據 v42.0 策略回測，此時應由積極進攻轉向「防守性停利」。</p>
+</section>
+<section style="margin-bottom: 50px;">
+<h3 style="color: #1a73e8; border-bottom: 2px solid #f1f3f4; padding-bottom: 15px; font-size: 24px;">🎨 0050 全量情緒溫度網格</h3>
+<figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/31/rsi_heatmap_2026-02-04-2.png" alt="" width="4800" height="3000" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/31/responsive/rsi_heatmap_2026-02-04-2-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/31/responsive/rsi_heatmap_2026-02-04-2-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/31/responsive/rsi_heatmap_2026-02-04-2-md.png 768w ,https://focusonmystory.pages.dev/media/posts/31/responsive/rsi_heatmap_2026-02-04-2-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/31/responsive/rsi_heatmap_2026-02-04-2-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/31/responsive/rsi_heatmap_2026-02-04-2-2xl.png 1600w"></figure><span style="color: #666666; font-size: 15px; background-color: #fafafa; text-align: center;">🔍 </span><strong style="font-size: 15px; background-color: #fafafa; text-align: center;">數據觀察：</strong><span style="color: #666666; font-size: 15px; background-color: #fafafa; text-align: center;"> 網格已從本週一的「深綠」轉為今日的「艷紅」。資金在兩天內報復性回流，從電子權值股擴散至傳產與金融。當所有代碼都處於紅色高溫區，這通常是短線反彈的物理極限。</span></p>
+</section>
+<section style="margin-bottom: 50px;">
+<h3 style="color: #1a73e8; border-bottom: 2px solid #f1f3f4; padding-bottom: 15px; font-size: 24px;">📊 核心數據深度演進 (2/2 -&gt; 2/4)</h3>
+<div style="overflow-x: auto;">
+<table style="width: 100%; border-collapse: collapse; margin-top: 25px; font-size: 16px;">
+<thead>
+<tr style="background-color: #f8f9fa; border-bottom: 3px solid #eee;">
+<th style="padding: 20px; text-align: left;">標的名稱</th>
+<th style="padding: 20px; text-align: center;">2/2 (冰點)</th>
+<th style="padding: 20px; text-align: center;">2/3 (反轉)</th>
+<th style="padding: 20px; text-align: center; color: #ea4335;">2/4 (沸騰)</th>
+<th style="padding: 20px; text-align: left;">量化演進解析</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 18px; font-weight: bold;">台積電 (2330)</td>
+<td style="padding: 18px; text-align: center;">0.0</td>
+<td style="padding: 18px; text-align: center;">77.8</td>
+<td style="padding: 18px; text-align: center; font-weight: bold; color: #5f6368;">70.0</td>
+<td style="padding: 18px; color: #666;">⚠️ <strong>領先冷卻</strong>。RSI 率先回落，暗示大盤上攻動能受限。</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 18px; font-weight: bold;">緯創 (3231)</td>
+<td style="padding: 18px; text-align: center;">0.0</td>
+<td style="padding: 18px; text-align: center;">75.0</td>
+<td style="padding: 18px; text-align: center; font-weight: bold; color: #ea4335;">100.0</td>
+<td style="padding: 18px; color: #666;">🔥 <strong>強勢封頂</strong>。完美複刻金坑轉折，短線反彈動能已宣洩完畢。</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 18px; font-weight: bold;">研華 (2395)</td>
+<td style="padding: 18px; text-align: center;">0.0</td>
+<td style="padding: 18px; text-align: center;">30.8</td>
+<td style="padding: 18px; text-align: center; font-weight: bold; color: #ea4335;">100.0</td>
+<td style="padding: 18px; color: #666;">✅ <strong>垂直補漲</strong>。昨日補跌，今日隨即噴發，確認全盤信心回籠。</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section style="margin-bottom: 50px;">
+<h3 style="color: #1a73e8; font-size: 24px; border-bottom: 2px solid #f1f3f4; padding-bottom: 15px;">🔍 鋼鐵量化決策筆記 (v42.0)</h3>
+<div style="line-height: 2.2; font-size: 17px; color: #444; padding: 10px;">
+<p><strong>● 為什麼我們在 RSI=100 時保持警覺？</strong><br>當 RSI(2)  -&gt; 100 時，代表短線所有潛在買盤都已湧入市場。在物理引力模型中，當彈簧被過度拉伸後，必然會向 RSI=50 的中軌進行均值回歸。歷史統計顯示，此時追高勝率不到 30%。</p>
+<p><strong>● 資金分化的真相：</strong><br>雖然 0050 集體噴發，但台積電的 RSI 卻出現「負背離」率先下滑。這通常預示著權值股即將進入「橫盤震盪」，資金可能轉向小型股或進行回撤測試。</p>
+<p><strong>● 操作建議：</strong><br>對於週一在「情緒冰封區」佈局的投資者，今日是極佳的分批停利窗口。應將風險控制在第一位，等待下一次縮量超跌的機會。</p>
+</div>
+</section>
+<section style="text-align: center; margin-bottom: 40px;"></section>
+<footer style="text-align: center; color: #9aa0a6; font-size: 15px; border-top: 1px solid #f1f3f4; padding-top: 40px;">由 AI 鋼鐵監控產線 v42.0 自動生成 | 數據驅動．紀律執行<br><span style="font-style: italic;">"Quantification is the bridge between emotion and reality."</span></footer></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>【AI 日更量化雷達 #007】引力大爆發！台積電 RSI 垂直彈升，0050 成功脫離「情緒冰封區」</title>
         <author>
@@ -887,97 +968,6 @@ def plot_equity_curve(pf, benchmark):
 <div style="border-left: 5px solid #34a853; background-color: #e6f4ea; padding: 15px; margin-bottom: 25px;"><strong>今日結論：維持空倉，等待修正。</strong><br>1/23 偵測到的聯電已提供 6.94% 緩衝空間，但在 28.65% 的大盤極端乖離下，任何追高都是在與統計學作對。</div>
 <div>🔔 本系列將每日更新，週末彙整為週報。追蹤本系列，讓數據成為你的第二雙眼睛。</div>
 <p style="font-size: 13px; color: #aaa; text-align: center;">*免責聲明：本報告係基於歷史數據之量化模型紀錄，不構成投資建議。*</p>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>【AI 日更量化雷達 #001】RSI 100 的瘋狂：當大盤與槓桿 ETF 同時「滿分」，我選擇空手</title>
-        <author>
-            <name>老兵</name>
-        </author>
-        <link href="https://focusonmystory.pages.dev/2026-01-23.html"/>
-        <id>https://focusonmystory.pages.dev/2026-01-23.html</id>
-
-        <updated>2026-01-24T21:59:44+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    📌 編者按 (2026/01/23) 這是【AI 日更量化雷達】系列的第一篇文章。 本文撰寫時，台股加權指數剛創下 31,961 點歷史新高。當時的 RSI(2) 數據為 100.00，這是極為罕見的極端值。無論未來市場如何發展，這篇文章都將作為「數據見證」被保存。我們不預測市場，我們只記錄當下的數據告訴我們什麼。 🌍 1. 市場儀表板 (Market Dashboard) 在掃描個股前，程式先回傳了令人窒息的「上帝視角」數據： 收盤：31,961.51 RSI(2)：100.00 🔴 收盤：441.20 RSI(2)：100.00 🔴 💡 數據解讀： RSI(2) 達到 100 代表過去兩日市場呈現「無差別噴出」，每一筆交易都收在最高。當槓桿 ETF 指標過熱到極限 (100) 時，代表市場處於單向瘋狂狀態。這時候進場，你不是在投資，你是在跟上帝擲骰子。 圖說：今日 0050 成分股的 RSI-2 分布。所有籌碼集中在右側過熱區，左側恐慌區空無一人。 📉 圖表專業解讀： 這張熱力圖展示了台灣前 50 大權值股的資金情緒分布： 👨‍💻 R&amp;D&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
-<div style="background-color: #f8f9fa; border-left: 5px solid #2c3e50; padding: 15px; margin-bottom: 25px; font-style: italic; color: #555;"><strong>📌 編者按 (2026/01/23)</strong><br>這是【AI 日更量化雷達】系列的第一篇文章。<br>本文撰寫時，台股加權指數剛創下 31,961 點歷史新高。當時的 RSI(2) 數據為 <strong style="color: #e74c3c;">100.00</strong>，這是極為罕見的極端值。無論未來市場如何發展，這篇文章都將作為「數據見證」被保存。我們不預測市場，我們只記錄當下的數據告訴我們什麼。</div>
-<hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
-<h2 style="font-size: 20px; color: #2980b9; margin-top: 30px;">🌍 1. 市場儀表板 (Market Dashboard)</h2>
-<p>在掃描個股前，程式先回傳了令人窒息的「上帝視角」數據：</p>
-<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 20px;">
-<div style="flex: 1; min-width: 280px; background: #fff5f5; border: 1px solid #ffcccc; padding: 15px; border-radius: 8px;">
-<h3 style="margin: 0 0 10px 0; font-size: 16px; color: #c0392b;">📊 加權指數 (^TWII)</h3>
-<p style="margin: 0;">收盤：<strong>31,961.51</strong></p>
-<p style="margin: 5px 0 0 0;">RSI(2)：<span style="font-size: 20px; font-weight: bold; color: #e74c3c;">100.00 🔴</span></p>
-</div>
-<div style="flex: 1; min-width: 280px; background: #fff5f5; border: 1px solid #ffcccc; padding: 15px; border-radius: 8px;">
-<h3 style="margin: 0 0 10px 0; font-size: 16px; color: #c0392b;">🔥 貪婪溫度計 (00631L)</h3>
-<p style="margin: 0;">收盤：<strong>441.20</strong></p>
-<p style="margin: 5px 0 0 0;">RSI(2)：<span style="font-size: 20px; font-weight: bold; color: #e74c3c;">100.00 🔴</span></p>
-</div>
-</div>
-<p><strong>💡 數據解讀：</strong><br>RSI(2) 達到 100 代表過去兩日市場呈現「無差別噴出」，每一筆交易都收在最高。當槓桿 ETF 指標過熱到極限 (100) 時，代表市場處於單向瘋狂狀態。這時候進場，你不是在投資，你是在跟上帝擲骰子。</p>
-<h2 style="font-size: 20px; color: #2980b9; margin-top: 30px;">🛡️ 2. 策略審計機制</h2>
-<ul style="list-style-type: none; padding-left: 0;">
-<li style="margin-bottom: 8px;">✅ <strong>掃描範圍：</strong> 0050 最新成分股（已包含 3653 健策、3665 貿聯-KY 等 2026 新納入標的）。</li>
-<li style="margin-bottom: 8px;">✅ <strong>審計結果：</strong> 通過自動化驗證，資料源與交易所同步，無過時標的。</li>
-</ul>
-<h2 style="font-size: 20px; color: #2980b9; margin-top: 30px;">📊 3. 0050 真實掃描結果</h2>
-<div style="text-align: center; margin: 20px 0;"><figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/21/rsi2_heatmap_2026-01-23-2.png" alt="" width="3000" height="1800" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/21/responsive/rsi2_heatmap_2026-01-23-2-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/21/responsive/rsi2_heatmap_2026-01-23-2-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/21/responsive/rsi2_heatmap_2026-01-23-2-md.png 768w ,https://focusonmystory.pages.dev/media/posts/21/responsive/rsi2_heatmap_2026-01-23-2-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/21/responsive/rsi2_heatmap_2026-01-23-2-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/21/responsive/rsi2_heatmap_2026-01-23-2-2xl.png 1600w"></figure><br>
-<p style="font-size: 13px; color: #666; margin-top: 5px;">圖說：今日 0050 成分股的 RSI-2 分布。所有籌碼集中在右側過熱區，左側恐慌區空無一人。</p>
-</div>
-<p><strong>📉 圖表專業解讀：</strong><br>這張熱力圖展示了台灣前 50 大權值股的資金情緒分布：</p>
-<ul>
-<li><strong style="color: #27ae60;">左側綠色區 (BUY ZONE)：</strong>代表恐慌超跌區 (RSI &lt; 10)。如您所見，<strong>完全空白</strong>。這意味著全市場沒有任何一檔股票被錯殺。</li>
-<li><strong style="color: #c0392b;">右側紅色區 (SELL ZONE)：</strong>代表過熱貪婪區 (RSI &gt; 90)。高達 20+ 檔股票擠在這裡，甚至頂到 100 的邊界。這就是典型的「強者恆強」極致盤面。</li>
-</ul>
-<div style="background: #eee; padding: 15px; border-radius: 5px; margin-top: 15px;"><strong>🔍 掃描結論：</strong>
-<ul>
-<li>觸發買入標的 (RSI-2 &lt; 10)：<strong>0 檔</strong>。</li>
-<li>現象分析：程式掃描了全台最大的 50 家企業，<strong>沒有一家</strong>處於恐慌超跌區。沒有撿便宜的空間，只有追高的風險。</li>
-</ul>
-</div>
-<h2 style="font-size: 20px; color: #2980b9; margin-top: 30px;">📍 4. 今日觀測結論</h2>
-<div style="background-color: #fff8e1; border-left: 5px solid #ffc107; padding: 15px; margin-bottom: 20px;">
-<ul style="list-style-type: none; padding: 0; margin: 0;">
-<li style="margin-bottom: 10px;">🔴 當前狀態：<strong>極度亢奮 (Limit Up)</strong></li>
-<li>⚪ 今日是否行動：<strong>嚴格空倉 (Cash is King)</strong></li>
-</ul>
-</div>
-<p><strong>👨‍💻 R&amp;D 筆記：</strong><br>看到 RSI 跑出 <code>100.00</code> 時，我甚至檢查了一下程式碼是否壞了。<br>但確認無誤後，結論只有一個：<strong>現在是市場情緒的極端值，量化交易者請離場觀望。</strong></p>
-<p>許多人以為量化交易是為了每天都能賺錢。錯了。量化是為了「<strong>在不該進場時，把你的手綁起來</strong>」。我們不賺這種「最後一哩路」的錢，我們留著子彈，等那個 <code>100</code> 變成 <code>10</code> 的日子。</p>
-<hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
-<div style="font-size: 14px; color: #666; background: #f4f4f4; padding: 15px; border-radius: 5px;">
-<h3 style="margin-top: 0; font-size: 16px;">🔬 5. 量化驗證室 (Verification Lab)</h3>
-<ul style="margin-bottom: 0;">
-<li><strong>執行腳本：</strong> <code>Full_Market_Scanner_v11.3</code></li>
-<li><strong>關鍵數據：</strong>
-<ul>
-<li><code>^TWII</code> RSI(2): <strong>100.00</strong></li>
-<li><code>00631L</code> RSI(2): <strong>100.00</strong></li>
-<li>Signal Count: <strong>0/50</strong></li>
-</ul>
-</li>
-</ul>
-</div>
-<div style="margin-top: 30px; padding: 20px; border: 2px dashed #3498db; border-radius: 10px; text-align: center;">
-<h3 style="color: #2980b9; margin-top: 0;">📅 下期預告</h3>
-<p><strong>週一 (1/27) 19:00</strong>，【AI 日更量化雷達 #002】將繼續掃描全市場。<br>如果台股開始震盪回檔，我們將追蹤：</p>
-<ul style="text-align: left; display: inline-block;">
-<li>哪些權值股率先進入恐慌區？</li>
-<li>RSI-2 策略在不同類股的適用性差異？</li>
-<li><strong>今日的「RSI 100」究竟是行情的頂點，還是中繼站？</strong></li>
-</ul>
-<p style="margin-bottom: 0; margin-top: 15px; font-weight: bold;">🔔 本系列將每日更新，週末彙整為週報。追蹤本系列，讓數據成為你的第二雙眼睛。</p>
-</div>
 </div>
             ]]>
         </content>
