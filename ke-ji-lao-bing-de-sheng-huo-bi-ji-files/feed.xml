@@ -3,12 +3,104 @@
     <title>科技老兵的生活筆記</title>
     <link href="https://focusonmystory.pages.dev/feed.xml" rel="self" />
     <link href="https://focusonmystory.pages.dev" />
-    <updated>2026-02-24T20:46:36+08:00</updated>
+    <updated>2026-02-25T20:08:25+08:00</updated>
     <author>
         <name>老兵</name>
     </author>
     <id>https://focusonmystory.pages.dev</id>
 
+    <entry>
+        <title>【AI 日更量化雷達 #016】資金大板塊挪移！台積電 2000 里程碑達陣，金融防禦組集體急凍 RSI&#x3D;0 的「補漲金坑」掃描</title>
+        <author>
+            <name>老兵</name>
+        </author>
+        <link href="https://focusonmystory.pages.dev/2026-02-25.html"/>
+        <id>https://focusonmystory.pages.dev/2026-02-25.html</id>
+
+        <updated>2026-02-25T20:02:21+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    數據基準日：2026-02-25 | 策略：板塊輪動與冰點防禦 (v112.0) | 標的：0050 成分股 隨著台積電正式站上 2015 元的歷史里程碑，大盤出現了極為經典的「板塊資金排擠效應」。量化產線最新掃描（2/25）顯示，資金瘋狂湧入電子權值股衝關的同時，傳產與金融板塊遭到無情拋售。大盤不再是「無差別沸騰」，而是演變成「冰火五重天」的極端分歧點。 針對先前預告的「金融防禦組」，今日掃描出現了罕見的買進訊號！0050 中的重量級金控，在電子股狂歡時集體跌至 $RSI(2) = 0.0$。這在量化模型中，代表短線賣壓已徹底力竭，是絕佳的左側建倉點： 雖然台積電攻破 2000 元，但量化散佈圖（Scatter Plot）顯示，多數電子權值股的年線乖離率並未縮減。台積電年線乖離高達 53.34%，台達電 85.77%，日月光更逼近 100%。這代表向下的物理引力位能已累積至極限中的極限。隨時可能因為一點風吹草動，引發「均值回歸」的崩塌式結帳。 1. 執行「高出低進」板塊輪動： 2000 元里程碑達陣後，市場目標已達成，獲利了結賣壓將會湧現。建議將電子過熱部位執行 全面獲利了結。 2. 資金進駐金融冰點區： 將抽回的現金，分批（20%~30%水位）佈局於上述 RSI=0 的富邦金、國泰金等金融權值股。當電子回檔時，主力資金勢必轉入金融撐盤，此時佈局等同於搶佔「下一波板塊輪動的起漲點」。 📱 【AI 產線社群快報】一鍵複製分享 【#AI日更量化雷達 #051】台積電 2000 里程碑達陣！聰明錢正悄悄轉移？🚨 各位，2000 元的煙火很美，但物理引力不會消失！🎆 最新量化圖表出爐，台積電年線乖離突破 53%，電子股全面高掛懸崖邊。 📊 今日鋼鐵掃描重點：&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div style="font-family: 'PingFang TC', 'Microsoft JhengHei', sans-serif; line-height: 1.8; color: #333; max-width: 900px; margin: 0 auto; padding: 45px; border: 1px solid #eef2f6; border-radius: 28px; background-color: #ffffff; box-shadow: 0 20px 60px rgba(0,0,0,0.08);"><header style="text-align: center; margin-bottom: 45px;">
+<div style="height: 5px; width: 100px; background: linear-gradient(90deg, #ea4335, #1a73e8); margin: 25px 0;"> </div>
+<p style="color: #5f6368; font-size: 16px; text-align: left;">數據基準日：2026-02-25 | 策略：板塊輪動與冰點防禦 (v112.0) | 標的：0050 成分股</p>
+</header>
+<section style="background-color: #fff8f8; padding: 35px; border-radius: 24px; margin-bottom: 45px; border: 1px solid #fde2e2;">
+<h3 style="color: #d93025; margin-top: 0; font-size: 24px;">🌍 市場氣候：🔴 極端分歧 / 資金蹺蹺板</h3>
+<p style="font-size: 17px; margin-top: 20px;">隨著台積電正式站上 2015 元的歷史里程碑，大盤出現了極為經典的「板塊資金排擠效應」。量化產線最新掃描（2/25）顯示，資金瘋狂湧入電子權值股衝關的同時，傳產與金融板塊遭到無情拋售。大盤不再是「無差別沸騰」，而是演變成「冰火五重天」的極端分歧點。</p>
+</section>
+<section style="margin-bottom: 50px; background-color: #f0fdf4; padding: 35px; border-radius: 24px; border: 1px solid #dcfce7;">
+<h3 style="color: #166534; border-bottom: 2px solid #bbf7d0; padding-bottom: 15px; font-size: 24px; margin-top: 0;">💎 【防禦金坑清單】金融股集體 RSI=0 冰封</h3>
+<p style="font-size: 17px; color: #15803d;">針對先前預告的「金融防禦組」，今日掃描出現了罕見的買進訊號！0050 中的重量級金控，在電子股狂歡時集體跌至 $RSI(2) = 0.0$。這在量化模型中，代表短線賣壓已徹底力竭，是絕佳的左側建倉點：</p>
+<div style="overflow-x: auto;">
+<table style="width: 100%; border-collapse: collapse; margin-top: 20px; font-size: 16px;">
+<thead>
+<tr style="background-color: #e6f4ea; border-bottom: 3px solid #bbf7d0;">
+<th style="padding: 18px; text-align: left; color: #166534;">名稱 (代碼)</th>
+<th style="padding: 18px; text-align: center; color: #166534;">收盤價</th>
+<th style="padding: 18px; text-align: center; color: #166534;">RSI(2)</th>
+<th style="padding: 18px; text-align: center; color: #166534;">年線乖離</th>
+<th style="padding: 18px; text-align: left; color: #166534;">防禦屬性</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom: 1px solid #dcfce7;">
+<td style="padding: 15px; font-weight: bold; color: #333;">富邦金 (2881.TW)</td>
+<td style="padding: 15px; text-align: center;">92.90</td>
+<td style="padding: 15px; text-align: center; font-weight: bold; color: #1e7e34;">0.0</td>
+<td style="padding: 15px; text-align: center;">+7.19%</td>
+<td style="padding: 15px;">✅ 獲利王錯殺</td>
+</tr>
+<tr style="border-bottom: 1px solid #dcfce7;">
+<td style="padding: 15px; font-weight: bold; color: #333;">國泰金 (2882.TW)</td>
+<td style="padding: 15px; text-align: center;">76.90</td>
+<td style="padding: 15px; text-align: center; font-weight: bold; color: #1e7e34;">0.0</td>
+<td style="padding: 15px; text-align: center;">+16.54%</td>
+<td style="padding: 15px;">✅ 資金避風港</td>
+</tr>
+<tr style="border-bottom: 1px solid #dcfce7;">
+<td style="padding: 15px; font-weight: bold; color: #333;">中信金 (2891.TW)</td>
+<td style="padding: 15px; text-align: center;">53.50</td>
+<td style="padding: 15px; text-align: center; font-weight: bold; color: #1e7e34;">0.0</td>
+<td style="padding: 15px; text-align: center;">+22.15%</td>
+<td style="padding: 15px;">✅ 高息護體</td>
+</tr>
+<tr>
+<td style="padding: 15px; font-weight: bold; color: #333;">兆豐金 (2886.TW)</td>
+<td style="padding: 15px; text-align: center;">40.55</td>
+<td style="padding: 15px; text-align: center; font-weight: bold; color: #1e7e34;">0.0</td>
+<td style="padding: 15px; text-align: center;">+0.64%</td>
+<td style="padding: 15px;">✅ 貼近均線支撐</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section style="margin-bottom: 50px;">
+<h3><figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/39/Code_Generated_Image-1.png" alt="" width="1600" height="995" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/39/responsive/Code_Generated_Image-1-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/39/responsive/Code_Generated_Image-1-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/39/responsive/Code_Generated_Image-1-md.png 768w ,https://focusonmystory.pages.dev/media/posts/39/responsive/Code_Generated_Image-1-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/39/responsive/Code_Generated_Image-1-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/39/responsive/Code_Generated_Image-1-2xl.png 1600w"></figure></h3>
+<figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/39/rsi_heatmap_2026-02-25.png" alt="" width="5400" height="3000" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/39/responsive/rsi_heatmap_2026-02-25-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/39/responsive/rsi_heatmap_2026-02-25-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/39/responsive/rsi_heatmap_2026-02-25-md.png 768w ,https://focusonmystory.pages.dev/media/posts/39/responsive/rsi_heatmap_2026-02-25-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/39/responsive/rsi_heatmap_2026-02-25-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/39/responsive/rsi_heatmap_2026-02-25-2xl.png 1600w"></figure>
+<h3 style="color: #1a73e8; border-bottom: 2px solid #f1f3f4; padding-bottom: 15px; font-size: 24px;">🚫 【重力陷阱追蹤】懸崖邊的權值股</h3>
+<p style="font-size: 17px; color: #444;">雖然台積電攻破 2000 元，但量化散佈圖（Scatter Plot）顯示，多數電子權值股的年線乖離率並未縮減。<strong>台積電年線乖離高達 53.34%，台達電 85.77%，日月光更逼近 100%</strong>。這代表向下的物理引力位能已累積至極限中的極限。隨時可能因為一點風吹草動，引發「均值回歸」的崩塌式結帳。</p>
+</section>
+<section style="margin-bottom: 40px;">
+<h3 style="color: #1a73e8; font-size: 24px; border-bottom: 2px solid #f1f3f4; padding-bottom: 15px;">🔍 鋼鐵量化決策指令</h3>
+<div style="line-height: 2.2; font-size: 17px; color: #444; padding: 10px;">
+<p><strong>1. 執行「高出低進」板塊輪動：</strong> 2000 元里程碑達陣後，市場目標已達成，獲利了結賣壓將會湧現。建議將電子過熱部位執行 <strong>全面獲利了結</strong>。</p>
+<p><strong>2. 資金進駐金融冰點區：</strong> 將抽回的現金，分批（20%~30%水位）佈局於上述 RSI=0 的富邦金、國泰金等金融權值股。當電子回檔時，主力資金勢必轉入金融撐盤，此時佈局等同於搶佔「下一波板塊輪動的起漲點」。</p>
+</div>
+</section>
+<section style="margin-top: 50px; padding-top: 30px; border-top: 2px dashed #eee;">
+<h4 style="color: #ea4335; font-size: 20px; margin-bottom: 10px;">📱 【AI 產線社群快報】一鍵複製分享</h4>
+<div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; font-size: 16px; color: #555; line-height: 1.8;"><strong>【#AI日更量化雷達 #051】台積電 2000 里程碑達陣！聰明錢正悄悄轉移？🚨</strong><br><br>各位，2000 元的煙火很美，但物理引力不會消失！🎆 最新量化圖表出爐，台積電年線乖離突破 53%，電子股全面高掛懸崖邊。<br><br>📊 <strong>今日鋼鐵掃描重點：</strong><br>1️⃣ <strong>資金排擠</strong>：電子股狂飆的代價，就是金融股遭無情錯殺。<br>2️⃣ <strong>冰點浮現</strong>：富邦金、國泰金、中信金集體殺出 RSI=0 的極端冰封訊號！<br>3️⃣ <strong>操作策略</strong>：別在煙火最盛時進場當接盤俠。高歌離席電子股，轉向 RSI=0 的金融金坑，提早卡位板塊輪動！💎<br><br>#台股 #0050 #台積電 #金融股 #量化交易 #富邦金 #國泰金 #均值回歸 #AI量化雷達</div>
+</section>
+<footer style="text-align: center; color: #9aa0a6; font-size: 15px; border-top: 1px solid #f1f3f4; padding-top: 30px; margin-top: 30px;">由 AI 鋼鐵監控產線 v112.0 自動生成 | 圖表已掛載於系統頂部 | 數據驅動．紀律執行</footer></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>【AI日更量化雷達 #015】慣性凌駕物理！2/23 訊號單日大賺 4.52%，解析南亞科、欣興 160% 乖離的「超重力」噴發</title>
         <author>
@@ -726,243 +818,6 @@
 </div>
 </section>
 <footer style="text-align: center; color: #9aa0a6; font-size: 14px; border-top: 1px solid #f1f3f4; padding-top: 35px;">由 AI 鋼鐵監控產線 v40.0 自動生成 | 數據驅動．紀律執行</footer></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>【量化實戰】我回測了 101 個華爾街因子，結果最複雜的數學輸給了最簡單的動能——台股 12 年全歷史驗證</title>
-        <author>
-            <name>老兵</name>
-        </author>
-        <link href="https://focusonmystory.pages.dev/alpha-101-taiwan-stock-backtest-momentum-vs-0050.html"/>
-        <id>https://focusonmystory.pages.dev/alpha-101-taiwan-stock-backtest-momentum-vs-0050.html</id>
-
-        <updated>2026-02-03T19:02:33+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    這是一場關於「數學 vs 人性」的實驗。 華爾街著名的 WorldQuant 發布了 Alpha 101 因子，號稱是量化交易的聖經。但這些針對美股設計的數學公式，搬到淺碟、散戶多、且有一家「護國神山」獨大的 台股市場，真的有用嗎？ 為了找出答案，老兵不用 3 年的短數據騙自己，而是直接拉出 2014 ~ 2026 年（共 12 年） 的全歷史數據，進行了一次地毯式的大掃描。 為了確保數據真實，我用 Python (VectorBT + DuckDB) 搭建了一套嚴格的回測系統，並遵循以下方法論： 實驗剛開始，電腦跑出了一個驚人的結果。在 101 個因子中，Alpha 084 的 夏普比率（Sharpe Ratio） 高達 3.96！ 這是什麼概念？在避險基金界，夏普 &gt; 1 是及格，&gt; 2 是優秀，&gt; 3 基本上就是印鈔機了。Alpha 084 的公式極其複雜，用到了&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <article>
-<p><strong>這是一場關於「數學 vs 人性」的實驗。</strong></p>
-<p>華爾街著名的 WorldQuant 發布了 <strong>Alpha 101 因子</strong>，號稱是量化交易的聖經。但這些針對美股設計的數學公式，搬到淺碟、散戶多、且有一家「護國神山」獨大的 <strong>台股市場</strong>，真的有用嗎？</p>
-<p>為了找出答案，老兵不用 3 年的短數據騙自己，而是直接拉出 <strong>2014 ~ 2026 年（共 12 年）</strong> 的全歷史數據，進行了一次地毯式的大掃描。</p>
-<div class="callout"><span class="callout-title">實驗結果搶先看</span> 結果令人震驚：<strong>90% 的複雜因子都陣亡了，而最後活下來的冠軍，竟然是一個小學生都看得懂的簡單邏輯。</strong></div>
-<hr>
-<h2>🧪 實驗設計：這不是兒戲</h2>
-<p>為了確保數據真實，我用 <strong>Python</strong> (<code>VectorBT</code> + <code>DuckDB</code>) 搭建了一套嚴格的回測系統，並遵循以下方法論：</p>
-<ul>
-<li><strong>資料來源</strong>：自建台股資料庫（上市櫃全經過還原權值）。</li>
-<li><strong>回測區間</strong>：<strong>2014/01/01 ~ 2026/01/30</strong>（穿越中美貿易戰、COVID-19 崩盤、AI 狂潮）。</li>
-<li><strong>⚠️ 方法論聲明</strong>：本文回測區間截至資料庫可得之最近交易日（2026/01/30），<strong>不包含任何未來資料</strong>，所有指標皆使用當下可得資訊計算，以嚴格避免 <strong>未來函數偏誤（Look-ahead Bias）</strong>。</li>
-<li><strong>生存者偏差</strong>：剔除全額交割股，並包含已下市櫃數據。</li>
-<li><strong>濾網條件</strong>：
-<ol>
-<li><strong>流動性濾網</strong>：只買成交金額前 150 名的大股票（不碰冷門股）。</li>
-<li><strong>趨勢濾網</strong>：股價必須站上季線（MA60）才買（只做多頭）。</li>
-</ol>
-</li>
-<li><strong>交易設定</strong>：
-<ul>
-<li><strong>買賣邏輯</strong>：每月月底根據因子分數排序，選取 <strong>排名前 10 名</strong> 個股 <strong>等權配置 (Equal Weight)</strong>。</li>
-<li><strong>交易成本</strong>：手續費 0.1425% + 證交稅 0.3%（模擬真實交易磨損）。</li>
-</ul>
-</li>
-</ul>
-<h2>💥 第一章：數據的陷阱——偽聖杯 Alpha 084</h2>
-<p>實驗剛開始，電腦跑出了一個驚人的結果。在 101 個因子中，<strong>Alpha 084</strong> 的 <strong>夏普比率（Sharpe Ratio）</strong> 高達 <strong>3.96</strong>！</p>
-<p>這是什麼概念？在避險基金界，夏普 &gt; 1 是及格，&gt; 2 是優秀，&gt; 3 基本上就是印鈔機了。Alpha 084 的公式極其複雜，用到了 20 次方的冪運算，看起來充滿了高等數學的智慧。</p>
-<p><strong>但我打開持倉明細一看，心都涼了。</strong></p>
-<h3>❌ Alpha 084 的持倉揭密</h3>
-<table>
-<thead>
-<tr>
-<th>股票代號</th>
-<th>持倉比重</th>
-<th>備註</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>2330 (台積電)</strong></td>
-<td>44.12%</td>
-<td>合理，權值王</td>
-</tr>
-<tr>
-<td><strong>TWII (加權指數)</strong></td>
-<td><strong>23.12%</strong></td>
-<td><strong>抓到了！髒數據</strong></td>
-</tr>
-</tbody>
-</table>
-<p>原來，我的資料庫裡混進了 <strong><code>TWII</code> (大盤指數)</strong> 的數據。因為指數的成交量是全市場加總，數值極大，導致 Alpha 084 的公式誤判它是「極端異常股」而重押。</p>
-<div class="callout"><span class="callout-title">教訓一</span> <strong>量化交易的第一課不是數學，是資料清洗 (Data Cleaning)。</strong>剔除指數數據後，Alpha 084 的績效瞬間崩盤，從印鈔機變成了碎紙機。</div>
-<h2>📉 第二章：全軍覆沒？那滿江紅的 -100%</h2>
-<p>修正資料後，我重新跑了一次全掃描。結果報表一出來，我差點把電腦關了。<strong>績效排行榜上一片慘綠，排名前幾名的因子，總報酬率竟然都是 <code>-100.0%</code>。</strong></p>
-<p>難道華爾街的智慧在台股完全失效？不，魔鬼藏在細節裡。</p>
-<table>
-<thead>
-<tr>
-<th>Alpha 代號</th>
-<th>總報酬率</th>
-<th>夏普比率</th>
-<th>狀況診斷</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Alpha 002</td>
-<td>-100%</td>
-<td><strong>2.55</strong></td>
-<td>💎 隱藏強者</td>
-</tr>
-<tr>
-<td>Alpha 040</td>
-<td>-100%</td>
-<td><strong>2.23</strong></td>
-<td>💎 隱藏強者</td>
-</tr>
-<tr>
-<td>Alpha 060</td>
-<td>-12%</td>
-<td><strong>1.1</strong></td>
-<td>普通？</td>
-</tr>
-</tbody>
-</table>
-<div class="warning"><strong>⚠️ 技術說明：</strong><br>這是回測引擎的結算機制所致。部分 Alpha 在回測結束日，因投組結算模組未將「未平倉部位」強制轉為最終市值（Mark-to-Market），導致帳面價值暫時顯示為零。 <br><br>經查核，這些策略在回測期間皆有持續持倉與正向波動。因此，本文評估績效時，以 <strong>夏普比率 (Sharpe Ratio)</strong> 與 <strong>權益曲線 (Equity Curve)</strong> 的過程行為為主，排除單點終值的顯示誤差。</div>
-<p><strong>真相是：</strong> 那些顯示 -100% 的策略，其實在過程中表現優異。</p>
-<h2>🏆 第三章：唯一的生存者——Alpha 060</h2>
-<p>在剔除所有雜訊、修復所有 Bug 後，真正的冠軍終於浮出水面。不是最複雜的 Alpha 084，也不是排名前茅但交易次數過少的 Alpha 002。</p>
-<p><strong>真正的實戰冠軍是：Alpha 060。</strong></p>
-<h3>📝 Alpha 060 的邏輯</h3>
-<p>它的公式非常簡單，簡單到像是一句廢話：</p>
-<div class="math-block">Alpha = (2 × Close - Low - High) / (High - Low)</div>
-<p>翻譯成白話文就是：<strong>「這檔股票今天收盤，是不是收在最高點？」</strong></p>
-<ul>
-<li>收在最高 = 強勢 = <strong>買進</strong>。</li>
-<li>收在最低 = 弱勢 = <strong>賣出</strong>。</li>
-</ul>
-<p>這就是標準的 <strong>「動能策略 (Momentum)」</strong>，也就是散戶最愛講的 <strong>「強者恆強」</strong>。</p>
-<h3>📊 Alpha 060 (2014-2026) 最終成績單</h3>
-<table>
-<tbody>
-<tr>
-<td><strong>總報酬率</strong></td>
-<td><strong>+253.01%</strong> (本金翻 3.5 倍)</td>
-</tr>
-<tr>
-<td><strong>夏普比率</strong></td>
-<td><strong>0.72</strong> (長期表現穩健)</td>
-</tr>
-<tr>
-<td><strong>最大回撤</strong></td>
-<td><strong>-35.90%</strong> (遇到熊市會痛，但沒死)</td>
-</tr>
-<tr>
-<td><strong>資金利用率</strong></td>
-<td><strong>100%</strong> (資金效率極高)</td>
-</tr>
-</tbody>
-</table>
-<div class="img-placeholder"><figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/29/Alpha-060-vs-0050.png" alt="" width="763" height="383" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/29/responsive/Alpha-060-vs-0050-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/29/responsive/Alpha-060-vs-0050-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/29/responsive/Alpha-060-vs-0050-md.png 768w ,https://focusonmystory.pages.dev/media/posts/29/responsive/Alpha-060-vs-0050-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/29/responsive/Alpha-060-vs-0050-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/29/responsive/Alpha-060-vs-0050-2xl.png 1600w"></figure> <br><small>Alt text: Alpha 060 momentum strategy equity curve compared with Taiwan 0050 ETF from 2014 to 2026 backtest</small></div>
-<h2>🕵️‍♂️ 第四章：它到底買了什麼？</h2>
-<p>為了降低 <strong>過度擬合（Overfitting）</strong> 的疑慮，我們檢視其在樣本末期（2025/12/31）的實際持倉結構，確認其行為仍符合原始動能邏輯。</p>
-<h3>🏆 Alpha 060 前五大持股：</h3>
-<ol>
-<li><strong>6770 力積電 (24.2%)</strong>：晶圓代工轉型題材。</li>
-<li><strong>8021 尖點 (16.9%)</strong>：PCB 鑽針，AI 伺服器供應鏈。</li>
-<li><strong>2449 京元電 (15.2%)</strong>：AI 晶片封測龍頭。</li>
-<li><strong>2337 旺宏 (13.0%)</strong>：記憶體循環股。</li>
-<li><strong>6805 富世達 (8.9%)</strong>：摺疊機軸承概念。</li>
-</ol>
-<p><strong>發現了嗎？</strong> 全都是<strong>電子股</strong>，而且全都是當下的<strong>熱門題材股</strong>。Alpha 060 不看本益比，不看財報，它只看 <strong>「資金流向」</strong>。主力敢拉到漲停板收盤，Alpha 060 就敢上車。</p>
-<h2>⚔️ 終極對決：Alpha 060 vs 0050</h2>
-<p>最後，我們要把這個策略跟台股的大魔王——<strong>0050 (元大台灣50)</strong> 進行對比。</p>
-<table>
-<thead>
-<tr>
-<th>比較項目</th>
-<th>0050 (大盤)</th>
-<th>Alpha 060 (動能策略)</th>
-<th>勝負</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>12年總報酬</strong></td>
-<td><strong>約 +450%</strong></td>
-<td>+253%</td>
-<td><strong>0050 完勝</strong> ❌</td>
-</tr>
-<tr>
-<td><strong>策略邏輯</strong></td>
-<td>重押台積電 (佔50%+)</td>
-<td>分散買 10 檔強勢股</td>
-<td>-</td>
-</tr>
-<tr>
-<td><strong>主要風險</strong></td>
-<td>台積電單一個股風險</td>
-<td>電子業景氣循環風險</td>
-<td>-</td>
-</tr>
-<tr>
-<td><strong>適合盤勢</strong></td>
-<td>權值股拉抬 (拉積盤)</td>
-<td>中小型飆股噴發 (百花齊放)</td>
-<td>-</td>
-</tr>
-</tbody>
-</table>
-<p style="font-size: 0.9em; color: #666; font-style: italic;">⚠️ 註：本比較未進行風險等權調整（如相同最大回撤或波動度），僅為實際資金成長結果之直觀對比。</p>
-<h3>💡 結論：為什麼輸給 0050？</h3>
-<p>不是策略爛，而是 <strong>台積電太強了</strong>。在台股，任何「分散投資」的模型，都很難打敗「重押台積電」的 0050。這是台股特殊的市場結構。</p>
-<p>但 Alpha 060 的價值在於 <strong>「互補」</strong>。如果你只買 0050，你的命運綁在台積電一家公司手上。如果你搭配 Alpha 060，你是綁在 <strong>「全市場最強的 10 支股票」</strong> 身上。</p>
-<h2>❓ 常見問題（FAQ）</h2>
-<p><strong>Q：Alpha 060 適合每天交易嗎？</strong><br>A：不適合。本文使用的是「月調整」設定，目的是降低頻繁交易的手續費成本，並捕捉中期動能。</p>
-<p><strong>Q：這個策略可以套用到美股嗎？</strong><br>A：理論上可以，但 Alpha 060 在台股有效，與台股的市場結構（電子股集中、題材輪動快、散戶追價意願高）高度相關，移植到其他市場需重新驗證。</p>
-<p><strong>Q：為什麼不直接 All-in 0050？</strong><br>A：0050 長期績效優秀，但風險高度集中在台積電。Alpha 060 的定位是 <strong>「衛星策略」</strong>，用來補足盤整期的動能機會。</p>
-<p><strong>Q：這算是 Data Snooping（資料探勘偏誤）嗎？</strong><br>A：本文確實屬於多因子掃描研究，因此結果不應被視為單一因子的「保證有效性」。本研究的價值在於比較不同因子類型在台股的相對表現（如動能優於反轉），而非宣稱 Alpha 060 為唯一正解。</p>
-<hr>
-<h2>🎁 結語</h2>
-<p>這場 12 年的實驗告訴我們三個真理：</p>
-<ol>
-<li><strong>大道至簡</strong>：複雜的 20 次方數學公式是雜訊，簡單的收盤價位置才是訊號。</li>
-<li><strong>資料清洗</strong>：一個 <code>TWII</code> 代號就能毀掉整個回測。</li>
-<li><strong>順勢而為</strong>：在台股，<strong>「追高」</strong>（動能策略）長期來看比「抄底」（反轉策略）更容易存活。</li>
-</ol>
-<p><em>(本文回測數據僅供研究參考，不代表未來績效，投資前請審慎評估)</em></p>
-<hr>
-<h3>📎 附錄：視覺化程式碼</h3>
-<div class="warning" style="border-left-color: #666; background-color: #f9f9f9;">⚠️ 技術說明：下方程式碼僅為「視覺化示意」，實際回測數據與績效計算請以 Python 回測引擎輸出為準，<strong>圖表代碼未包含交易成本、換股邏輯與部位控管細節</strong>。</div>
-<pre><code>import matplotlib.pyplot as plt
-import seaborn as sns
-import pandas as pd
-
-# 1. 績效比較圖 (Equity Curve)
-def plot_equity_curve(pf, benchmark):
-    plt.figure(figsize=(12, 6))
-    
-    # 策略淨值歸一化
-    equity = pf.value()
-    equity = equity / equity.iloc[0] * 100 
-    
-    # 0050 淨值歸一化
-    bench = benchmark / benchmark.iloc[0] * 100
-    
-    plt.plot(equity.index, equity.values, label='Alpha 060 (Momentum)', color='#ff7f0e', linewidth=2)
-    plt.plot(bench.index, bench.values, label='0050 (Benchmark)', color='gray', linestyle='--', alpha=0.7)
-    
-    plt.title('Performance Comparison: Alpha 060 vs 0050 (2014-2026)', fontsize=14)
-    plt.xlabel('Year')
-    plt.ylabel('Normalized Value (Base=100)')
-    plt.legend()
-    plt.grid(True, alpha=0.3)
-    plt.show()</code></pre>
-</article>
             ]]>
         </content>
     </entry>
