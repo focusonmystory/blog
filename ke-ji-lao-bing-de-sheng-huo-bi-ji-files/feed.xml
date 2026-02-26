@@ -3,12 +3,85 @@
     <title>科技老兵的生活筆記</title>
     <link href="https://focusonmystory.pages.dev/feed.xml" rel="self" />
     <link href="https://focusonmystory.pages.dev" />
-    <updated>2026-02-25T20:08:25+08:00</updated>
+    <updated>2026-02-26T20:40:21+08:00</updated>
     <author>
         <name>老兵</name>
     </author>
     <id>https://focusonmystory.pages.dev</id>
 
+    <entry>
+        <title>【AI 日更量化雷達 #017】高空飛行盤的失速邊緣：解析 0050 「群體亢奮指數」與雙極限結構</title>
+        <author>
+            <name>老兵</name>
+        </author>
+        <link href="https://focusonmystory.pages.dev/2026-02-26.html"/>
+        <id>https://focusonmystory.pages.dev/2026-02-26.html</id>
+
+        <updated>2026-02-26T20:32:03+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    市場結構深度解析觀測日：2026-02-26 | 閱讀時間：3 分鐘 🔥 整體市場結構判讀（結論先講） 這不是起漲盤，而是一個極端過熱的右側鈍化市場——我們稱之為「高空盤 + 動能延伸盤」。大量個股的 IFT-RSI 鎖死在 +1.0，且年線乖離率飆破 30%，資金高度集中於右上角的「慣性延伸區」。這意味著，真正的風險不在底部，而在空中。 根據最新 0050 雙指標雷達掃描，今日的市場情緒結構出現了極為撕裂的兩極化特徵： ▲ 0050 雙指標情緒網格：深紅色區塊代表 IFT 絕對極化，市場進入群體亢奮期。 量化視角： 當亢奮指數突破 60%，代表大盤正式進入「群體亢奮期」。在 60% 狂歡的背後，還有 26% 的資金被無情抽離（如部分金融、超跌電子）。這證明了目前並非全面性多頭，而是資金極端集中化的零和博弈。 在量化散佈圖（IFT vs MA200 Bias）中，右上象限目前擠滿了權值巨獸（如台積電乖離突破 51%、聯發科 42%、台達電 83%）。這區域被定義為 🚨 重力陷阱區（Momentum Exhaustion Zone）。 ▲ IFT-RSI vs 年線乖離率：標的高度集中於右上角「高空盤 + 動能延伸」區域。&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div style="font-family: 'PingFang TC', 'Microsoft JhengHei', sans-serif; line-height: 1.8; color: #333; max-width: 850px; margin: 0 auto; padding: 40px; border: 1px solid #eef2f6; border-radius: 20px; background-color: #ffffff; box-shadow: 0 10px 40px rgba(0,0,0,0.05);"><header style="margin-bottom: 40px;">
+<div style="display: flex; align-items: center; color: #5f6368; font-size: 15px;"><span style="background-color: #e8f0fe; color: #1a73e8; padding: 4px 12px; border-radius: 20px; font-weight: bold; margin-right: 15px;">市場結構深度解析</span>觀測日：2026-02-26 | 閱讀時間：3 分鐘</div>
+</header>
+<section style="margin-bottom: 45px; border-left: 5px solid #1a73e8; padding-left: 20px;">
+<p style="font-size: 19px; font-weight: bold; color: #1a73e8; margin-bottom: 10px;">🔥 整體市場結構判讀（結論先講）</p>
+<p style="font-size: 17px; color: #444;">這不是起漲盤，而是一個極端過熱的右側鈍化市場——我們稱之為<strong>「高空盤 + 動能延伸盤」</strong>。大量個股的 IFT-RSI 鎖死在 +1.0，且年線乖離率飆破 30%，資金高度集中於右上角的「慣性延伸區」。這意味著，真正的風險不在底部，而在空中。</p>
+</section>
+<section style="background-color: #fff8f8; padding: 30px; border-radius: 16px; margin-bottom: 40px; border: 1px solid #fde2e2;">
+<h3 style="color: #d93025; margin-top: 0; font-size: 22px; display: flex; align-items: center;">📊 v43.0 新增指標：群體亢奮指數 (Market Exuberance Index)</h3>
+<p style="font-size: 17px; margin-top: 15px;">根據最新 0050 雙指標雷達掃描，今日的市場情緒結構出現了極為撕裂的兩極化特徵：</p>
+<ul style="line-height: 2.2; font-size: 17px; color: #d93025; font-weight: bold;">
+<li>群體亢奮區 (IFT &gt; 0.9)：<span style="font-size: 24px;">60.0%</span></li>
+<li style="color: #1a73e8;">極度悲觀區 (IFT &lt; -0.9)：<span style="font-size: 24px;">26.0%</span></li>
+</ul>
+<div style="text-align: center; margin: 25px 0;"><figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/40/dual_heatmap_2026-02-26.png" alt="" width="5400" height="3000" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/40/responsive/dual_heatmap_2026-02-26-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_heatmap_2026-02-26-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_heatmap_2026-02-26-md.png 768w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_heatmap_2026-02-26-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_heatmap_2026-02-26-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_heatmap_2026-02-26-2xl.png 1600w"></figure><br>
+<p style="font-size: 14px; color: #888; margin-top: 10px;">▲ 0050 雙指標情緒網格：深紅色區塊代表 IFT 絕對極化，市場進入群體亢奮期。</p>
+</div>
+<p style="font-size: 16px; color: #666; margin-top: 10px;"><strong>量化視角：</strong> 當亢奮指數突破 60%，代表大盤正式進入「群體亢奮期」。在 60% 狂歡的背後，還有 26% 的資金被無情抽離（如部分金融、超跌電子）。這證明了目前<strong>並非全面性多頭，而是資金極端集中化的零和博弈</strong>。</p>
+</section>
+<section style="margin-bottom: 40px;">
+<h3 style="color: #202124; font-size: 22px; border-bottom: 2px solid #f1f3f4; padding-bottom: 10px;">🧠 散佈圖結構拆解：我們現在在哪裡？</h3>
+<p style="font-size: 17px; color: #444; margin-top: 15px;">在量化散佈圖（IFT vs MA200 Bias）中，右上象限目前擠滿了權值巨獸（如台積電乖離突破 51%、聯發科 42%、台達電 83%）。這區域被定義為 <strong>🚨 重力陷阱區（Momentum Exhaustion Zone）</strong>。</p>
+<div style="text-align: center; margin: 25px 0;"><figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/40/dual_scatter_2026-02-26.png" alt="" width="3600" height="2100" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/40/responsive/dual_scatter_2026-02-26-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_scatter_2026-02-26-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_scatter_2026-02-26-md.png 768w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_scatter_2026-02-26-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_scatter_2026-02-26-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_scatter_2026-02-26-2xl.png 1600w"></figure><br>
+<p style="font-size: 14px; color: #888; margin-top: 10px;">▲ IFT-RSI vs 年線乖離率：標的高度集中於右上角「高空盤 + 動能延伸」區域。</p>
+</div>
+<div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; margin-top: 20px;">
+<p style="font-size: 16px; font-weight: bold; margin-bottom: 10px;">這種盤勢的典型四階段行為：</p>
+<ol style="font-size: 16px; color: #555; line-height: 1.8; margin-top: 0; padding-left: 20px;">
+<li>散戶不敢買（懷疑期）</li>
+<li>開始 FOMO 追價（參與期）</li>
+<li><strong>加速噴發（目前所處的 2~3 階段交界）</strong></li>
+<li>高檔鈍化 → 資金耗盡引發急殺（失速期）</li>
+</ol>
+</div>
+<p style="font-size: 17px; color: #444; margin-top: 20px;">請注意，IFT-RSI ≈ +1.0 並不代表「看多」，它代表超短線多頭已經「用力過猛」。這並不是崩盤初期，而是資金集中化推升的最後煙火。</p>
+</section>
+<section style="margin-bottom: 40px;">
+<h3 style="color: #202124; font-size: 22px; border-bottom: 2px solid #f1f3f4; padding-bottom: 10px;">🎯 量化框架下的風險層級與應對戰略</h3>
+<p style="font-size: 17px; color: #444; margin-top: 15px;">當「RSI 極短線過熱 + IFT 極化鈍化 + MA200 年線大幅拉開」三層結構同時亮起紅燈時，系統會判定為<strong>「雙極限過熱」</strong>。在強牛市中，這種條件不一定會立刻引發大跌，但<strong>「風險報酬比（Risk/Reward Ratio）」將急劇惡化，期望值開始轉負</strong>。這正是成熟量化交易員開始收網的位置。</p>
+<div style="display: flex; gap: 15px; margin-top: 25px;">
+<div style="flex: 1; background-color: #fce8e6; padding: 20px; border-radius: 12px; border-top: 4px solid #d93025;">
+<h4 style="color: #d93025; margin-top: 0; font-size: 18px;">❌ 散戶的致命錯誤</h4>
+<p style="font-size: 15px; color: #444; margin-bottom: 0;">因為所有技術圖表都翻紅、氛圍狂熱、動能極強，而在「最後加速段」忍不住重倉加碼，最終買在空中失速點。</p>
+</div>
+<div style="flex: 1; background-color: #e6f4ea; padding: 20px; border-radius: 12px; border-top: 4px solid #1e8e3e;">
+<h4 style="color: #1e8e3e; margin-top: 0; font-size: 18px;">✅ 交易員的紀律</h4>
+<p style="font-size: 15px; color: #444; margin-bottom: 0;"><strong>趨勢交易者：</strong>分批減碼，絕不追高。<br><strong>波段交易者：</strong>空手等待拉回。<br><strong>極短線當沖：</strong>只做強勢回檔的日內套利。</p>
+</div>
+</div>
+</section>
+<section style="text-align: center; margin-top: 40px;">
+<p style="font-size: 20px; font-weight: bold; color: #202124;">「這不是空頭盤，這是高空飛行盤。真正的風險不在現在暴跌，而在突然失速。」</p>
+</section>
+<footer style="text-align: center; color: #9aa0a6; font-size: 14px; border-top: 1px solid #f1f3f4; padding-top: 30px; margin-top: 40px;">Powered by AI 量化產線 v43.0 (市場溫度計特別版) | 結合 IFT-RSI 雙指標與群體亢奮指數</footer></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>【AI 日更量化雷達 #016】資金大板塊挪移！台積電 2000 里程碑達陣，金融防禦組集體急凍 RSI&#x3D;0 的「補漲金坑」掃描</title>
         <author>
@@ -747,77 +820,6 @@
 </section>
 <section style="text-align: center; margin-bottom: 40px;"></section>
 <footer style="text-align: center; color: #9aa0a6; font-size: 15px; border-top: 1px solid #f1f3f4; padding-top: 40px;">由 AI 鋼鐵監控產線 v42.0 自動生成 | 數據驅動．紀律執行<br><span style="font-style: italic;">"Quantification is the bridge between emotion and reality."</span></footer></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>【AI 日更量化雷達 #007】引力大爆發！台積電 RSI 垂直彈升，0050 成功脫離「情緒冰封區」</title>
-        <author>
-            <name>老兵</name>
-        </author>
-        <link href="https://focusonmystory.pages.dev/2026-02-03.html"/>
-        <id>https://focusonmystory.pages.dev/2026-02-03.html</id>
-
-        <updated>2026-02-03T20:21:37+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    數據監測日：2026-02-03 | 策略核心：極端均值回歸驗證 (v40.0 Autopilot) 在經歷昨日 0050 集體觸地（RSI=0）的極端冰封後，今日市場如期觸發強勁的物理性反彈。權王台積電與 AI 核心緯創領頭噴發，證明了「重力回歸」在極端情緒下的強大修復力。 🔍 數據觀察： 熱力圖從昨日的亮綠轉為暖色，代表超跌動能已轉化為上攻引力。 ● 均值回歸的統計力量： 昨日 0050 集體觸地後的反彈完全符合量化模型預期。當市場出現系統性情緒斷層，反彈的機率高達 74% 以上。 ● 警惕「高乖離陷阱」： 儘管今日反彈亮眼，但台積電年線乖離仍處於 41.9% 的高位。量化建議：此處應視為波段反彈，而非長線無腦加碼，需防範第二波重力修正。 由 AI 鋼鐵監控產線 v40.0 自動生成 | 數據驅動．紀律執行
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div style="font-family: 'PingFang TC', 'Microsoft JhengHei', sans-serif; line-height: 1.8; color: #333; max-width: 900px; margin: 0 auto; padding: 45px; border: 1px solid #eef2f6; border-radius: 28px; background-color: #ffffff; box-shadow: 0 20px 60px rgba(0,0,0,0.08);"><header style="text-align: center; margin-bottom: 45px;">
-<div style="height: 5px; width: 100px; background: linear-gradient(90deg, #34a853, #1a73e8); margin: 25px 0;"> </div>
-<p style="color: #5f6368; font-size: 16px; text-align: left;">數據監測日：2026-02-03 | 策略核心：極端均值回歸驗證 (v40.0 Autopilot)</p>
-</header>
-<section style="background-color: #f8fdf9; padding: 30px; border-radius: 20px; margin-bottom: 40px; border: 1px solid #e6f4ea;">
-<h3 style="color: #1e7e34; margin-top: 0; font-size: 22px; display: flex; align-items: center;"><span style="margin-right: 12px;">🌍</span> 市場氣候：🟢 反彈修復模式 (Spring Recovery)</h3>
-<p style="font-size: 16px;">在經歷昨日 0050 集體觸地（RSI=0）的極端冰封後，今日市場如期觸發強勁的物理性反彈。權王台積電與 AI 核心緯創領頭噴發，證明了「重力回歸」在極端情緒下的強大修復力。</p>
-</section>
-<div style="text-align: center; margin: 40px 0;"><figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/30/rsi_heatmap_2026-02-03.png" alt="" width="4800" height="3000" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/30/responsive/rsi_heatmap_2026-02-03-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/30/responsive/rsi_heatmap_2026-02-03-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/30/responsive/rsi_heatmap_2026-02-03-md.png 768w ,https://focusonmystory.pages.dev/media/posts/30/responsive/rsi_heatmap_2026-02-03-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/30/responsive/rsi_heatmap_2026-02-03-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/30/responsive/rsi_heatmap_2026-02-03-2xl.png 1600w"></figure><br>
-<p style="font-size: 14px; color: #888; margin-top: 15px;">🔍 <strong>數據觀察：</strong> 熱力圖從昨日的亮綠轉為暖色，代表超跌動能已轉化為上攻引力。</p>
-</div>
-<section style="margin-bottom: 45px;">
-<h3 style="color: #1a73e8; border-bottom: 2px solid #f1f3f4; padding-bottom: 15px; font-size: 22px;">📊 24H 數據深度演進 (2/2 -&gt; 2/3)</h3>
-<table style="width: 100%; border-collapse: collapse; margin-top: 20px; font-size: 15px;">
-<thead>
-<tr style="background-color: #f8f9fa; border-bottom: 2px solid #eee;">
-<th style="padding: 15px; text-align: left;">演進狀態</th>
-<th style="padding: 15px; text-align: left;">標的名稱</th>
-<th style="padding: 15px; text-align: center;">昨日 RSI</th>
-<th style="padding: 15px; text-align: center; color: #1a73e8;">今日動態</th>
-</tr>
-</thead>
-<tbody>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 15px;"><span style="color: #1e7e34; font-weight: bold;">✅ 反彈驗證</span></td>
-<td style="padding: 15px;">台積電 (2330)</td>
-<td style="padding: 15px; text-align: center;">0.0</td>
-<td style="padding: 15px; text-align: center; font-weight: bold; color: #1e7e34;">77.7 (脫離真空區)</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 15px;"><span style="color: #1e7e34; font-weight: bold;">💎 金坑脫離</span></td>
-<td style="padding: 15px;">緯創 (3231)</td>
-<td style="padding: 15px; text-align: center;">0.0</td>
-<td style="padding: 15px; text-align: center; font-weight: bold; color: #1e7e34;">75.0 (強勢反彈)</td>
-</tr>
-<tr>
-<td style="padding: 15px;"><span style="color: #1a73e8; font-weight: bold;">🛡️ 底部確認</span></td>
-<td style="padding: 15px;">研華 (2395)</td>
-<td style="padding: 15px; text-align: center;">0.0</td>
-<td style="padding: 15px; text-align: center; font-weight: bold; color: #1a73e8;">30.7 (止跌回穩)</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section style="margin-bottom: 45px;">
-<h3 style="color: #1a73e8; font-size: 22px; border-bottom: 2px solid #f1f3f4; padding-bottom: 15px;">🔍 鋼鐵量化決策筆記</h3>
-<div style="line-height: 2; font-size: 16px; color: #444;">
-<p><strong>● 均值回歸的統計力量：</strong><br>昨日 0050 集體觸地後的反彈完全符合量化模型預期。當市場出現系統性情緒斷層，反彈的機率高達 74% 以上。</p>
-<p><strong>● 警惕「高乖離陷阱」：</strong><br>儘管今日反彈亮眼，但台積電年線乖離仍處於 41.9% 的高位。量化建議：此處應視為波段反彈，而非長線無腦加碼，需防範第二波重力修正。</p>
-</div>
-</section>
-<footer style="text-align: center; color: #9aa0a6; font-size: 14px; border-top: 1px solid #f1f3f4; padding-top: 35px;">由 AI 鋼鐵監控產線 v40.0 自動生成 | 數據驅動．紀律執行</footer></div>
             ]]>
         </content>
     </entry>
