@@ -3,14 +3,14 @@
     <title>科技老兵的生活筆記</title>
     <link href="https://focusonmystory.pages.dev/feed.xml" rel="self" />
     <link href="https://focusonmystory.pages.dev" />
-    <updated>2026-02-26T20:40:21+08:00</updated>
+    <updated>2026-02-26T20:53:39+08:00</updated>
     <author>
         <name>老兵</name>
     </author>
     <id>https://focusonmystory.pages.dev</id>
 
     <entry>
-        <title>【AI 日更量化雷達 #017】高空飛行盤的失速邊緣：解析 0050 「群體亢奮指數」與雙極限結構</title>
+        <title>【AI 日更量化雷達 #017】高空飛行盤的失速邊緣：解析 0050 群體亢奮指數與雙極限四象限矩陣</title>
         <author>
             <name>老兵</name>
         </author>
@@ -20,63 +20,83 @@
         <updated>2026-02-26T20:32:03+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                    市場結構深度解析觀測日：2026-02-26 | 閱讀時間：3 分鐘 🔥 整體市場結構判讀（結論先講） 這不是起漲盤，而是一個極端過熱的右側鈍化市場——我們稱之為「高空盤 + 動能延伸盤」。大量個股的 IFT-RSI 鎖死在 +1.0，且年線乖離率飆破 30%，資金高度集中於右上角的「慣性延伸區」。這意味著，真正的風險不在底部，而在空中。 根據最新 0050 雙指標雷達掃描，今日的市場情緒結構出現了極為撕裂的兩極化特徵： ▲ 0050 雙指標情緒網格：深紅色區塊代表 IFT 絕對極化，市場進入群體亢奮期。 量化視角： 當亢奮指數突破 60%，代表大盤正式進入「群體亢奮期」。在 60% 狂歡的背後，還有 26% 的資金被無情抽離（如部分金融、超跌電子）。這證明了目前並非全面性多頭，而是資金極端集中化的零和博弈。 在量化散佈圖（IFT vs MA200 Bias）中，右上象限目前擠滿了權值巨獸（如台積電乖離突破 51%、聯發科 42%、台達電 83%）。這區域被定義為 🚨 重力陷阱區（Momentum Exhaustion Zone）。 ▲ IFT-RSI vs 年線乖離率：標的高度集中於右上角「高空盤 + 動能延伸」區域。&hellip;
+                    市場結構深度解析觀測日：2026-02-26 | 模型：IFT-RSI &amp; MA200 雙指標 🔥 整體市場結構判讀（結論先講） 這不是起漲盤，而是一個極端過熱的右側鈍化市場——我們稱之為「高空盤 + 動能延伸盤」。大量個股的 IFT-RSI 鎖死在 +1.0，且年線乖離率飆破 30%，資金高度集中於右上角的「慣性延伸區」。這意味著，真正的風險不在底部，而在空中。 根據最新 0050 雙指標雷達掃描，今日的市場情緒結構出現了極為撕裂的兩極化特徵： ▲ 0050 雙指標情緒網格：深紅色區塊代表 IFT 絕對極化，市場進入群體亢奮期。 量化視角： 當亢奮指數突破 60%，代表大盤正式進入「群體亢奮期」。在 60% 狂歡的背後，還有 26% 的資金被無情抽離。這證明了目前並非全面性多頭，而是資金極端集中化的零和博弈。 在量化散佈圖中，橫軸代表情緒 (IFT-RSI)，縱軸代表物理重力 (年線乖離率)。你可以清楚看到，目前的權值巨獸高度集中在右上角的「超載區」。 ▲ IFT-RSI vs 年線乖離率：標的高度集中於右上角「高空盤 + 動能延伸」區域。 將散佈圖化為四個戰略象限。將資金從「上方象限（高乖離）」撤出，並尋找「下方象限（低乖離）」的機會，是量化交易的獲利鐵律。 ⚠️ 散戶的致命錯誤：在最後加速段忍不住重倉加碼，最終買在空中失速點。 量化交易的紀律：賣掉右上角的紅燈，佈局左下角的綠燈。不猜頭，只算期望值。 Powered by&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div style="font-family: 'PingFang TC', 'Microsoft JhengHei', sans-serif; line-height: 1.8; color: #333; max-width: 850px; margin: 0 auto; padding: 40px; border: 1px solid #eef2f6; border-radius: 20px; background-color: #ffffff; box-shadow: 0 10px 40px rgba(0,0,0,0.05);"><header style="margin-bottom: 40px;">
-<div style="display: flex; align-items: center; color: #5f6368; font-size: 15px;"><span style="background-color: #e8f0fe; color: #1a73e8; padding: 4px 12px; border-radius: 20px; font-weight: bold; margin-right: 15px;">市場結構深度解析</span>觀測日：2026-02-26 | 閱讀時間：3 分鐘</div>
+                <div style="font-family: 'PingFang TC', 'Microsoft JhengHei', sans-serif; line-height: 1.8; color: #333; max-width: 900px; margin: 0 auto; padding: 40px; border: 1px solid #eef2f6; border-radius: 20px; background-color: #ffffff; box-shadow: 0 10px 40px rgba(0,0,0,0.05);"><header style="margin-bottom: 40px;">
+<div style="display: flex; align-items: center; color: #5f6368; font-size: 15px;"><span style="background-color: #e8f0fe; color: #1a73e8; padding: 4px 12px; border-radius: 20px; font-weight: bold; margin-right: 15px;">市場結構深度解析</span>觀測日：2026-02-26 | 模型：IFT-RSI &amp; MA200 雙指標</div>
 </header>
 <section style="margin-bottom: 45px; border-left: 5px solid #1a73e8; padding-left: 20px;">
 <p style="font-size: 19px; font-weight: bold; color: #1a73e8; margin-bottom: 10px;">🔥 整體市場結構判讀（結論先講）</p>
 <p style="font-size: 17px; color: #444;">這不是起漲盤，而是一個極端過熱的右側鈍化市場——我們稱之為<strong>「高空盤 + 動能延伸盤」</strong>。大量個股的 IFT-RSI 鎖死在 +1.0，且年線乖離率飆破 30%，資金高度集中於右上角的「慣性延伸區」。這意味著，真正的風險不在底部，而在空中。</p>
 </section>
 <section style="background-color: #fff8f8; padding: 30px; border-radius: 16px; margin-bottom: 40px; border: 1px solid #fde2e2;">
-<h3 style="color: #d93025; margin-top: 0; font-size: 22px; display: flex; align-items: center;">📊 v43.0 新增指標：群體亢奮指數 (Market Exuberance Index)</h3>
+<h3 style="color: #d93025; margin-top: 0; font-size: 22px; display: flex; align-items: center;">📊 v43.0 指標：群體亢奮指數 (Market Exuberance Index)</h3>
 <p style="font-size: 17px; margin-top: 15px;">根據最新 0050 雙指標雷達掃描，今日的市場情緒結構出現了極為撕裂的兩極化特徵：</p>
 <ul style="line-height: 2.2; font-size: 17px; color: #d93025; font-weight: bold;">
 <li>群體亢奮區 (IFT &gt; 0.9)：<span style="font-size: 24px;">60.0%</span></li>
 <li style="color: #1a73e8;">極度悲觀區 (IFT &lt; -0.9)：<span style="font-size: 24px;">26.0%</span></li>
 </ul>
-<div style="text-align: center; margin: 25px 0;"><figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/40/dual_heatmap_2026-02-26.png" alt="" width="5400" height="3000" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/40/responsive/dual_heatmap_2026-02-26-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_heatmap_2026-02-26-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_heatmap_2026-02-26-md.png 768w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_heatmap_2026-02-26-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_heatmap_2026-02-26-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_heatmap_2026-02-26-2xl.png 1600w"></figure><br>
+<div style="text-align: center; margin: 25px 0;"><figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/40/dual_heatmap_2026-02-26-2.png" alt="" width="5400" height="3000" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/40/responsive/dual_heatmap_2026-02-26-2-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_heatmap_2026-02-26-2-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_heatmap_2026-02-26-2-md.png 768w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_heatmap_2026-02-26-2-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_heatmap_2026-02-26-2-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_heatmap_2026-02-26-2-2xl.png 1600w"></figure><br>
 <p style="font-size: 14px; color: #888; margin-top: 10px;">▲ 0050 雙指標情緒網格：深紅色區塊代表 IFT 絕對極化，市場進入群體亢奮期。</p>
 </div>
-<p style="font-size: 16px; color: #666; margin-top: 10px;"><strong>量化視角：</strong> 當亢奮指數突破 60%，代表大盤正式進入「群體亢奮期」。在 60% 狂歡的背後，還有 26% 的資金被無情抽離（如部分金融、超跌電子）。這證明了目前<strong>並非全面性多頭，而是資金極端集中化的零和博弈</strong>。</p>
+<p style="font-size: 16px; color: #666; margin-top: 10px;"><strong>量化視角：</strong> 當亢奮指數突破 60%，代表大盤正式進入「群體亢奮期」。在 60% 狂歡的背後，還有 26% 的資金被無情抽離。這證明了目前<strong>並非全面性多頭，而是資金極端集中化的零和博弈</strong>。</p>
 </section>
 <section style="margin-bottom: 40px;">
 <h3 style="color: #202124; font-size: 22px; border-bottom: 2px solid #f1f3f4; padding-bottom: 10px;">🧠 散佈圖結構拆解：我們現在在哪裡？</h3>
-<p style="font-size: 17px; color: #444; margin-top: 15px;">在量化散佈圖（IFT vs MA200 Bias）中，右上象限目前擠滿了權值巨獸（如台積電乖離突破 51%、聯發科 42%、台達電 83%）。這區域被定義為 <strong>🚨 重力陷阱區（Momentum Exhaustion Zone）</strong>。</p>
-<div style="text-align: center; margin: 25px 0;"><figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/40/dual_scatter_2026-02-26.png" alt="" width="3600" height="2100" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/40/responsive/dual_scatter_2026-02-26-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_scatter_2026-02-26-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_scatter_2026-02-26-md.png 768w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_scatter_2026-02-26-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_scatter_2026-02-26-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_scatter_2026-02-26-2xl.png 1600w"></figure><br>
+<p style="font-size: 17px; color: #444; margin-top: 15px;">在量化散佈圖中，<strong>橫軸代表情緒 (IFT-RSI)，縱軸代表物理重力 (年線乖離率)</strong>。你可以清楚看到，目前的權值巨獸高度集中在右上角的「超載區」。</p>
+<div style="text-align: center; margin: 25px 0;"><figure class="post__image"><img loading="lazy"  src="https://focusonmystory.pages.dev/media/posts/40/dual_scatter_2026-02-26-2.png" alt="" width="3600" height="2100" sizes="(max-width: 48em) 100vw, 768px" srcset="https://focusonmystory.pages.dev/media/posts/40/responsive/dual_scatter_2026-02-26-2-xs.png 300w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_scatter_2026-02-26-2-sm.png 480w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_scatter_2026-02-26-2-md.png 768w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_scatter_2026-02-26-2-lg.png 1024w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_scatter_2026-02-26-2-xl.png 1360w ,https://focusonmystory.pages.dev/media/posts/40/responsive/dual_scatter_2026-02-26-2-2xl.png 1600w"></figure><br>
 <p style="font-size: 14px; color: #888; margin-top: 10px;">▲ IFT-RSI vs 年線乖離率：標的高度集中於右上角「高空盤 + 動能延伸」區域。</p>
 </div>
-<div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; margin-top: 20px;">
-<p style="font-size: 16px; font-weight: bold; margin-bottom: 10px;">這種盤勢的典型四階段行為：</p>
-<ol style="font-size: 16px; color: #555; line-height: 1.8; margin-top: 0; padding-left: 20px;">
-<li>散戶不敢買（懷疑期）</li>
-<li>開始 FOMO 追價（參與期）</li>
-<li><strong>加速噴發（目前所處的 2~3 階段交界）</strong></li>
-<li>高檔鈍化 → 資金耗盡引發急殺（失速期）</li>
-</ol>
-</div>
-<p style="font-size: 17px; color: #444; margin-top: 20px;">請注意，IFT-RSI ≈ +1.0 並不代表「看多」，它代表超短線多頭已經「用力過猛」。這並不是崩盤初期，而是資金集中化推升的最後煙火。</p>
 </section>
 <section style="margin-bottom: 40px;">
-<h3 style="color: #202124; font-size: 22px; border-bottom: 2px solid #f1f3f4; padding-bottom: 10px;">🎯 量化框架下的風險層級與應對戰略</h3>
-<p style="font-size: 17px; color: #444; margin-top: 15px;">當「RSI 極短線過熱 + IFT 極化鈍化 + MA200 年線大幅拉開」三層結構同時亮起紅燈時，系統會判定為<strong>「雙極限過熱」</strong>。在強牛市中，這種條件不一定會立刻引發大跌，但<strong>「風險報酬比（Risk/Reward Ratio）」將急劇惡化，期望值開始轉負</strong>。這正是成熟量化交易員開始收網的位置。</p>
-<div style="display: flex; gap: 15px; margin-top: 25px;">
-<div style="flex: 1; background-color: #fce8e6; padding: 20px; border-radius: 12px; border-top: 4px solid #d93025;">
-<h4 style="color: #d93025; margin-top: 0; font-size: 18px;">❌ 散戶的致命錯誤</h4>
-<p style="font-size: 15px; color: #444; margin-bottom: 0;">因為所有技術圖表都翻紅、氛圍狂熱、動能極強，而在「最後加速段」忍不住重倉加碼，最終買在空中失速點。</p>
+<h3 style="color: #202124; font-size: 22px; border-bottom: 2px solid #f1f3f4; padding-bottom: 10px;">🎯 量化雷達：四象限戰略矩陣</h3>
+<p style="font-size: 16px; color: #666; margin-bottom: 20px;">將散佈圖化為四個戰略象限。將資金從「上方象限（高乖離）」撤出，並尋找「下方象限（低乖離）」的機會，是量化交易的獲利鐵律。</p>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="flex: 1 1 45%; background-color: #fce4e4; border: 1px solid #f5c6cb; border-radius: 16px; padding: 25px; box-sizing: border-box;">
+<h4 style="color: #721c24; margin-top: 0; font-size: 20px; border-bottom: 2px solid #f5c6cb; padding-bottom: 10px;">🥶 左上角：高檔失速區</h4>
+<div style="font-size: 14px; color: #721c24; margin-bottom: 15px; line-height: 1.6;"><strong>特徵：</strong>乖離率 &gt; 30% 且 IFT-RSI 跌至 -1.0<br><strong>解析：</strong>飛在半空中但「引擎突然熄火」。這是最致命的逃命訊號，代表主力已經在高位撤退，崩塌剛開始。</div>
+<ul style="list-style: none; padding: 0; margin: 0; font-size: 15px; font-weight: bold; color: #491217;">
+<li style="margin-bottom: 8px; background: rgba(255,255,255,0.6); padding: 8px 12px; border-radius: 8px;">📉 聯電 (2303) <span style="font-size: 13px; font-weight: normal; color: #721c24; float: right;">乖離 38.6% | IFT -1.0</span></li>
+</ul>
+<div style="margin-top: 15px; padding-top: 10px; border-top: 1px dashed #f5c6cb; font-size: 15px; font-weight: bold; color: #721c24;">⚔️ 戰略：果斷停損 / 尋找做空機會</div>
 </div>
-<div style="flex: 1; background-color: #e6f4ea; padding: 20px; border-radius: 12px; border-top: 4px solid #1e8e3e;">
-<h4 style="color: #1e8e3e; margin-top: 0; font-size: 18px;">✅ 交易員的紀律</h4>
-<p style="font-size: 15px; color: #444; margin-bottom: 0;"><strong>趨勢交易者：</strong>分批減碼，絕不追高。<br><strong>波段交易者：</strong>空手等待拉回。<br><strong>極短線當沖：</strong>只做強勢回檔的日內套利。</p>
+<div style="flex: 1 1 45%; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 16px; padding: 25px; box-sizing: border-box;">
+<h4 style="color: #856404; margin-top: 0; font-size: 20px; border-bottom: 2px solid #ffeeba; padding-bottom: 10px;">🚨 右上角：重力陷阱區</h4>
+<div style="font-size: 14px; color: #856404; margin-bottom: 15px; line-height: 1.6;"><strong>特徵：</strong>乖離率 &gt; 30% 且 IFT-RSI 鎖死 +1.0<br><strong>解析：</strong>引擎超載，價格飛離地平線。動能極強但風險極大，正在上演最後的「高空煙火秀」。</div>
+<ul style="list-style: none; padding: 0; margin: 0; font-size: 15px; font-weight: bold; color: #533f03;">
+<li style="margin-bottom: 8px; background: rgba(255,255,255,0.6); padding: 8px 12px; border-radius: 8px;">🔥 台積電 (2330) <span style="font-size: 13px; font-weight: normal; color: #856404; float: right;">乖離 51.1% | IFT +0.97</span></li>
+<li style="margin-bottom: 8px; background: rgba(255,255,255,0.6); padding: 8px 12px; border-radius: 8px;">🔥 台達電 (2308) <span style="font-size: 13px; font-weight: normal; color: #856404; float: right;">乖離 83.8% | IFT +0.99</span></li>
+<li style="margin-bottom: 8px; background: rgba(255,255,255,0.6); padding: 8px 12px; border-radius: 8px;">🔥 聯發科 (2454) <span style="font-size: 13px; font-weight: normal; color: #856404; float: right;">乖離 42.3% | IFT +1.00</span></li>
+</ul>
+<div style="margin-top: 15px; padding-top: 10px; border-top: 1px dashed #ffeeba; font-size: 15px; font-weight: bold; color: #856404;">⚔️ 戰略：移動停利 / 嚴禁無腦追高</div>
+</div>
+<div style="flex: 1 1 45%; background-color: #e8f4fd; border: 1px solid #b8daff; border-radius: 16px; padding: 25px; box-sizing: border-box;">
+<h4 style="color: #004085; margin-top: 0; font-size: 20px; border-bottom: 2px solid #b8daff; padding-bottom: 10px;">💎 左下角：冰封金坑區</h4>
+<div style="font-size: 14px; color: #004085; margin-bottom: 15px; line-height: 1.6;"><strong>特徵：</strong>乖離率 &lt; 15% 且 IFT-RSI 跌至 -1.0<br><strong>解析：</strong>資金排擠下的錯殺區。價格貼近平均成本，向下的重力幾乎為零，具備最強的防禦與補漲潛力。</div>
+<ul style="list-style: none; padding: 0; margin: 0; font-size: 15px; font-weight: bold; color: #002752;">
+<li style="margin-bottom: 8px; background: rgba(255,255,255,0.6); padding: 8px 12px; border-radius: 8px;">❄️ 第一金 (2892) <span style="font-size: 13px; font-weight: normal; color: #004085; float: right;">乖離 5.9% | IFT -1.0</span></li>
+<li style="margin-bottom: 8px; background: rgba(255,255,255,0.6); padding: 8px 12px; border-radius: 8px;">❄️ 中租-KY (5871) <span style="font-size: 13px; font-weight: normal; color: #004085; float: right;">乖離 -6.0% | IFT -1.0</span></li>
+<li style="margin-bottom: 8px; background: rgba(255,255,255,0.6); padding: 8px 12px; border-radius: 8px;">❄️ 光寶科 (2301) <span style="font-size: 13px; font-weight: normal; color: #004085; float: right;">乖離 21.2% | IFT -1.0</span></li>
+</ul>
+<div style="margin-top: 15px; padding-top: 10px; border-top: 1px dashed #b8daff; font-size: 15px; font-weight: bold; color: #004085;">⚔️ 戰略：左側建倉 / 資金避險停泊</div>
+</div>
+<div style="flex: 1 1 45%; background-color: #e6f4ea; border: 1px solid #c3e6cb; border-radius: 16px; padding: 25px; box-sizing: border-box;">
+<h4 style="color: #155724; margin-top: 0; font-size: 20px; border-bottom: 2px solid #c3e6cb; padding-bottom: 10px;">🚀 右下角：健康動能區</h4>
+<div style="font-size: 14px; color: #155724; margin-bottom: 15px; line-height: 1.6;"><strong>特徵：</strong>乖離率 &lt; 25% 且 IFT-RSI 達到 +1.0<br><strong>解析：</strong>剛剛點火起飛。動能強勁且尚未累積致命的下墜重力，是波段操作者最完美的順勢上車區間。</div>
+<ul style="list-style: none; padding: 0; margin: 0; font-size: 15px; font-weight: bold; color: #0b2e13;">
+<li style="margin-bottom: 8px; background: rgba(255,255,255,0.6); padding: 8px 12px; border-radius: 8px;">🟢 鴻海 (2317) <span style="font-size: 13px; font-weight: normal; color: #155724; float: right;">乖離 20.7% | IFT +0.99</span></li>
+<li style="margin-bottom: 8px; background: rgba(255,255,255,0.6); padding: 8px 12px; border-radius: 8px;">🟢 統一超 (2912) <span style="font-size: 13px; font-weight: normal; color: #155724; float: right;">乖離 -7.7% | IFT +1.00</span></li>
+</ul>
+<div style="margin-top: 15px; padding-top: 10px; border-top: 1px dashed #c3e6cb; font-size: 15px; font-weight: bold; color: #155724;">⚔️ 戰略：順勢做多 / 讓獲利奔跑</div>
 </div>
 </div>
 </section>
-<section style="text-align: center; margin-top: 40px;">
-<p style="font-size: 20px; font-weight: bold; color: #202124;">「這不是空頭盤，這是高空飛行盤。真正的風險不在現在暴跌，而在突然失速。」</p>
+<section style="text-align: center; margin-top: 40px; background-color: #f8f9fa; padding: 20px; border-radius: 12px;">
+<p style="font-size: 18px; font-weight: bold; color: #d93025; margin: 0;">⚠️ 散戶的致命錯誤：在最後加速段忍不住重倉加碼，最終買在空中失速點。</p>
+<p style="font-size: 16px; color: #444; margin-top: 10px; margin-bottom: 0;">量化交易的紀律：賣掉右上角的紅燈，佈局左下角的綠燈。不猜頭，只算期望值。</p>
 </section>
 <footer style="text-align: center; color: #9aa0a6; font-size: 14px; border-top: 1px solid #f1f3f4; padding-top: 30px; margin-top: 40px;">Powered by AI 量化產線 v43.0 (市場溫度計特別版) | 結合 IFT-RSI 雙指標與群體亢奮指數</footer></div>
             ]]>
